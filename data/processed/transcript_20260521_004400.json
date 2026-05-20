@@ -1,0 +1,4243 @@
+{
+  "transcript_id": "transcript_20260521_004400",
+  "source_file": "transcript_20260521_004400.txt",
+  "meeting_title": "DAILY: PLG, Website, Content, Academy, etc - Transcript",
+  "meeting_date": "2026-02-12",
+  "duration_minutes": 47,
+  "participants": [
+    "Nabil Mansouri",
+    "Nazima Piracha",
+    "Murali Krishna Yamsani",
+    "Jonathan Assayag",
+    "Natasha Turak",
+    "Shaurya Singh"
+  ],
+  "utterances": [
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Hello. How are you guys",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Hi.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "All good. How are",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "doing?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "you?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Good morning or good evening, afternoon.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "How are you all doing?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Good. Good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Great.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "How are you?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Good. Been working with Phil on um the discovery product. Starting to get some traction, starting to get some alignment on priority. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Amazing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "it's been rather nice.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Give me this. How about that?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Will we have design anytime soon for that?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Uh, it's coming.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Um,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Nice.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "just to close out on the recommendation you had. Oh, I think he's building the other one right now. Got it. Okay. So, I think that Are we good on the design of the uh of the drop down and kind of the the three rows you were talking about?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah, but I just want to confirm you don't want the additional row to appear with the three cuz one option is there's an additional row and that has the three options stated or when the user just clicks on the advanced settings icon the drop-own appears it has three options bases",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "whichever one you want to click on you can set the intensity",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I' I' I'd rather not be prescriptive about that. What I can tell you what I looked at and I think is not a good design. I think clicking an icon to then click another icon is a bad design.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay. Okay. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "we'll keep the first icon and then we'll see",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "clicking an icon and then just seeing detailed and with a dropown is also a bad design",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "how",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "because I don't know what the detailed is about.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah, makes sense. That's Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "It requires me to have another click to understand what it's about. So once I once I do the effort of clicking an icon,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I should just have like knowledge of what to choose, right? Because it's only three",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "perfect. Got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "options.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:01:27",
+      "timestamp_seconds": 87,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So, I'll just work on that like after a meeting. I think it should be",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. And like one last point just no move to this meeting but a lot of people love to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "ready.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "innovate on design. You need to be really careful to want to innovate in design because you're you're messing with people's habits and understanding of how technology works. You're just trying to get a job done.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yep.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So the simplest path is to follow stuff you already know how to do as a user already knows how to do right. You don't want to reinvent the wheel for them because it's generally when they fall",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "off.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So I actually took the reference from Gemini for this. Um and they do have like when you when you click on the drop down the first thing that just says is fast and then but basically you have to click on it again to understand what the context is and",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, let's take it offline.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "you open it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:13",
+      "timestamp_seconds": 133,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But but you that's my feedback. Like I'm not going to tell you how to do it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'm going to tell you how not to do it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Perfect. Uh just to confirm once we have the designs ready when are we shipping this to the engineering",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "team?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Get the design ready and then we should put it into a ticket for engineering and then have a conversation with",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Perfect. Okay. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "them.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Um I don't think we have a lot of updates specifically for PLG right now. Should we get started on the pricing strategy?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Let's do it. And uh I can't remember from the B was on yesterday, so we may need to bring him up to speed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Natasha Turak",
+      "speaker_org": null,
+      "text": "Should we",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Just a quick question. No,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Natasha Turak",
+      "speaker_org": null,
+      "text": "just",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I I was not on yesterday unfortunately.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Um I'm curious whether are are we still it like are people still using the tool or or where are we?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Natasha Turak",
+      "speaker_org": null,
+      "text": "I don't",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:05",
+      "timestamp_seconds": 185,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I know there were two one dropped off like where are we?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:51",
+      "timestamp_seconds": 231,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "If you could just give me like a five minute update please.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:51",
+      "timestamp_seconds": 231,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Yeah. Yeah. Yeah. So, in terms of the consultants, we've closed engagements with another two of them. So, now we have three consultants who who are done. The last one still remaining and most likely with him actually we will have our feedback session tomorrow. So, after our call today, we will send him the link to just schedule his feedback call and then um by tomorrow basically we should be done with all four of them. We've added and updated all the learnings. Um so in terms of all three parts um product, education and incentives there are some learnings that do not have an action item. So those are specifically highlighted within the document and the rest of them are just updated in the sheet and all of them have action items and next steps um and owners assigned to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:51",
+      "timestamp_seconds": 231,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "One question.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:51",
+      "timestamp_seconds": 231,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "them.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:51",
+      "timestamp_seconds": 231,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "When we say we're done, is that mean that like they're not continuing and we did our part and and like we're saying goodbye or like what does done mean?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Um well I mean not necessarily goodbye but also they just all of them basically have the reaction of okay we're going to wait and see what the product offers once it's improved. Um everyone's had the same reaction.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Can",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "We're super excited to see what you'll be offering in the improved product and we would love to continue at that point",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "then.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "So at at this moment go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "you just answer to the sorry just to help you answer your question can you just answer to Nibil when you ask the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "question how how willing are you you know how disappointed would you be to keep going with opus very disappointed somewhat disappointed not disappointed I no longer use opus what was the answer for all four of",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:44",
+      "timestamp_seconds": 284,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So Kunal didn't answer that question because with him like the conversation was very different as we discussed earlier with Diana it was I will not be disappointed right now if opus was taken away with Ashish it was I would be somewhat disappointed but there's still a lot of work that needs to be done in the product and with Eigor we've not had that conversation",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "yet",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But the vibe overall is that people are not there is no very",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "no there's no disappointed",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "disappointed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah. So, okay. So at the end like we we need we need more in order to to grab people. Okay. Got",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "And some of the product improvements that we're thinking are along those lines now. So, how do we improve the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "This to me",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "experience?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Okay. Got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "the is a little bit of the impetus of the conversation we had earlier today which is I mean PLG right now is is minute in our scope of what everything we're doing but it's it is a a temperature check",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "on how people are seeing especially because it's coming not even from process owners or business",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:40",
+      "timestamp_seconds": 340,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "owners but it's coming from automation consultants who should be more friendly to us right in that in in the ability to use the tool.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yep. Agreed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Cool. Uh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "you want to start?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Let's continue.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Right. Okay. Can you guys hear me? Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Um, so, um, on the content side,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:32",
+      "timestamp_seconds": 392,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "uh, I think it was really useful having the conversation that we had yesterday on talking about success. Um because I think we kind of had like an inflection point moment where it was like okay because you were saying okay well if you want you know good su success metrics on LinkedIn you have to get eyeballs to do that you have to be provocative. You were saying you know people aren't going to click on like an APBX white paper they're going to click on like as as Shia sent um in the Slack yesterday this sort of AI doom sloth. Um, and I really think that's not the direction we should go in because while that may get clicks and look, like I worked at CNBC for, you know, eight years, it's like, yeah, clickbait gets clicks, but we never wanted to be clickbait people because everybody also knows it's crap.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:07:32",
+      "timestamp_seconds": 452,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Like, that doesn't get people to come and buy stuff. Like, it might get them to click on it. it might get them to share it. But if our ultimate goal is to um really make something that's compelling for enterprise customers and to get sales, then I think we actually shouldn't be afraid to lean into the serious and the more boring. I mean, we can still like find ways to make it interesting um through thought leadership content, but I think um it's not really worth chasing like provocative content because it's very hard to sustain that also and there's so much of it out there. Um I don't know. I think uh and and so that then begs the question, okay, how do we like sort of recalibrate how we're looking at the success metrics? So um with like just LinkedIn in particular, um I think rather than like view counts, it's the quality of like who is actually looking at our posts, who is clicking, who is engaging. And so you can look and so um Morali has put together something where you can basically break it down by the seniority and the job titles of the viewers and we can use those as our success metrics to try and make sure that those um numbers of the specific",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:08:46",
+      "timestamp_seconds": 526,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "like roles that we're targeting uh goes up. Now of course like even if these numbers improve that doesn't directly translate to people either visiting the site or you know calling the sales you know contacting sales and it's hard it's impossible to know like if there's a direct correlation or causation rather but it's still better than nothing um if we're getting those types of eyeballs. So I guess I'll let Morali um yeah uh so related to success metric which is where we um wanted to have like a clear uh understanding about how are we measuring whatever we're doing. Uh so um the the the the direction that we are trying to take is not get just engagement rate but uh something called uh QW which is quality weighted engagement rate. Uh typically the way uh QWR managed is whenever your your post gets 100 likes and 10 comments and five shares, a share is much more valuable than like. So you assign a weightage to each of the reaction that you get on your post and you then measure uh the quality weighted engagement rate.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:55",
+      "timestamp_seconds": 595,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So here uh we want to just translate that to our uh page views on a weekly basis. So the way we want to do this is this is I have downloaded this for a particular period. Uh so we have all these five different uh six different kinds of um uh metrics that we get which is location, job function, industry, seniority and company size.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:55",
+      "timestamp_seconds": 595,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Thank you.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:55",
+      "timestamp_seconds": 595,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "This is uh the final metric is still under making but this is what we will be doing. So if you take seniority for example, we have all these kind of uh seniority levels that we can see and the total views that we have. Then we assign a score to each of these seniority levels. So here I have assigned a score of 0.1 to uh unpaid training and entry. Then assigned a score of 0.5 to senior and manager level and assigned a score of one to top management level. And we have and we got a weighted average score of 0.57.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:54",
+      "timestamp_seconds": 654,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Now uh when we start doing this LinkedIn post, this is a metric that we will be tracking on a week-on-week level uh to see if we are maintaining this or improving this. Ideally we want to improve these metrics that is we want uh more senior level people uh visit our LinkedIn page because the kind because we are saying that the post that we will be doing will be more for a senior uh uh level folks than um builders. So this is what this is the direction that we are heading towards. Uh this is still work in progress but uh would love to hear your thoughts.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:54",
+      "timestamp_seconds": 654,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So you're let me play it back. Let me make sure I understood. You're saying we need some kind of quality score about the audience type, right? And so it may over time this will be directionally helpful but not",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:54",
+      "timestamp_seconds": 654,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:54",
+      "timestamp_seconds": 654,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "specific like yesterday was 0.5 today's 57 we're directionally going in the right",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:54",
+      "timestamp_seconds": 654,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "That's right. So we should be tracking this on a week-",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "way.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "toeek level or a fortnightly level and not on a daily level.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And then you're also going to measure total",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "views.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So I want to come to one formula because we have a lot of metrics here. So for example, company size is also another important metric that we want to track. We want to get more traction from people from larger companies. Uh then there is industry. uh so uh this I I'll work on this and try to come to a number that that is reasonable but yeah the the way want to do we want to do it is like assign a weighted average score for each of these metric and then uh track that on a week toe",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. Yeah. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "basis.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I get what you're doing as a mechanic. You're just trying to take multiple metrics and come up with one metric. But that actually,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:00",
+      "timestamp_seconds": 720,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "if you break it down,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "it's actually pulling multiple metrics. What is what are you optimizing for to get this score to be a one? What has to happen?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "the share of your audience um skews towards higher uh ranks.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, higher ranks and then I'm assuming there's going to be some quantity here like number of people who are looking.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I mean this particular metric is only about distribution right because it's a weighted average.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, I'm assuming you're going to combine it with something about like quantity of view. So it's quantity user type or you know participant or viewer type",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "and then is there any aspect of engagement.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:48",
+      "timestamp_seconds": 768,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "This is a proxy. This is a proxy for engagement because um for like when we typically look at engagement right we see at on a post level like every post that we are doing what is the kind of engagement we are getting but unfortunately LinkedIn doesn't support these kind of metrics for uh post level.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "They only give us on a uh uh period level.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, the challenge that I'm just let me just get to the challenge.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The challenge that I'm seeing is that eventually if there's a quantity aspect to this, like we want more people, right, as opposed to less, then you have two routes. You either pay to play, right? You're going to throw money at LinkedIn to get more eyeballs or you have to make the content",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "more viral.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah. But we're still focused,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Sure,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "I think, on quality of visitors rather than sheer quantity.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I need",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "you can have five people at the same level.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Obviously, we do want we still do want it to grow like",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You want you need both,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right? I mean, you need the quantity.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:50",
+      "timestamp_seconds": 830,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The quantity is not to be, you know, when social media started, they were giving quantity for free.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Now, they're very conservative with quantity. You either pay to play or you need to be so compelling in what you're sh putting",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "look.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "out that it's making people on the other side of the platform who are just coming to scroll through LinkedIn want to stay and read and watch and and consume for longer and longer. That's the game. That's the LinkedIn game. That's the social media game. But I just don't know. Again, I go back to the type of posting that you're doing in order to get quantity because I I agree with the methodology here. I'm just trying to get to the next piece that you're going to have to ask yourself, which is how do we get the quantity? Is it by paying or is it by making posts something that is more and more",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So, um, on this sheet, I mean, I don't know,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "compelling?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:40",
+      "timestamp_seconds": 880,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "we haven't seen the other sheets. I if they are I don't know if they're like, uh, set up the same way.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "uh but for this sheet specifically uh I mean quantity is also very clear right like you just sum up the total views and that's your quantity for the so you like you know where you have written the score thingy um you just replace that with the sum of the views and then you want both of those metrics to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "go up so like more people are viewing it but also the distribution of people who are viewing is skewing",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "That's right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "up",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So, we have to actually come up with a number that takes into account both the quantity and quality. This is just one part which is a weighted average which tends more towards quality.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:31",
+      "timestamp_seconds": 931,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "But we have this visitor metrics where we can look at total unique visitors and subtract the people who are coming for jobs and then have a weightage to that metric. Um so uh yeah like like I said it's it's work in progress but this is the kind of metric that we want to get into that is um looking at the engagement rate by averaging or uh by distributing across multiple different metrics.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:35",
+      "timestamp_seconds": 995,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think you're still going to have to answer the question about quantity of people, right? Because I get your you're I get the the mechanics are fine. This what we're having a discussion about spreadsheet is mechanics meaning like how do I take this number add it to that number multiply by two weighted average etc. We get a number. Great. Awesome. Peace. Understood. Social media is still about quant. You're looking for quantity, right? In terms of getting these even because this exercise now pivoted from we want people to call and biopus as the major output, but we want the visibility. It's a branding play, right? I just want people to know that we exist and be looking at us and like so if if ultimately this becomes a branding play, how are you going to get to scale? Does that make sense?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:35",
+      "timestamp_seconds": 995,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah. Yeah, absolutely. Um I mean I think that's that's our probably our biggest challenge contentwise because um it brings us back to the question is like do we just want to try and do viral stuff to get to get views?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "And I I don't know. I feel like that that's like energy that's kind of distracted from um from I don't know just being taken more seriously as as a product. if that makes sense. I just I don't want us to be like pulled in the wrong direction because we want to go viral with a post.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "the the other thing I've been thinking about is and I've been writing about this a little bit on a separate document, but there's something that as we go to market and talk to CEOs that turns their head,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay. What's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right? There's got to be something, right? There is. I know there is because I'm writing about it, but there's got to be,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "up?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:48",
+      "timestamp_seconds": 1068,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "you know, the product marketing doc writes this out. Also, there is there is something out there that when we tell a CEO, they're like, \"Oh, risky startup that I've never heard of. I am interested in you, right? To like put my company on your platform.\" So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "what that is is interesting, right? I don't know. You know, viral is a different term because it depends on the audience that it can go viral for. It's not mainstream, but it is interesting to a set of people and that is engaging and that is worth clicking into. So, I'm wondering if it's feeding off of that. And I think the the premise of this u is that we put the power in the hands of the business owners,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And so so you know the boring thing like all that like that's good too but I'm giving you another another um direction to consider all and it may be an and more than an or. You may have to play with lots of directions but I do think that there's something here you know assuming",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:42",
+      "timestamp_seconds": 1122,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "the product holds that is you know AI is the great equalizer. You know we are in a world where you know folks are vibe coding more than you know nobody needs to learn to code.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You can vibe code your way through to whatever you want to rewire your companyly at at I'm going to send you this document at better cost and better speed. Opus is your solution. The two big promises that I think Opus are is making continuously to the market that is turning the heads is this idea that it doesn't have to go through your IT department.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "business owners can take hold which means you optimize cost optimize speed to rewire.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay. Okay. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'll send",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "I mean because you guys are in more more meetings with you know with investors and with",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "you",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:45",
+      "timestamp_seconds": 1185,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "CXOs what would be really useful actually is is if you can pinpoint in these in these in these conversations why is it that they decide you know what I I do want to work with you guys. I do want to give you guys funding like what is it for them? I mean, if you can literally ask them um or I can, you know, go through Arya or something and and try to get those those specific things from some of these partners if if there are any of them that you can talk to or if we can make a list of who we can talk to and say what was it actually that stood",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "out might go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "There are multiple efforts happening right now within the company to try to answer your question.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "through.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "One is McKenzie is doing a market study to figure out where we're unique in the market.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "They're going to present that tomorrow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "this.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "There's the work that our team is doing also internally myself also driving which",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "is how's our product differentiated based on what sales is saying uh and then",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:52",
+      "timestamp_seconds": 1252,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think you can ask the leaders Nabil Arya like what have you been seeing from investors and from customers Nabil if you how you're welcome to comment on this now but my read is that the answer is still non-technical you know business not I'm not going to say technical versus non techchnical I I think that kind of verbiage always gets us in a bad play. It is business owners versus having to wait out on it. The business owners can take control and drive at faster speed and cost.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Maybe no. Okay. Um so I think it Yeah, maybe we can try to do Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Sorry. Sorry. I was on mute.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "All right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "No worries.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I I was on mute.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Go ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "But I I was just saying that um I I agree with what you said, Joan. I don't think I don't I I think you you you hit it right in the nail, like the head and nail. Yeah. Nothing to add there,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think the um I think we need to do maybe a deeper dive.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "but",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Maybe we can take tomorrow. It could be a smaller group of us and we just try to and help you can help you guys hone in on the strategy a little bit",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "more.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:48",
+      "timestamp_seconds": 1308,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "But but but one thing I I will say and you and you mentioned it uh there before the this idea of dist distributed like AI I think sometimes AR uses the the term or the serial innovation sorry distributed innovation does turn heads right at least in the sales meetings I've been and and and I think it's and this idea of empowering the users now whether I think it's another question whether the the product can hold it or not I don't think we should be like giving I",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I believe we're talking about content right so if we're putting content that's a that's a promise we want to make so I think we should we should explore that more and I think that was the whole idea around prompt to process whether that landed or didn't land well if you look at the uh at the at the commercials it's all about like empowering like breaking from the chains of like of boringness or mundainess it all went through there and that's what that that campaign was trying to like to express at at the end So putting it out there as that I I I do think like that's a theme that should not be dropped.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "distributed innovation. Is that what you",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "What was that?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "said?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah. Distributed innovation. Yeah. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "empowering the users.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Empowering the users,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And by the way, this is provocative.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "moving",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "This is provocative. This is this is the provocative content.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:04",
+      "timestamp_seconds": 1384,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "faster",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:49",
+      "timestamp_seconds": 1429,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Sorry.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:49",
+      "timestamp_seconds": 1429,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "It's not provocative to teenagers or college students perhaps, right, in the mainstream, but it is provocative to our customer segment.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:49",
+      "timestamp_seconds": 1429,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:49",
+      "timestamp_seconds": 1429,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "and and I I think the provocation also can come if you want to go. And I think Natasha, you had alluded to this a couple times of of a lot of people trying and and hey, there's very strong camps. We met guys yesterday of kind of saying all of you guys are obsolete in the sense AI will just eat everything and like you like there's no place for the human being, right? And I think as a company we've taken a stance that that will not be the case. So kind of like putting the human back into the AI and and how like the human and and the and the AI play together in the future. I think it's something interesting. But it's it's a point of view at the very least that we should try to put out there to see how it lands or whether it it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:49",
+      "timestamp_seconds": 1429,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "generates",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah, I like that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Let's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Let me when we finish this meeting, let me see maybe we spend an hour tomorrow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Natasha with you, Morali, me, Nabil, and others are welcome to join, but I don't want to hold everybody up. But I would like to just deep dive into this and kind of almost like a working session as opposed to a review session because we're doing review sessions here,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "do it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right? But I think it could be worth like a workshop",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yep.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "like",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "And and to figure out what streams of like actual content is it like content that sounds like marketing is it sounds like thought leadership is it customer you know customer focused to like there's all sorts of streams where we can just sort of reformat um the themes that we want to uh focus on. So I like these these are helpful. Thank you.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Cool.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:47",
+      "timestamp_seconds": 1487,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Definitely.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:39",
+      "timestamp_seconds": 1539,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So to close morale like I don't have feedback on the mechanics. I continue to have feedback and questions on success. What are you know how do we define success? What looks what looks like we're doing an amazing job? How much is that related to quantity in addition to the customer type that giving eyeballs? Are there any particular actions we're looking for out of this or is it purely branding? And it's fine to have it be branding. We just need to know what we're getting into. The thing with branding, I've seen it over the years, is very is very hard to quantify a result besides just",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:39",
+      "timestamp_seconds": 1539,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:39",
+      "timestamp_seconds": 1539,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "eyeballs and so you're kind of throwing this bur and sometimes you're throwing money in the wind and you have no idea when, where, and if it'll ever come back. So the more we can try to manage either the expectations or the efforts or really prioritize what we think is on the grounds and we get some feedback about what we're putting out there that is really helpful.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "got it. Yeah. So I think uh we will have we will discuss this more in our work working working session with respect to who are the exact users that we want to target and the the the metrics will definitely depend on that like uh if you're doing a branding play it is it cannot be measured in 60 days. It should be a long-term play versus do we want to do it on a short-term play then things will change.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And sometimes the answer is a mix.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You do both. You do some posts that are meant to be short-term short-term call us if you have questions and some posts that are meant to be branding and you're just sort of throwing content into the wind. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "pricing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Pricing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes. Uh, I've shared the sheet in the Is it okay if I uh boost? I actually have to get back to Dubai for something.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:41",
+      "timestamp_seconds": 1601,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay. Thank you guys. See you. Um I've shared the sheet in the Slack channel. I'm putting it in the chat as well here.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Has everybody looked at the sheep besides me and the or is this everybody",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah, we have done this",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "else?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "together.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "We had to discuss.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And you're all",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah. Let's take a minute to read through it and then we can discuss.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yep.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Cool.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'm ready when others",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Uh Nability to get a chance to look at it. Sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yes, I did.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Um so John to your comments um why do we want to limit this? The idea",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, let me read the comment correctly because I don't want to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:33",
+      "timestamp_seconds": 1653,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "What? What? Sorry guys.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "was",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Ju just so you say this. Can just cuz I'm on my phone.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. So, there are several rows of the document that I that I was calling out like why do we need this? Why do we need this? And and I want to just share before we dive into the answers like what I'm trying to look at now.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, I think we're we're getting pretty aligned which is awesome. I think we we cleared a lot of the ambiguity. We're getting to the you know from the conversation yesterday was very fruitful to close. What I want to understand is what is absolutely necessary for us to cap that is now a burden on engineering to go figure out how to cap it versus you only, you know, two or three changes that they need to make between what is today and tomorrow. Even if we're a little bit overly exposed, we can rev it, you know, the next day once we start getting more traction.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:43",
+      "timestamp_seconds": 1903,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh yeah some of these are actually um not of the category that you're describing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:41",
+      "timestamp_seconds": 1961,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um so job API access yes we have discussed before but the new items specifically that I think you have highlighted which you haven't um seen before uh the rational is more that um like you know a visiting user who is trying out is not a user who uses these features and they are like more more relevant to someone who has already found value in the product. But if you want to like keep them not gated because of the fact that it will cost less engineering effort which is absolutely true uh we can do that that's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:41",
+      "timestamp_seconds": 1961,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think so.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:41",
+      "timestamp_seconds": 1961,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So yeah uh just to add to that uh yeah so uh when when we were",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:41",
+      "timestamp_seconds": 1961,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "fine.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:41",
+      "timestamp_seconds": 1961,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "looking at uh other products also they they've done this mix of giving only some only so much that users can actually experience the product but getting the features that uh is truly pro. So when we think say um a human in the loop and sub workflows one is that Shia mentioned that we these are the users who are just trying or experiencing the product.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So they might find might not find value initially but if they really find value they would not be hesitant to uh go to a pro plan just for this one",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "feature.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The way I'm looking at this experience, and I think you called it out yesterday, uh, Shroy, like, put something out there that is not the, you know, there's a time element here. Put something out there that's not necessarily what we want to be. If tomorrow we have hundreds, thousands of people joining the free plan, fantastic. We clamp the free plan further down and force people to move to pro. But I don't want to throw a ton of work to engineering when we have nobody in the free plan, right? Like you know very little number of customers and it's not like locking them from human in the loop or sub workflows or custom agents is going to make a huge difference on our side.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "F.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Do you agree?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:43",
+      "timestamp_seconds": 2023,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "that's I A fair fair argument.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Like I I would love this to be an exercise where we finish it,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "we put it into an engineering ticket, somebody over there looks at like, \"Oh yeah, 2 minutes I can do this.\"",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Ah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I I have a question about the the free plan. I is that like free forever or like does it or does it renew? I that I couldn't really understand.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:39",
+      "timestamp_seconds": 2079,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So it is free forever but they can build only 25 workflows in their lifetime and this 25 workflows includes active, inactive, archived all of them like all permutations, combinations they can just build maximum of 25 uh workflows and if they reach that limit they uh are prompted to go to pro and they have a limit on number of u jobs that they can run every uh month. So this is a monthly limit on jobs and with respect to workflows it is a lifetime uh cap while we say it's unlimited but we are capping it in the back end.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Got it. So 25 workflows whether so the moment that I but I need to build it on the canvas and then publish it. So it's a publish works correct.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "all all any kind uh published, unpublished, archived, you like there should not be a way for you to get around the limitation. So um",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "So I I want to understand that a little bit more.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "any",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Sorry guys. So I I go and I and I build I put a prompt I I have a workflow I make the four five 10 30 changes and then when is it count as one workflow what does need to happen once I save",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "It is automatically saved,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "it or once I publish it as a job.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I mean,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "right? So if you",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "yeah, that's one",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:42",
+      "timestamp_seconds": 2142,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "It could be at any stage. As long as you clicked on something and you created a workflow, then regardless of where you are on what stage you are in the workflow, it's considered a workflow,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "yeah. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Okay. What's up?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "if your question is let's say like you know that ship of thesis question, I make one workflow and then I don't have use for it so I just edit it to like change it and do a second one. Sure, that is allowed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "That is still counted as one workflow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So if like you know I just I replace my entire workflow with a new workflow within the same workflow then yes sure but you have to let go of your old one to do",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think it's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "25 un unarived workflows, right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "No, including archived here. So like active in inactive archive because if we want to remove the archiving part from here like people might figure out. So including all workflows if somebody has gone to a canvas to do something then",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:45",
+      "timestamp_seconds": 2205,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. Okay. I think it should be fine.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I would put a asterisk and put something at the bottom saying unlimited is actually capped at 25 to prevent abuse. some some legal ease thing so that uh someone can't sue the company later said you said it was unlimited for life and now we're all you know so we should just make sure we're preventing a lawsuit",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah. Uh yeah. So, so actually uh a very contradictory thought. Sorry if we uh are going in circles. In that case, why don't we just put 25? 25 also I think is like a very generous number. Even 100 here is a very generous number that we have for for",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "workflows. Why don't we just just say 25 workflows and 100 workflows here?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Do you have a point of view?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh, I I think it was just because unlimited sounds",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "better.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:38",
+      "timestamp_seconds": 2258,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "I I I remember we said that limited sounds better and and at that point of time we we were planning to cap at",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "I think 10 or so but now that we have agreed to move to 25 and 100 the those numbers sound like pretty decent by",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "See,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "themselves.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "honestly, I think it's fine to say 25 mostly because if we cast our minds back to where we started, right? Like what what was the central problem we were trying to solve was to remove this credit anxiety of,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Great.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "oh, I'm using an AI feature, I lost like one and a half credits. We've already fixed that. So, uh we've made those parts free. So, it's fine if we say 25. is that like yeah because people are going to go to the builder and they're going to realize that like you know still they can iterate on the workflows as much as they want. So it's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I would agree.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "fine.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Maybe it's simple enough.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yep.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:37",
+      "timestamp_seconds": 2317,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Even the pro plan is not unlimited. It's not a license, right? Unlimited is really the license that enterprise gets.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Sure. Yeah, that",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "works.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "then we will put a number and clearly mention uh in fine print that this includes all kinds of uh workflows not just active or inactive ones.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I don't know if you archive if that is still I guess. Yeah, it's fine. We can always come back and and edit to archive.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah. I mean we find someone like you know maybe a legitimate user finds like we find",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Let's make it simple for engineering for now.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "some legitimate user who hits 25 or 100 for that matter on the pro plan and they want more and we can figure out how to do that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. Okay. Nibil, any other questions on this? I think we should shop it around with Arya and Phil on the product meeting and lock and load.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Sounds good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:28",
+      "timestamp_seconds": 2368,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. So, let's get ready. Let's be ready to please present this to um Arya and Phil on next Tuesday during the meeting.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "All right, great. So, uh we've agreed that these four the ones that you highlighted John.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So, we will not add any other additional thing here. So, this will be part of both free and pro. The only difference that uh pro will be getting extra will be the workflows, credits, integrations. No integrations are the same like job AP access and organizations.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I think in the columns that you put forward in the design of the opus page,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I would still have several rows to make sure you're seeing because part of this is also selling the value proposition",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Of course.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "of these rows and they could just still be available or not available and then all of a sudden we just turn them to not",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah. Yeah. Yeah. So here we have a lot of things.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "available.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "So we will be doing something similar to this.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:40:35",
+      "timestamp_seconds": 2435,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "And again one thing I'm not sure if uh everybody read this. So uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And by the way, by the way, a quick trick you could do,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "text",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "go back to that page you were showing, like you could say, you know, and human in the loop check, subworkflows, check, like all these things check on pro, but you still offer them on core.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Like you just don't don't put the check box",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "there because you're not",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "It's a It's a nice trick.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "It's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "gimmicky.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "lying, right? They're they are available on pro. You're just not not making them available on",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "No,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "core.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "you mean to say we should have this like we just mention it here but not put a tick mark",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "No, no, just don't mention it here.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "here.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:23",
+      "timestamp_seconds": 2483,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So like sub workflows are just not mentioned in free.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "They're mentioned in pro but they're available on",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah. Yeah. It's so cool.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "both",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "It's gimmicky.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "not gimmicky because this is people are going to go on they're going to start using the product.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "They're not going to know, you know, and it's the person who's going to be frustrated is the person who's going to upgrade to get it, but they already have it, right? So, it'd be the opposite. It'd be annoying if I didn't have it and I got upgraded and I didn't have it again. So, it's not it's just how do we reduce the engineering work?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:42:09",
+      "timestamp_seconds": 2529,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "got it. Uh one thing before we close this, I want us to be sure clear that while we are saying pro plan has 100 lifetime uh workflows per organization, we are giving them unlimited organizations. So um yeah, if somebody wants to abuse, they can abuse and they can create more than 100. But obviously we will keep a watch on",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "just do a scrub on other platforms if they any of them say unlimited for",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "this.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "anything.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Unlimited just worry that it gets excessively towards abuse and maybe to to the point",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Oh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "we just made earlier here like putting a hundred isn't any different than a limited.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "so these guys have unlimited active scenarios which is like scenario in make is like a",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "workflow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "but they don't pay literally anything for the workflow for the Right. Because it's all empty containers.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So I don't know if we if we pay anything for new",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "organizations",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "no. No. Uh, no. Uh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "then then you can",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "because",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "leave.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "All right. Anything else to close?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Murali Krishna Yamsani",
+      "speaker_org": null,
+      "text": "Nothing from",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:01",
+      "timestamp_seconds": 2581,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "uh uh for the website uh your changes are incorporated.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I want to send an email maybe so that Nabil can take a look at it uh with a side-by-side comparison of what we have versus what we are proposing. uh because I think that'll be helpful because right now uh because we have this sort of daily cadence",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "uh I don't know at least for me what happens is that I'm only looking at it in terms of like two versus version three and not like what we have versus the final thing that we're proposing. So um I'll send them side by side u like markups and that should be okay and then maybe we can show it to Arya on Tuesday.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I think the only thing on the design that we don't have full confidence around yet for April 15th is on the homepage because we don't yet have clarity on the scope of the V2 product. So what we'll get that ideally by Friday we'll get some of that and then then we can rev the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "H.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh that's yeah I",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "page.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:05",
+      "timestamp_seconds": 2645,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "mean I still have like a proposal.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I mean sure it will get outdated but like it's not like we don't have a backup. Like if if nothing changes then we do have a version to go with.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, that's right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And so can we also work by between now and Friday to write out like a a sheet of what are the what are the work streams we are we need to kick off immediately and who are the owners for them from the current design that you have proposed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I don't want to wait till next week for us to start thinking what are the actions because some of",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Okay. Sure. We can do that. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "these are going to be like okay blog post write a blog post about how we're differentiated in other products like go do that today like there's no need to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "U Yeah. Okay. We can do that. I mean, I think most of those items is just going to be uh me or Natasha as the owners. I don't see situations where someone else would be an owner, but I can still do an",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "inventory.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I would do it just so we also see the the the breadth of the scope, how much stuff we have to build in order to get this thing up and running.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "There's probably going to be some work you need from the go team also,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And so like what what pages do they need to redesign?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Okay. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:02",
+      "timestamp_seconds": 2702,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "What are the missing pages from the menu? There are lots of them. Okay. All right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    }
+  ],
+  "action_items": [],
+  "screen_shares": [],
+  "detected_format": "gemini",
+  "normalization_applied": true,
+  "metadata_source": "parser_title+parser_date+parser_duration"
+}

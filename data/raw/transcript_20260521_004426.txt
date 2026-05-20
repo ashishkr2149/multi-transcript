@@ -1,0 +1,1351 @@
+Feb 11, 2026
+DAILY: PLG, Website, Content, Academy, etc - Transcript
+00:00:00
+ 
+Nazima Piracha: I
+Jonathan Assayag: Hey guys,
+Nazima Piracha: Hi, how are you?
+Jonathan Assayag: good. How's it going?
+Nazima Piracha: Um, how's everything on your
+Jonathan Assayag: Doing all right. Um, how do you want to do this?
+Nazima Piracha: end?
+Jonathan Assayag: Do we do you want to cover the stuff that we were going to look at together first or should we is there like a do you want to do the group first and then we can you can say
+Nazima Piracha: I think we can do the group first and then maybe we can um just go over their product marketing document at the
+Jonathan Assayag: okay cool I made some edits to the tickets that
+Nazima Piracha: end. Um is also I saw the
+Jonathan Assayag: you created can show you those as well when we meet
+Nazima Piracha: comments. Yes. So I think we can go over because I just generally want to align on the ticket structure as well um and the details. I think those are some of the questions I had.
+Jonathan Assayag: Yeah,
+Nazima Piracha: Um I think Mi is joining in a minute and then we can start the updates and the discussion.
+ 
+ 
+00:02:17
+ 
+Jonathan Assayag: great. Yeah, the ticket structure is um a little bit of the wild west right now. Not too much, not too little,
+Nazima Piracha: Yeah.
+Jonathan Assayag: just right.
+Nazima Piracha: Yeah. I'm I'm not sure because I'm really used to like, you know, going over the features in a lot of detail like writing the PRD, having all the edge cases that I could possibly think of and then working with the design team and then taking it to engineering. But I don't think that's the way we're working here. So maybe we should just um the line right
+Jonathan Assayag: We we'll get there. It's just right now they don't want it so much content that like I think just in
+Nazima Piracha: now. I don't think
+Jonathan Assayag: general what I my sense of people is that nobody everybody's mindful of AI slop and just you know it's three
+Nazima Piracha: Yes, exactly.
+Jonathan Assayag: words for you to type PRD on this feature three 30
+Nazima Piracha: Yeah. And then it go everything.
+Jonathan Assayag: pages for the engineer to read and it's like you know who who has that kind of time
+ 
+ 
+00:03:15
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: nowadays So anyway, or who who you know lack of trust also as we
+Nazima Piracha: Who believes it?
+Jonathan Assayag: interviews
+Nazima Piracha: Um, okay. I think we can we can start then. Um so we can start uh bases the updates that we had um from Diana's feedback session yesterday. Um mainly there were two things that we wanted to discuss. A was um prompt to process and had she not used prompt to process to start her workflow and generated herself or build it herself from scratch would her experience be different or not? Um so the understanding that we got from her is that because the experience is so different on Opus compared to the other tools she would have probably still felt as lost if not more than prompt to process. Um and we keep going back to this discussion actually but I think it's primarily because they focus a lot on integrations and they focus a lot on having integrations um to start their workflow. So she said I couldn't use I couldn't add an integration as the first step like I had to add so many steps and integration was one of them.
+ 
+ 
+00:04:29
+ 
+Nazima Piracha: Um whereas if she's using NA10 which is actually the tool that she's most familiar with now she doesn't get stuck in this loop and that's the update that I shared with Metalab as well. We we can um discuss that later but the problem is what do I do if I don't want you know an existing node on the canvas which is workflow input node. So this is one of the things that she discussed. Had her would her experience be different if she did not choose prompt to process? She said not really. It wouldn't have been very different. Um because she was not clear of what the different um nodes were supposed to do. She was not clear on how she had to make just like a very simple workflow work on Opus. Um the other thing was about pricing. So she did say that she did not get a chance to look at pricing at all. Um this I think we already discussed yesterday given that she had credits and she wasn't interested.
+ 
+ 
+00:05:25
+ 
+Nazima Piracha: But we did still ask her what her perspective would be as we try to decide and figure out pricing moving forward. Um so she explained to us a bit in terms of her structure for pricing for NA10. Um, she said that she switched from make to NA10 a few months ago and she did not she's not paying for NA10 because she got free credits to begin with. So, she has 10,000 credits that she has on NA10. What she does pay for is um Claude um and OpenAI. So, these are the two things that she said she does pay for. She said that for Claude she's had to top up several times. So, she starts with $25 and then she keeps topping it up because she exhausts them pretty quickly. Um, but we did ask her if this is something that bothers her and her response was, "I don't care if I have to pay some extra money um as long as the results that I'm getting are efficient. So,
+Jonathan Assayag: plus pause for a second.
+Nazima Piracha: the last thing I would buy
+ 
+ 
+00:06:24
+ 
+Jonathan Assayag: Sorry, just real quick. I think the um and Troy like keep me honest here, but the the tie here is that she's already paying for quad or open AAI and right,
+Shaurya Singh: and uh using an for
+Jonathan Assayag: but she's already paying meaning like so she pays for Opus and she still has extra credits on Claude and Open AI,
+Shaurya Singh: execution.
+Jonathan Assayag: right? the most efficient for her is to exhaust her credits on OpenAI and Claude to the maximum but not have to overpay. But if she pays on Opus and and it's batteries included, we have that issue. Sorry, Nasma, please keep going. I just wanted to connect
+Nazima Piracha: Yeah. Um,
+Jonathan Assayag: that
+Nazima Piracha: and basically her point was because then Merly's follow-up question was, "Hey, you know what? If like we're giving this built-in AI, um, would you be willing to pay a little bit more, let's say, than for example, a premium?" And she her response was, um, I don't care if I have to pay a bit more.
+ 
+ 
+00:07:20
+ 
+Nazima Piracha: For me, the most important thing is that if I'm trying to build a workflow, I don't want to be spending hours just building that workflow where in the end I don't even know if it's going to run or not.
+Jonathan Assayag: That is the best answer
+Nazima Piracha: I would rather pay more. Yeah,
+Jonathan Assayag: actually.
+Nazima Piracha: I would rather pay more. I don't care if a tool is slightly more expensive because I'm like I have less people in my team. For me, the most important thing is we deliver as fast and as efficiently as possible.
+Jonathan Assayag: That's the best answer we could get because if she was nickel and dimeming, this would not be for her because she's not going to be the most efficient price-wise. But if her time is most precious, which is awesome,
+Nazima Piracha: Yeah,
+Jonathan Assayag: then batteries included is great. You don't have to go get the batteries.
+Nazima Piracha: cuz for her the most important thing is her time. Um,
+Jonathan Assayag: Okay. So, let's let's parse out the two the two things you mentioned.
+ 
+ 
+00:08:07
+ 
+Nazima Piracha: so that's from
+Jonathan Assayag: So if we go back to the product then
+Nazima Piracha: We shouldn't eliminate prompt to process completely because this is one of the points that we were discussing yesterday. Um it would be much better to have like a simpler version and then let people decide let users decide if they want to vary between simple and complex. But completely eliminating that would not be ideal at all.
+Jonathan Assayag: Yeah, I did chat with Phil about this and um we were going through two macro solutions um for how to fix prompt to process. I mean three there's really three macro solutions. One is you just make it better. So his point is yeah I've only spent this is prompt process was deployed in November 2024 so we could do better.
+Nazima Piracha: Hm.
+Jonathan Assayag: That's one. Two is he liked the idea of the simple output simplifying the output that could maybe be less overwhelming. So we can try this. And then three is actually going the other direction which is discovery product feeds directly into a published workflow.
+ 
+ 
+00:09:26
+ 
+Jonathan Assayag: And so you don't even need to pro I mean the prompt to process is is basically the discovery
+Nazima Piracha: Huh?
+Jonathan Assayag: output which you don't have to see like you have the output and discovery and you hit publish workflow and it publishes to a workflow.
+Nazima Piracha: But so in the third option that's basically prompt to plan right where
+Jonathan Assayag: It's it's basically discovery to process.
+Nazima Piracha: you have the conversation back and forth you chat and then you
+Jonathan Assayag: No, that would be another version.
+Nazima Piracha: have
+Jonathan Assayag: That would be another version even. So that's that's a fourth way to go at it.
+Nazima Piracha: so
+Jonathan Assayag: U but that actually could also roll into the first one which is just make it better. So that's that and that's Shre's you know ticket, right? How do we make prompt processes better by going back and forth with you, getting more information,
+Shaurya Singh: Mhm.
+Jonathan Assayag: etc.,
+Nazima Piracha: What is discovery to process? Like we're completely eliminating work knowledge
+Jonathan Assayag: you just skip it.
+Nazima Piracha: graph.
+ 
+ 
+00:10:24
+ 
+Jonathan Assayag: So you you're you're So I was meeting yesterday with Phil and we kind of got a line of what a discovery feature would be, but at the highest level would be there's a tab on the website, you you hit discovery, right? tab on the product. You hit discovery. You say, "I want to kick off a new new discovery process." You type in the name of the workflow. You You hit go. It generates you a link. You send that link to five people. Those five people go on. They have a conversational experience with the chatbot. And then they get dropped into a canvas that is non uh uh non- workinging but get but shows you the nodes of what the ASIS process is and gets people to be able to debate back and forth around like a shared understanding and consensus.
+Nazima Piracha: Hey.
+Jonathan Assayag: And then once this thing is like really clear about what the ASIS is is, you hit publish, you know, publish the workflow and it publishes into an existing automated workflow kind of like prompt to process.
+ 
+ 
+00:11:23
+ 
+Jonathan Assayag: So it does that three minute span thing, shoots you something and like that should be the most accurate to map the asis of
+Nazima Piracha: Yes, got it.
+Jonathan Assayag: today.
+Nazima Piracha: But it still includes the work knowledge graph idea then during the conversation phase and then during the okay now the discovery is done. Now we'll take some time and we'll give you the workflow
+Jonathan Assayag: Yeah. Imagine the difference between imagine the difference between me writing a one paragraph
+Nazima Piracha: the
+Jonathan Assayag: prompt versus me writing 300 pages of conversational discovery from all the participants. So ideally this thing comes out much more refined but we don't
+Nazima Piracha: Yes.
+Jonathan Assayag: know we haven't tested it yet.
+Nazima Piracha: Yeah. And that's like the I I mean what we're looking at is basically probably months from now in terms of what that could look like, right?
+Jonathan Assayag: No,
+Nazima Piracha: Like that's not a quick is it?
+Jonathan Assayag: it's uh No, it's not a quick fix, but that's this is the main thing we're putting we're launching on April 15th.
+ 
+ 
+00:12:20
+ 
+Nazima Piracha: Yeah. April 15th.
+Jonathan Assayag: Yeah. So,
+Nazima Piracha: But in in the meanwhile,
+Jonathan Assayag: that's two months from now,
+Nazima Piracha: yes,
+Jonathan Assayag: but we have to we have to prototype this thing way before
+Nazima Piracha: in Okay,
+Jonathan Assayag: that.
+Nazima Piracha: got it. And in the meanwhile, do we still go ahead with the simple to complex um
+Jonathan Assayag: Yes, I think these things are independent.
+Nazima Piracha: prompt?
+Jonathan Assayag: Correct.
+Nazima Piracha: Right.
+Jonathan Assayag: Yeah.
+Nazima Piracha: Perfect.
+Jonathan Assayag: Because it doesn't discovery doesn't solve prompt to process.
+Nazima Piracha: Um,
+Jonathan Assayag: It goes discovery to process. So you're going to skip the prompting altogether.
+Nazima Piracha: got it. Got it.
+Jonathan Assayag: Yeah. Marley, go
+Nazima Piracha: Uh,
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: have a question.
+Murali Krishna Yamsani: Uh so I had one question.
+Jonathan Assayag: ahead.
+Murali Krishna Yamsani: Uh when we are talking about this discovery, I think it's really interesting what you had mentioned. Uh but I believe like when sales also go uh go to the people and have discuss there's a lot of conflicts that might happen.
+ 
+ 
+00:13:05
+ 
+Murali Krishna Yamsani: So person A might explain the process uh in one way and person B might say something completely.
+Jonathan Assayag: Yeah.
+Murali Krishna Yamsani: So are we considering that those kind of I think I don't I don't think that's an edge case but but that kind of
+Jonathan Assayag: Yeah.
+Murali Krishna Yamsani: cases
+Jonathan Assayag: Yeah. The So the the module is two parts. Discovery, which is the chat experience that gets you to a canvas, and then there's a consensus building part of the module, which you have to get to some kind of alignment.
+Nazima Piracha: Mhm.
+Jonathan Assayag: Like you can maybe only publish the workflow if you've aligned on all the conflicts that exist.
+Murali Krishna Yamsani: Got it.
+Nazima Piracha: And will we out of curiosity I know this might be too early to ask this question but will we charge users for this for this entire part where we aligning and doing the discovery
+Jonathan Assayag: unclear yet. As we defined
+Nazima Piracha: because like this minus obviously the the conversation part can also be done on tools like Mirro or Figma etc etc.
+ 
+ 
+00:14:06
+ 
+Jonathan Assayag: It can't. Exactly.
+Nazima Piracha: Yeah.
+Jonathan Assayag: So here's there's a few areas of value that I think we're going to be unique at at this one is you know if you if you had morale today go out and interview people and ask questions like he may not be an expert in the person's type of work and he may not be able to as he's interviewing someone be probing at specifically the area of expertise like I imagine like a a well-trained consultant in banking doing discovery on a workflow and being able to probe at that like there's value in in the
+Nazima Piracha: Yes.
+Jonathan Assayag: knowledge that I have when I ask you questions. The other thing that I think this tool can do is I've already talked to you now I'm talking to Shrea or or Clemensia and I'm and then because I've talked to you I should be incorporating
+Nazima Piracha: Mhm.
+Jonathan Assayag: content that you gave me into my line of questioning so that if Clemensia says something completely out of whack then I'm actually bringing it back to the baseline that you've given me.
+ 
+ 
+00:15:04
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: So those tools that you mentioned, am I read is that they don't do any of this, right?
+Nazima Piracha: Yes,
+Jonathan Assayag: It's all blank.
+Nazima Piracha: that's correct.
+Jonathan Assayag: You're starting from blank and everyone's just kind of putting content on the page.
+Nazima Piracha: Would
+Jonathan Assayag: But this is meant to be smarter at that to really try to get to a shared understanding as as fast as possible.
+Nazima Piracha: it be fair to say then we would be replacing people that we are partnering with today to sell Opus? For example,
+Jonathan Assayag: Yeah,
+Nazima Piracha: McKenzie
+Jonathan Assayag: that replacing would be a long shot, but I think starting to help scale them because there could be part of the consensus building aspect that they still need to participate in. It's just the one-on-one interviews with the whole company that you could probably reduce in terms of
+Nazima Piracha: Hm.
+Jonathan Assayag: hours.
+Nazima Piracha: Got it. Got it. Um, okay. I think I think I can kind of understand what the vision is somewhat. Um, okay.
+ 
+ 
+00:16:11
+ 
+Nazima Piracha: So, this is on the product side. So, long-term we're thinking of discovery to process. In when we hit that phase where we have discovery to process, prompt to process would not exist at all or would it still be there if somebody like an individual comes in that they don't want to use discovery to process?
+Jonathan Assayag: The name of the game is options. There's no one perfect solution.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Prompt to process inherently is a if you read the doc,
+Nazima Piracha: Yeah.
+Jonathan Assayag: you know, to the doc that you you're helping write, prompt to process is is designed to fail because you're trying to get somebody who spent probably very little time to create a prompt that is going to land exactly within an area of like perfection about what they're thinking about, which is just unlikely, right? I mean, that's what the reality is showing.
+Nazima Piracha: Hm.
+Jonathan Assayag: It's you can have this great work knowledge graph. You're either going to be overly complex or you're going to be overly simple to what the person is truly looking
+ 
+ 
+00:17:07
+ 
+Nazima Piracha: Yes.
+Jonathan Assayag: for. Um I could probably write a quick blurb to the to the group about how are we fixing prompt to process. There's like four or five different ways. Three of them or so I mentioned here. There's also prompt to node.
+Nazima Piracha: Mhm.
+Jonathan Assayag: So like you you build node up and you prompt the next node.
+Nazima Piracha: No. Yes.
+Jonathan Assayag: Like that's a really great thing that I'm I'm looking to prioritize with Phil for uh April 15th is a a brand new way to build. So everything that we can I think the the learning of prompt to process is you have to chunk it,
+Nazima Piracha: Hm.
+Jonathan Assayag: right? That's like the the core we have to break it down and chunk because if we try to just give you
+Nazima Piracha: I have to break it down. Yeah,
+Jonathan Assayag: perfection,
+Nazima Piracha: because
+Jonathan Assayag: it's overwhelming to look at a a canvas with a thousand nodes that you have to go dissect each one. It's too much.
+ 
+ 
+00:17:53
+ 
+Nazima Piracha: h cuz no user would sit down and think to generate a prompt that can cover their entire workflow from step one to step 15 and expect to generate an ideal workflow from that prompt. Fair.
+Jonathan Assayag: I think people can do relatively good prompts. I mean, our sales team can do relatively good prompts because they they know enough, but they still don't.
+Nazima Piracha: Exactly.
+Jonathan Assayag: And so I think I wonder if like why if because it's more work to do the prompt than to go build node by
+Nazima Piracha: Yeah. Yep. Yep.
+Jonathan Assayag: node.
+Nazima Piracha: Fair. Um, okay. So, I think that's on the prompt to process. And then the
+Jonathan Assayag: Any other just before we move off of that one,
+Nazima Piracha: second
+Jonathan Assayag: any other feedback from anyone on that one? Any questions?
+Nazima Piracha: uh
+Jonathan Assayag: Any comments? Shaa, just given what you've seen from Phil and such.
+Nazima Piracha: Uh, no. I think I mean no questions at this time.
+Jonathan Assayag: Okay.
+ 
+ 
+00:18:47
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: So, the plan there, the next steps there is to try to do the simplified.
+Nazima Piracha: Um,
+Jonathan Assayag: I just pinged IDR and asked them to rev um the the design ASAP so that we can get it to engineering. like I would love for them to work on that sooner rather than later and we start deploying that option to clients and just see what
+Nazima Piracha: Yeah, I think uh he was asking because he wants to align on the priority.
+Jonathan Assayag: get
+Nazima Piracha: He said I already have two or three tickets before that to work on. So maybe if you could just give
+Jonathan Assayag: Yeah. I just said to him this is 10 minutes of your time. It's literally two boxes. Could you design this?
+Nazima Piracha: that
+Jonathan Assayag: I I can design this but I want him to put a little design thinking on it. So like just do that one for 10 minutes and then go to the next thing.
+Nazima Piracha: perfect Okay. Um so because we're anyway discussing the tickets um from the product perspective we have shipped three tickets to design I think we already discussed that I share the tickets with you offline um and then one with engineering another one I have to create with engineering so which leads to the pricing discussion um because the first thing in terms of pricing is uh changing manars to AI credits um if we have aligned on this then I can create the ticket and ship it to engineering.
+ 
+ 
+00:20:00
+ 
+Nazima Piracha: But I'm not sure if yesterday we just decided that this is the direction we're going forward
+Jonathan Assayag: Yeah, AI credits to sorry,
+Nazima Piracha: in.
+Jonathan Assayag: manh hours to AI credits. The shift is simply a words word change, right?
+Nazima Piracha: That's correct.
+Jonathan Assayag: There's no backend engineering
+Nazima Piracha: Yes. But is this a decision that we've taken that we are replacing manh hours with AI
+Jonathan Assayag: work.
+Nazima Piracha: credits and do we need someone's approval
+Murali Krishna Yamsani: Um I think
+Jonathan Assayag: Go ahead.
+Nazima Piracha: on that?
+Jonathan Assayag: Go ahead.
+Murali Krishna Yamsani: uh I I think we should not call that AI credits and we should call it just credits. Adding AI will just create confusion. But yeah, I'm aligned with the point that we should replace manners with more uh colloquial or more uh familiar name which can be
+Jonathan Assayag: should probably actually call it opus credits because it's not about are you using AI or not AI, right? Which I think your point you're bringing about confusion.
+Nazima Piracha: I just
+ 
+ 
+00:20:57
+ 
+Jonathan Assayag: It's just opus credits.
+Nazima Piracha: Yeah, that works. Do we need Arya to sign off? Yeah, that's my question. Do we need Arya to sign off on this?
+Murali Krishna Yamsani: Actually
+Nazima Piracha: Because we're changing something that's pretty much a big part of his vision in terms of the word as
+Jonathan Assayag: Yeah. Yes.
+Nazima Piracha: well.
+Jonathan Assayag: So for that
+Murali Krishna Yamsani: I think this includes a big overhaul like in all the documents that we have prepared SL slides uh PPDs that we have done. So I think we have to replace it
+Jonathan Assayag: Yes and no.
+Murali Krishna Yamsani: everywhere.
+Jonathan Assayag: Because what is a manhour doesn't change and the pitch that people can still go forward with is a manh hour doesn't change. It's just on the platform especially on the SAS platform because uh correct me but enterprise also less concerning because they have licenses. So it doesn't matter. They're less concerned about manh hours here and there. So the pitching can still be manh hours.
+ 
+ 
+00:21:53
+ 
+Jonathan Assayag: It's just on the SAS platform.
+Nazima Piracha: It should be. Yeah.
+Jonathan Assayag: What am I buying and what am I consuming? So, I think the pitch to Arya is not we're going away with man-hour. Like, he could still speak manh hours if he wants to. The website can still explain what man-hour are and and say, you know, you'll save x many manh hours. That's still very valid. It's just what are you buying? You're buying AI credits or alus credits.
+Nazima Piracha: Yes, I so because I just had a conversation with Mari as well before this call as part of the interview exercise and this is exactly what she said. There's a lot of confusion to explain the concept of manars. It looks really good when you're doing a highle executive pitch to a board member because they really buy the concept of okay this is how many manars we're going to save. But if they go on the product all they want to know is how many credits do I need in order to run this many workflows.
+ 
+ 
+00:22:47
+ 
+Nazima Piracha: I think it's the conversation is as straightforward as
+Jonathan Assayag: Yeah.
+Nazima Piracha: that.
+Jonathan Assayag: Okay. So, let's take that action afterwards. We can go through and and talk about where where the maybe you can go in and map out where the changes would be needed for the
+Nazima Piracha: Okay.
+Jonathan Assayag: labeling.
+Nazima Piracha: Okay. Got it. Um and then the second part was showing um the credits on the canvas. This is another thing that we wanted to decide today and bases that then we'll prepare the um engineering ticket for
+Jonathan Assayag: Yep. Yep.
+Nazima Piracha: it.
+Jonathan Assayag: I read that ticket already.
+Nazima Piracha: Okay. Uh so are we aligned on that? Are we going to show that on the canvas?
+Jonathan Assayag: Yeah, that one needs engineering back end work.
+Nazima Piracha: Yes.
+Jonathan Assayag: So
+Nazima Piracha: Yes. Um I think that we can move forward with the pricing discussion.
+Murali Krishna Yamsani: Yep.
+Nazima Piracha: Morali
+Murali Krishna Yamsani: Uh let me share the document here. I'm sharing it in the chat.
+ 
+ 
+00:23:47
+ 
+Murali Krishna Yamsani: Uh please uh read the document. It needs some explanation from my side uh with respect to some calculations. But uh please go through uh in the
+Jonathan Assayag: Okay, there
+Murali Krishna Yamsani: meanwhile.
+Jonathan Assayag: you
+Nazima Piracha: Okay. One zap is one workflow. So does it mean just two nodes work
+Murali Krishna Yamsani: Yeah,
+Nazima Piracha: close?
+Murali Krishna Yamsani: they have uh unlimited uh only two node workflows.
+Nazima Piracha: How does that work?
+Murali Krishna Yamsani: It's like take input from one platform and give it to some other platform like we were discussing in the morning right about Google sheet and creating a LinkedIn
+Nazima Piracha: Okay.
+Murali Krishna Yamsani: message from that.
+Nazima Piracha: So, they don't really give much for free
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: then. executions. Marginal cost per execution is $2.8 on
+Murali Krishna Yamsani: Yeah, this is needs explanation.
+Nazima Piracha: app
+Murali Krishna Yamsani: So I'll once we are done reading 345 I will just take you guys
+Nazima Piracha: and Okay.
+Murali Krishna Yamsani: through is about
+ 
+ 
+00:26:42
+ 
+Nazima Piracha: So you want us to read through one and two
+Murali Krishna Yamsani: how we are approaching this and what competition is doing.
+Nazima Piracha: because I skipped those and I went sorry my bad operations per month make is it's interesting you bring your own AI you can give a million executions no see thousand operations ations but only two workflows. So you can have 500 nodes in a workflow but you can't generate more than two workflows. Operations is a job here. This is for sure wrong.
+Murali Krishna Yamsani: operations is a node here.
+Nazima Piracha: It says operation is a node.
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: Okay. So they charge per node. H
+Jonathan Assayag: It's a good question. What does it mean with markup without markup?
+Murali Krishna Yamsani: Uh so uh let me show my screen right now. If you can come to the chat John.
+Jonathan Assayag: Yep.
+Murali Krishna Yamsani: Uh so when we created this pricing right we have uh these following columns here. One is average basket size one is true cost which is what we are incurring and
+ 
+ 
+00:30:07
+ 
+Jonathan Assayag: Oh, our markup.
+Murali Krishna Yamsani: then yeah this is our markup for that particular action and then we have arrived at a
+Jonathan Assayag: Got it.
+Murali Krishna Yamsani: price.
+Jonathan Assayag: Okay. Thanks.
+Nazima Piracha: Um just a quick um thing. Um if makes setup is that like thousand operations a month but each operation is one node sort of firing then their uh marginal cost per execution is not near zero depends on the workflow because uh in the first column you're thinking about it per node but when you're defining marginal cost you're thinking about it from a per workflow run perspective
+Murali Krishna Yamsani: No. So, uh, like I think you you made this point yesterday, right?
+Nazima Piracha: for Zapier and NA10 when you're looking at per execution cost it said per uh workflow per workflow not per but when you're comparing it with make per operation is the wrong definition then because they define it separately because it's not ex to apples comparison is what I'm
+Murali Krishna Yamsani: No.
+Nazima Piracha: saying
+Murali Krishna Yamsani: So for example, you built a workflow with 100 nodes and you've consumed 100
+ 
+ 
+00:31:27
+ 
+Nazima Piracha: Yes,
+Murali Krishna Yamsani: operations.
+Nazima Piracha: that is correct.
+Murali Krishna Yamsani: Right? Now when you're running that operate running that workflow,
+Nazima Piracha: Marginal of uh
+Murali Krishna Yamsani: you would not be including any cost,
+Nazima Piracha: yeah,
+Murali Krishna Yamsani: right?
+Nazima Piracha: of course you would 100 operations 100 operations uh because I checked the pricing what you're saying in the table is correct which means uh for a workflow with 100
+Murali Krishna Yamsani: Mhm.
+Nazima Piracha: nodes uh you will only be able to run it 10 times in the month.
+Murali Krishna Yamsani: Mhm.
+Nazima Piracha: That means that your uh 100 what is the last um yeah the marginal cost is not near zero right you'll run it 100 times so $11 over 100 times yeah is your marginal cost per execution yeah so 10 10 cents 10 cents yes yes per execution
+Murali Krishna Yamsani: They sent 10 censuses per
+Nazima Piracha: considering your average is 100 nodes in a workflow yeah which I think is a bit high which is very
+Murali Krishna Yamsani: execution.
+Nazima Piracha: high Yeah. Yeah.
+ 
+ 
+00:32:27
+ 
+Nazima Piracha: It's just a confusing thing because they define it differently. That's why it's a bit confusing. Yeah. But you're right about the the way they do it. Uh which is by the way it makes sense like I guess uh their approach is that it's u either you can average it out and think about it in terms of per execution but then you know some people have large workflows and some have small. So they went all the way down and they said, you know what, we'll charge you on a per node basis so that everybody gets exactly what they pay for. There's no averaging of costs
+Murali Krishna Yamsani: Yep.
+Nazima Piracha: happening.
+Murali Krishna Yamsani: Also their nodes slightly differ from init and then zapia like they
+Nazima Piracha: Mhm.
+Murali Krishna Yamsani: have proprietary nodes like router where uh you want to you you create a new router if you want to get two actions done from one place versus you just link two nodes for other platforms. So they charge their extra and I remember seeing a couple of other nodes that they have which are proprietary to to them
+ 
+ 
+00:33:34
+ 
+Nazima Piracha: Okay, I am done reading. So, um like if there is something that you want us to like you want.
+Murali Krishna Yamsani: waiting for
+Nazima Piracha: Okay.
+Murali Krishna Yamsani: actually. So the costs that I mentioned here in point five under each plan which is uh workflow building the cost of $25 and job execution cost of $9. These are all worst possible scenarios um wherein like the the uh the person hits 95 credits mark for building workflows and 10 credit marks for hitting uh jobs and from the past users we've we have seen that almost 99% don't hit that threshold. So the actual cost will not be this but this is like the worst cost scenario.
+Jonathan Assayag: the the user research you did is only on SAS customers, right?
+Murali Krishna Yamsani: Yes. Here I've removed um all our partners in users hackathon customers
+Jonathan Assayag: Yeah. We know we don't have a lot of people building on SAS right now,
+Murali Krishna Yamsani: everybody.
+Jonathan Assayag: right?
+Murali Krishna Yamsani: That's right.
+ 
+ 
+00:34:39
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: So this this this data while helpful it's not it's very hard to just bank
+Murali Krishna Yamsani: So
+Jonathan Assayag: on
+Nazima Piracha: that that's what I uh pointed out in my comment.
+Jonathan Assayag: this
+Murali Krishna Yamsani: yeah,
+Nazima Piracha: It's like right now and PLG users don't find value so of course they are not building right uh but if the product like becomes more useful and more valuable they'll start building more which means more and more people will start hitting that unlimited guardrail.
+Murali Krishna Yamsani: right. So um I thought about it and there are two things here. one uh we when we are calling ourselves SAS or PLG uh we have to be competitive to uh competitive against the market of N8 and and Zapia while but but the but the thing is underlying we have our our costs are like really high
+Nazima Piracha: H.
+Murali Krishna Yamsani: compared to what the competitors have. So uh there are certain deviations or there are certain um uh limitations that we are working with.
+ 
+ 
+00:35:46
+ 
+Murali Krishna Yamsani: So if when when I have like when we propose this 95 credits here this is while one thing is definitely 99% of the users are below this it also comes down to how much cost are we encountering by giving this free AI credits to these users like if we achieve product market fit and great that if we go uh beyond this then I think giving a free workflow building or unlimited workflow building uh might not be possible.
+Nazima Piracha: Whoops.
+Murali Krishna Yamsani: Right now this plan uh I think in in in in from the beginning itself is for short-term usage uh when with with the current state that it is in and with the current cost of um AI like like manner or AI credit that we are incurring from the cost point of view this is what I think makes sense.
+Jonathan Assayag: Yeah, I I second the idea that this is not pricing for life. This is pricing for today.
+Nazima Piracha: H
+Jonathan Assayag: So yeah,
+Nazima Piracha: shorter.
+Jonathan Assayag: I think the challenges that I'm seeing here is that you can build you know the workflow building you're going to say unlimited but it's only 10 and there's no way to delete one today.
+ 
+ 
+00:37:03
+ 
+Jonathan Assayag: You can archive but you can't delete maybe and maybe that's okay. Maybe it's 10 nonarchchived workflows.
+Murali Krishna Yamsani: Uh actually no like if you're comparing it their credits irrespect of a user archiving or non-archchiving they have already spent those credits.
+Jonathan Assayag: Right.
+Murali Krishna Yamsani: So that
+Jonathan Assayag: Right. So,
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: so because you're talking about the downside, right? Our downside. So, I'm not sure if saying unlimited and trying to protect our downside makes sense. I'm
+Nazima Piracha: unlimited and actually just 10 workflows per lifetime is like very very
+Jonathan Assayag: not
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: things like you like saying unlimited and actual
+Jonathan Assayag: Is there any What? Sorry.
+Nazima Piracha: allowance being just 10 workflows for lifetime. Uh it's just divergent right like that there's a
+Jonathan Assayag: Right? Because you're using the 10 as the data point from the current usage profile,
+Nazima Piracha: different
+Jonathan Assayag: which is then you're skewing like the logic is not sound, right? As we talked about.
+ 
+ 
+00:38:12
+ 
+Jonathan Assayag: So I need clarity on what what the right cap would be. So you're saying at 10 it's at max $25 a person.
+Nazima Piracha: I have a question.
+Jonathan Assayag: Is that
+Murali Krishna Yamsani: Yeah,
+Jonathan Assayag: right?
+Murali Krishna Yamsani: right now this is the cost comes up to $25 per person. If you're giving 95 credits that is
+Jonathan Assayag: If I let you build 10 workflows at max, then it's
+Murali Krishna Yamsani: uh yes so again one more caveat here is when we are saying
+Jonathan Assayag: $25.
+Murali Krishna Yamsani: 10 full workflows for 9 95 AI credits this is assuming that each workflow contain consists of 9.5 I credits which is what we have as per this calculation here when we
+Jonathan Assayag: But sorry, the $25 is with markup or without markup.
+Murali Krishna Yamsani: It is without markup.
+Jonathan Assayag: So that is our bare cost. If you build 10 workflows,
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: we pay somebody $25 is really
+Murali Krishna Yamsani: Yes. So that is uh uh assuming that the 1A credit equal to
+ 
+ 
+00:39:14
+ 
+Nazima Piracha: Not
+Jonathan Assayag: high.
+Nazima Piracha: really.
+Murali Krishna Yamsani: $1.5 which uh is not clear to me yet. So in this particular calculation we just removed the markup uh and we had calculated the true cost to us which was already mentioned here.
+Nazima Piracha: By the way, does this stand prompt to workflow or by
+Murali Krishna Yamsani: This is 10 prompt workflow.
+Nazima Piracha: hand?
+Murali Krishna Yamsani: So the the kind the workflow assumed here is based on the basket that we had defined earlier. So when we had created this basket uh per workflow we said that each workflow will have one generation one.1 injection uh 0.1 policy assessments 0.1 assess four task generation. So we are considering all these actions in one workflow as one basket. Now actual workflow might depend greatly uh uh vary greatly based on what the user is using.
+Nazima Piracha: Mhm.
+Murali Krishna Yamsani: And here we have the true cost that is for one uh workflow generation we we are costed
+Jonathan Assayag: seems really high. $2.5 a workflow that I
+Murali Krishna Yamsani: $.5.
+ 
+ 
+00:40:37
+ 
+Jonathan Assayag: built
+Nazima Piracha: We can uh ask Phil for this. Uh he will have like first party data on this.
+Jonathan Assayag: just to build,
+Nazima Piracha: uh from
+Jonathan Assayag: not to run. Just to build a workflow which costs two $2.50. 50
+Nazima Piracha: from it could be um but I think we need to ask Phil
+Jonathan Assayag: cents.
+Nazima Piracha: because I think uh it directionally sounds accurate but I think two is a little high. I Yeah, but I think it's like it's still not like uh it's not 50 cents for sure and it's not $10. So directionally it's fine but I think it's probably a little bit lower in practice. I think like the assumptions here like think about quite complex workflows which uh uh PLG is unlikely to make like that level of complex workflows for
+Jonathan Assayag: Yeah.
+Nazima Piracha: enterprise.
+Jonathan Assayag: I mean, the other thing that you could start parsing out here, and I think they have it elsewhere, which is the prompt the process piece versus the non-prompting. If you prompt, you have a cap.
+ 
+ 
+00:41:38
+ 
+Jonathan Assayag: If you don't prompt, it's unlimited.
+Nazima Piracha: Yes, we could do that.
+Jonathan Assayag: So, it's like unlimited to build workflows. maximum of 10 prompt to process building
+Nazima Piracha: Uh
+Jonathan Assayag: experiences, right? So, it's still unlimited and you get 10. So, you're not really lying. You're saying you get unlimited and we we know most people are unlikely to build 10 workflows. And I think another there's another uh I think NN or somebody had has it here on
+Murali Krishna Yamsani: Oh,
+Jonathan Assayag: their No,
+Murali Krishna Yamsani: there are 50 AI credits in it in here.
+Jonathan Assayag: but it's the um workflow builder credits that N has right which is which is the the text to prompt the prompt to
+Nazima Piracha: They have Yeah, they have 20 of those.
+Jonathan Assayag: process.
+Nazima Piracha: They give you 20 messages. Uh
+Jonathan Assayag: Yeah. Build workflows from textbased prompts. So maybe the pitch here is unlimited workflows to build. Truly unlimited. You can go build them block by block, no problem.
+Nazima Piracha: But that also consumes money.
+ 
+ 
+00:42:51
+ 
+Nazima Piracha: Like if you do autolink and all.
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: Sure. Like if you're using one of those small AI features, if you're using Opus agent, if you're using autolink, if you're using custom agent, that's all money being charged
+Murali Krishna Yamsani: and if you're previewing it.
+Nazima Piracha: still.
+Murali Krishna Yamsani: Uh so we're just removing one part which is weberation which is yeah like the most expensive of all but still there are a lot of other uh features that are using
+Nazima Piracha: Can I can I give like my my unfiltered view on
+Murali Krishna Yamsani: AI
+Nazima Piracha: this?
+Jonathan Assayag: Yeah.
+Nazima Piracha: I I'm I what what changed? Because I remember as being in a room last week deciding that building should be unlimited. Then we went back to the drawing board and we sort of went back against it. Uh I but I don't follow like what changed like did did we come up with a new set of constraints maybe like I missed it did Nabil propose like something that like you know we because from where I stand it seems like we are uh this discussion of the exact numbers would be the discussion to have if we were bleeding money because users were like hammering us whether or not today but if we don't
+ 
+ 
+00:43:53
+ 
+Jonathan Assayag: Yeah, I maybe the right answer here then is just becomes write unlimited and then just cap it at X and just
+Nazima Piracha: users
+Jonathan Assayag: don't tell anybody you're capping it. And if somebody starts using it for free and they're, you know, they're power using through a certain cap, then they'll customer service like,
+Nazima Piracha: you block them.
+Jonathan Assayag: hey, it stopped working and then we solved the
+Nazima Piracha: Yeah.
+Jonathan Assayag: problem.
+Nazima Piracha: Which is a conversation we had last week also. Yeah. Because like you know like and a lot of people do this right like uh I don't know if you if people who live in the UAE have are well aware of this. We owe bank gave like 6% 7% interest rates and then every two months they have started revising it now because so many people sign up right it's fine to like give something and then say hey we can't support it we're bleeding money and we will change it but like we are going so deep into analysis for the exact sense and we have no users like
+ 
+ 
+00:44:41
+ 
+Jonathan Assayag: No, I know. I'm just trying to make sure we don't get hit with u somebody forcing us to bleed
+Nazima Piracha: This
+Jonathan Assayag: money like somebody comes in with some attack and some hack kind of schema comes in and is able to build like build infinite number of workflows on the platform and all of a sudden we start getting a huge bill from AWS.
+Nazima Piracha: right. So I mean that can like Yeah.
+Jonathan Assayag: So just so that's my point like just put a cap on the back end that like prevents anybody from going above a certain number and then if if anybody ever gets there then they'll reach out and we'll we'll go
+Nazima Piracha: Right. Yeah. So I mean and that we can like you know 50 is decent like you know 50 is not an amount of workflows like per user
+Jonathan Assayag: through
+Nazima Piracha: which is like abs it's not absurdly low. Yeah. It's not impossible to hit but it's not mostly people will never hit it. And if they do hit it there's a fair chance that they're like doing engaging in some form of abuse.
+ 
+ 
+00:45:32
+ 
+Nazima Piracha: And we can have someone investigate it and then take action whatever needs to be done. If they're an honest user, we want them to upgrade.
+Jonathan Assayag: Yeah.
+Nazima Piracha: If they are dishonest and they're using some sort of abuse, then we block them.
+Jonathan Assayag: Yeah. So, just do that.
+Nazima Piracha: Um
+Jonathan Assayag: So, just figure out what the what the cap is on the back end per month. Like how many can you build that becomes the sign of
+Nazima Piracha: yeah.
+Jonathan Assayag: abuse?
+Nazima Piracha: Yeah. I mean 50 lifetime is fine to me.
+Murali Krishna Yamsani: So
+Nazima Piracha: Uh the
+Jonathan Assayag: 50 work workflows.
+Murali Krishna Yamsani: close.
+Jonathan Assayag: 50.
+Nazima Piracha: sorry like 50 workflows like if you have 50 built workflows in your uh in your
+Jonathan Assayag: What?
+Nazima Piracha: workspace that's that's what we support as a free plan. Yeah that's it.
+Jonathan Assayag: Agree. Yeah. And we need we need something for
+Murali Krishna Yamsani: And if if no sorry I want
+Jonathan Assayag: pro
+Murali Krishna Yamsani: to get back to the 50 point.
+ 
+ 
+00:46:19
+ 
+Murali Krishna Yamsani: So are we okay if if the cost per workflow is $2.5 that is like for a
+Nazima Piracha: So
+Murali Krishna Yamsani: workflow at a maximum capacity or a basket that we defined. Are we willing to support like $125 uh on
+Nazima Piracha: but willingness is different from what's going to happen,
+Murali Krishna Yamsani: this?
+Nazima Piracha: right? Like people are not going to use it. Yeah. Like we have a product that people don't want to use like I mean consultants don't want to use it for free and we are discussing like how much if if tomorrow it happens sure I'm like block them all you should revisit block them all uh if people start abusing but right now nobody's using
+Jonathan Assayag: Yeah. So,
+Nazima Piracha: it.
+Jonathan Assayag: this is the abuse policy. This is unlimited and we're going to cap it at let let's say like 25
+Nazima Piracha: Sure 25 is also fine.
+Jonathan Assayag: workflows.
+Nazima Piracha: Most individual users will not reach 25.
+Jonathan Assayag: So, you say unlimited but you cap it at 25. Most people are not going to get to
+ 
+ 
+00:47:15
+ 
+Nazima Piracha: Yeah, like 25 generations is a lot.
+Jonathan Assayag: 25
+Nazima Piracha: Uh, yeah, most people are not going to get to that.
+Jonathan Assayag: ever in their lifetime or per month.
+Murali Krishna Yamsani: This should be
+Nazima Piracha: It's fine,
+Murali Krishna Yamsani: lifetime.
+Nazima Piracha: John. That's what I'm saying. It doesn't matter.
+Jonathan Assayag: No, I just we just need to define it to tell engineering where to cap
+Nazima Piracha: We can pick all Yeah. Uh,
+Jonathan Assayag: it.
+Nazima Piracha: it's fine. Let's make it lifetime. If somebody hits it, we will make it per month. I mean, if a lot of people start it,
+Jonathan Assayag: Yeah. Yeah. No, I agree. I agree with what you're saying.
+Nazima Piracha: we'll fix it.
+Jonathan Assayag: I'm just trying to write it so that we can close on on the combo.
+Nazima Piracha: Yeah. Yeah, you're right. You're right. It's on an
+Jonathan Assayag: So 25 will close lifetime.
+Nazima Piracha: organiz
+Jonathan Assayag: Sorry.
+Nazima Piracha: per organization.
+ 
+ 
+00:47:55
+ 
+Nazima Piracha: Let's say Yeah, because it's on an organization level. So, we need to be mindful of that. Yes. Uh because this is PLG, we can we can make an assumption that each organization equals one person. One person. Yeah. Some people will deviate from this but most people will be here because we
+Jonathan Assayag: Okay. And then the job executions,
+Nazima Piracha: need
+Jonathan Assayag: we have 10 credits.
+Nazima Piracha: to
+Jonathan Assayag: Is it per month? 10 credits per
+Nazima Piracha: say per month.
+Jonathan Assayag: month.
+Nazima Piracha: Yeah, I'm not sure. Maybe Mley can tell. Yeah, it should be. Yeah,
+Jonathan Assayag: Yeah.
+Nazima Piracha: it says per month.
+Jonathan Assayag: Should we make it per month is my question per
+Nazima Piracha: Yeah, I mean 10 executions per month sounds uh right.
+Jonathan Assayag: month?
+Nazima Piracha: Uh it's a pretty low uh usage as far as jobs are concerned.
+Jonathan Assayag: It's not executions,
+Nazima Piracha: It's very low.
+Jonathan Assayag: it's credits.
+Nazima Piracha: 10 AI credits could equate to
+ 
+ 
+00:48:45
+ 
+Murali Krishna Yamsani: Yeah,
+Nazima Piracha: like
+Jonathan Assayag: We got his credit.
+Murali Krishna Yamsani: five jobs. Again, this is at at a power user level. Yeah,
+Nazima Piracha: fine.
+Murali Krishna Yamsani: it can be more jobs for a normal user.
+Nazima Piracha: But how do we define this? Sorry. One AI credit is uh how does it relate to jobs?
+Murali Krishna Yamsani: So, um again it is taken from the sheet that we have when we talk about a basket. So if you look at this.
+Jonathan Assayag: It's the manh hour. It's the manhour concept. People will be able to see when they're building a workflow how many hour how many manh hours this workflow is
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: currently going to consume to run.
+Nazima Piracha: Okay.
+Jonathan Assayag: And so what is the number of credits you're going to give them per month? the the number of Opus credits you're going to give them per month.
+Nazima Piracha: It should be lesser than this because if Yeah.
+Jonathan Assayag: Could you be less
+ 
+ 
+00:49:34
+ 
+Nazima Piracha: If it's a normal user who is consuming like if we're saying an average is let's say five jobs so they're done they will never pay us. Um I have a question. Sorry. Uh API is gated, right?
+Murali Krishna Yamsani: API
+Nazima Piracha: For free there. So on the UI, yeah, you can it's fine. Like they would still come and keep running jobs, right? They'll get their work done. Yes. Make it as simple as possible. Uh and just say you get 10 jobs a month. 10 jobs, not AI like jobs one, let's equate it to the same because it's very confusing like you know like then as a user you have to do the math. It's like okay this workflow is 3.67 but that one is five.
+Jonathan Assayag: Yeah, but then your free plan and your pro plan are going to say different terminologies. That's really confusing. I agree with your point. I get where you're coming from. I just I I think we need to just be consistent.
+ 
+ 
+00:50:22
+ 
+Nazima Piracha: Yeah,
+Jonathan Assayag: If not, this is going to be a s***
+Nazima Piracha: you're right.
+Jonathan Assayag: show.
+Nazima Piracha: You're right.
+Jonathan Assayag: I'm f I'm fine with 10. It could be more,
+Murali Krishna Yamsani: Yeah,
+Jonathan Assayag: but 10 per month is fine.
+Murali Krishna Yamsani: I think then from uh the u uh visibility point of view also 10 looks good like
+Nazima Piracha: Okay.
+Murali Krishna Yamsani: five and all like doesn't look
+Nazima Piracha: Yeah,
+Murali Krishna Yamsani: good.
+Nazima Piracha: let's do 10. That's fine. Uh yeah, see my point of view is this, right? Uh I want to shorten the analysis cycles and increase the number of iteration cycles uh based on what we see like I don't know I feel that that is the better way to go about it because we can analyze it so much uh but we're going to can't run away from the iterating.
+Jonathan Assayag: Yeah.
+Nazima Piracha: Uh so so we start with something and then we see how users use and abuse it and then we adapt.
+Jonathan Assayag: Yeah. I mean, basically, if I had to, if you scroll all the way down, this is free.
+ 
+ 
+00:51:24
+ 
+Nazima Piracha: Mhm.
+Jonathan Assayag: Then the pro would be also the sort of this unlimited The difference is here is the abuse policy. Yep. So free and then here it's also unlimited. But then what's the
+Nazima Piracha: to be we should have an abuse policy for pro also uh it can I think it's added
+Jonathan Assayag: number?
+Murali Krishna Yamsani: Yeah, same abuse policy 25
+Nazima Piracha: there
+Murali Krishna Yamsani: workflows.
+Jonathan Assayag: Sorry.
+Murali Krishna Yamsani: Yeah. Uh, it should it should have the same abuse policy for pro
+Jonathan Assayag: Why? You just
+Murali Krishna Yamsani: users.
+Nazima Piracha: no no not same not same it should be higher uh it should only be for programmatic abuse like it
+Jonathan Assayag: paid.
+Nazima Piracha: should be something like 100 something that no human could reach but a system could
+Jonathan Assayag: Yeah.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Like a hundred.
+Nazima Piracha: Yeah. Because these are internal in our communication. We're always saying unlimited but this is how we benchmark internally. If you're paid yes you can go higher, right?
+ 
+ 
+00:52:45
+ 
+Nazima Piracha: Otherwise uh you know what happens if like we someone hits 25 on free we ask them to pay and then they open their account and they're still blocked and they will be like what the hell did I just pay you for?
+Jonathan Assayag: Yeah, but it the 100 I don't know if it's 100 or 150,
+Nazima Piracha: Yeah.
+Jonathan Assayag: but some number that's high enough then somebody will ping us when there's a problem.
+Nazima Piracha: Yes,
+Jonathan Assayag: Okay.
+Nazima Piracha: exactly.
+Jonathan Assayag: And then how many job executions per month or how many credits per month?
+Murali Krishna Yamsani: Um for now I've included 30 credits 3x uh of what we have again from the cost point of view.
+Nazima Piracha: Okay.
+Murali Krishna Yamsani: uh it can start at 30x plus for the cost that we are uh charging them we we will be giving additional features like API gateway and unlimited organizations and uh yes
+Jonathan Assayag: doesn't seem like a lot from 10 to
+Nazima Piracha: Yes.
+Jonathan Assayag: 30,
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: especially if you now have API
+Nazima Piracha: Yeah. I mean,
+ 
+ 
+00:53:51
+ 
+Jonathan Assayag: running.
+Nazima Piracha: you could uh hit it with an API in like I don't know a minute if you wanted to.
+Jonathan Assayag: So, um is is this the thing with the slider? We just have the slider and then you can pay whatever you want.
+Murali Krishna Yamsani: Yeah. Yep.
+Jonathan Assayag: But the minimum is is this
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: 30
+Nazima Piracha: But see here's what I'm saying right like uh uh think about it from okay what is the average workflow right now we'll we had the discussion on this yesterday the entire idea of having that credits visibility on
+Murali Krishna Yamsani: Nothing.
+Jonathan Assayag: No,
+Nazima Piracha: the canvas is to educate the user on how many credits a workflow is going to consume for them but but what is the number today but we don't need to know that right they need to know because they no
+Jonathan Assayag: we should. What is the number?
+Murali Krishna Yamsani: What?
+Nazima Piracha: no because look at that table it says uh $150 per AI
+Jonathan Assayag: It's a good question.
+Nazima Piracha: credit, right?
+ 
+ 
+00:54:49
+ 
+Nazima Piracha: That means if a workflow is three credits, we're charging them $3 per execution, which is quite high. 450. Yeah.
+Murali Krishna Yamsani: We're going to take
+Nazima Piracha: Yeah. Yeah. So,
+Murali Krishna Yamsani: care.
+Nazima Piracha: uh, so, so per execution, right? And so that will become quite high. No, you mean you want to confirm what this actual price is cuz we're assuming it to be 150. But I think you said Phil, I I you know, I think Yeah, I think this is what we need to do. Uh we need to ask Phil for the unit economics data. What is our average workflow? Because I the sheet that we are referring to uh this was like made when no data existed. These are literally just numbers out of someone's
+Murali Krishna Yamsani: So yeah,
+Nazima Piracha: imagination.
+Murali Krishna Yamsani: uh I've asked Phil for this, so he I'll ping again. He didn't respond.
+Nazima Piracha: He's not
+Murali Krishna Yamsani: Yeah. So I'll ping him again. But uh do do we have any other benchmarking if this could be the cost u or or like we don't have any data like is is this the only source of truth?
+ 
+ 
+00:55:54
+ 
+Murali Krishna Yamsani: Like I'm asking you guys because you are closer to product. So is this the only sheet that we have related to any kind of costing or do we have any other sheet because when I when I went to and dragon even they were referring to this sheet.
+Nazima Piracha: this.
+Murali Krishna Yamsani: So this seems to be like the source of truth for almost everything.
+Nazima Piracha: Yes. Yeah, we don't have anything else. But my point is that I think we need to confirm the number because I do know made at
+Murali Krishna Yamsani: Yeah. Yeah.
+Nazima Piracha: a time when uh we had nothing, right? Like there were no users. This was before October one launch. Um, and I think if we were to cross reference information from here from what we are actually spending in our database. I do have a question though that let's assume right we're not we're not sure that it's actually 1.5 per AI credit but even if it is and bases solely bases our conversation with Diana yesterday she said multiple times I have capped and like exhausted my limit on Claude and I keep going and paying them back $25 every now and then for not a lot of workflows that she's generating.
+ 
+ 
+00:57:05
+ 
+Nazima Piracha: So, as long as we're efficient and you don't have to pay like an LLM separately and you're just paying opus, then probably the resistance wouldn't be there. So, yeah, I actually had a question about this. What is she doing with Claude exactly? Is she using it as the LM of choice in any? Yes. Okay. So, she said for the for the very very simple tasks, she just refers to like mini model like OpenAI blah blah, but that doesn't cost her a lot really. She's not. Yeah, it's very cheap for her. But for the main things, her model is Claude and she multiple times has exhausted and keeps going back and paying 25 25. So if somebody sees value in Opus and they know that they don't have to pay outside, the only thing that they're paying here, they wouldn't resist a lot. Again, this is something that we need to validate. This is this is something that we need to confirm. But then rather than paying twice, they're basically paying once.
+ 
+ 
+00:58:03
+ 
+Nazima Piracha: I I agree with you like in principle but there are some some caveats to the comparison. One is that uh on paper there exist alternatives to claude but in practice there are no alternatives like if you really want a smart model for workflows there are no alternatives like and this is like again only the prousers would know this because they would have tried multiple models and they would have already used this sucks this works uh but for that kind of a person I think you really met someone who is a prouser because uh
+Murali Krishna Yamsani: I
+Nazima Piracha: for if she's like if she has actually gone through all the models there are no real alternatives no model will perform as well what was the decision behind having AI built in natively if we were aware that this was going to be a limitation I don't think we were aware so so we
+Murali Krishna Yamsani: think for enterprise users and PLG happened is what I see.
+Nazima Piracha: weren't
+Murali Krishna Yamsani: Uh and yeah.
+Nazima Piracha: like one thing that I can think of is also maybe like uh to signpost this right when we show them the breakdown we should show Then the execution breakdown and the AI breakdown like you know you were charged 3.67 out of which this much was execution which would this was the amount for LLM.
+ 
+ 
+00:59:18
+ 
+Nazima Piracha: Yes. And then the small number is what we tell them that this is realistically what you need to be comparing against Zapier or NA10 or whatever. But by giving them this breakdown like we can sort of communicate that like you know this is an extra thing that you got built in.
+Jonathan Assayag: By the way,
+Nazima Piracha: This is this needs to be clarified in the messaging somewhere.
+Jonathan Assayag: real quick, real quick, Clemensia, Natasha, like if you guys, if this is not a helpful conversation for you, you don't have to attend these just
+Nazima Piracha: We have to discuss content at some point in this
+Jonathan Assayag: okay only get that.
+Nazima Piracha: meeting.
+Jonathan Assayag: So yeah, I just want to make sure we're not because I feel like we're you guys come to this meeting all the time and not sure if it's a great use of your
+Natasha Turak: Yeah, appreciate appreciate you saying that.
+Jonathan Assayag: time.
+Natasha Turak: Um, it just uh we don't I guess we don't want to miss in case you guys do talk about content related things. So, if you're if you don't have capacity to do it today, that's totally fine.
+ 
+ 
+01:00:09
+ 
+Natasha Turak: I might jump off and do something else. But uh
+Murali Krishna Yamsani: Uh we have content in the agenda.
+Natasha Turak: yeah,
+Murali Krishna Yamsani: Uh we have half an hour more.
+Jonathan Assayag: Okay. Sorry I disrupted to that.
+Natasha Turak: it's it's okay.
+Murali Krishna Yamsani: Uh
+Jonathan Assayag: I'm trying to be helpful.
+Natasha Turak: I appreciate it.
+Nazima Piracha: Maybe maybe we should go through
+Jonathan Assayag: Okay.
+Natasha Turak: We could back in for like the last 10 minutes or something or I'm working at the same time so it's
+Nazima Piracha: sometime.
+Natasha Turak: fine.
+Jonathan Assayag: So, so just to get us moving from this one because if not we're going to keep going like like I think we're close. Can you guys just rev amongst yourselves and come back with like a final recommendation tomorrow so we can close on this?
+Nazima Piracha: Yes.
+Jonathan Assayag: Okay.
+Nazima Piracha: Okay.
+Jonathan Assayag: What's next?
+Murali Krishna Yamsani: Uh, next would be on the content piece.
+Nazima Piracha: Caller
+Murali Krishna Yamsani: Just a minute.
+Jonathan Assayag: Maybe just one note Natasha to you as you're thinking about how to communicate across the website across posts this idea of like how we compare to NN and Zapier on batteries included batteries not included is a really important idea that we need to figure out how to communicate because if not people are always going to think we're more expensive for no reason.
+ 
+ 
+01:01:23
+ 
+Natasha Turak: Okay, let me just note that down.
+Jonathan Assayag: If if this battery not included thing is something you haven't picked up from the conversation between today and yesterday,
+Murali Krishna Yamsani: Oh.
+Jonathan Assayag: grab the notes from these meetings from today and yesterday. Ask AI to summarize what does batteries not included mean? It'll tell
+Natasha Turak: Okay. Okay. Thank you.
+Jonathan Assayag: you
+Murali Krishna Yamsani: Got it. U so the next point that we wanted to discuss today was on the content strategy. I have shared the u uh sheets link in the chat. So you can you can use that link. Uh but here uh mainly uh we have divided our audience into three different segments. Uh so from our initial chat or when we were actually whiteboarding this particular uh content strategy piece we had divided this into uh two major buckets which is enterprises and then uh self-serve uses and under enterprises we had uh AI aspiring AI ready and AI resistant. These are the three different kind of broad buckets of organizations that we had.
+ 
+ 
+01:02:34
+ 
+Murali Krishna Yamsani: And in each organizations we have five different types of ICPS like you have buyers, you have enablers, you have uh uh people who guard rail, then you have actual builders. Uh so and and we have champions. So putting all that into uh these three audience segments here. uh so the first segment we can still call it AI aspiring and their buying motion would be top down. So these are the people or these are the companies who have adapted AI and who want to make change in their organization using AI and uh like from from the top uh down approach. So the CEOs or CXOs are actually actively looking for the solutions in in in the AI space to transform their organizations. Uh the second segment is AI ready where the the top brass have already given approvals for their uh uh to their teams in order to use AI. So for all you know they must be having a chief AI officer or automation officer and they are using AI in some form in their organizations already and um the the segment would contain mainly enablers and champions and gatekeepers here and the third one is builders and consultants uh where the group will contain most of the PLJ users the automation consultants plus the process owners or the people who are actually implementing AI in uh AI uh in in in enterprises.
+ 
+ 
+01:04:11
+ 
+Murali Krishna Yamsani: So these are the three buckets and uh the relevant channels for these three u buckets. We will get into what we will do in each channel in the next sheet. But uh this is what the uh main thought looks like. In case of any questions, please go ahead.
+Jonathan Assayag: Have you guys already gone through this between yourselves or no? This is the first time like Natasha or others are seeing
+Murali Krishna Yamsani: Natasha has already seen this.
+Jonathan Assayag: this.
+Murali Krishna Yamsani: So Natasha and I together we have prepared this. Uh but I think the rest of the team are seeing it for the first
+Jonathan Assayag: Okay,
+Murali Krishna Yamsani: time.
+Jonathan Assayag: let's go to the next
+Nazima Piracha: Yeah.
+Jonathan Assayag: section.
+Murali Krishna Yamsani: Uh cool. So we have identified uh six channels now. uh LinkedIn, earn media, earn media for actually if if you take just one step back for for the group, there are three kinds of media that we typically uh divide all our channels into.
+ 
+ 
+01:05:14
+ 
+Murali Krishna Yamsani: One is earned media, the second one is owned media and the third one is paid media. Earned media is something that u you are talked about or you are mentioned without uh you intentionally paying for that or you uh going and pursuing that. So whenever uh a blog article talks about opus or whenever somebody talks about appi in the UAE mostly that is um earn media where you're not paying for it or and it doesn't even belong to your uh uh set of channels but you are getting visibility through that media. So typically your press releases and your for example Arya had an interview on CNBC with uh uh so these are all part of earn media. The second one is uh owned media. So the channels that we control like LinkedIn, Instagram, YouTube, all of them without paying additional monies. Uh the blog post that we do all of them are called own media. And the third one is paid media which is like the name suggested.
+ 
+ 
+01:06:16
+ 
+Murali Krishna Yamsani: So we you pay money to run ads or you pay money to get featured in an article or you pay money for somebody to tag you. So this is a paid video. So we have six channels here. LinkedIn uh is our major channel for in fact almost all the personas that we have and the different kinds of content buckets we were thinking about in LinkedIn is ABpx which I think Natasha was mentioning that we should have some kind of understanding about it by month like she's having a conversation pending the bill there then thought leadership and then success stories um similarly for AI ready we have all these buckets plus we have product content which talks about say uh technology or integrations or deployment options, best practices and all of them. And when it comes to builders and consultants, the product content is the most important thing for them. And the second bucket is uh for the lack of better word we we are calling it beyond automation which means um apart from the product we need content to tell people why should they use opus which is partly what success is uh and use cases do but uh here it we will go more uh ground level like through prompt to process or a native or talking about compliance or talking about ROI.
+ 
+ 
+01:07:38
+ 
+Murali Krishna Yamsani: Um so these are the different kinds of content pieces we have here and the cadence is two to three per week and the success metrics are uh engagement rate and CPC for paid posts and when it comes to website uh we will we can track how many people are actually directly coming
+Jonathan Assayag: I
+Murali Krishna Yamsani: from LinkedIn to the website and also from for those users we can track what is the signup percentage and like talk to sales percentage.
+Jonathan Assayag: think you I think for your success metrics, you should have one metric, not four because they're your northstar metric. If not, there's no way you can I mean like if you want to optimize for engagement, you have to have provocative content. It's the only way you're going to get it. You have you have to have very provocative
+Murali Krishna Yamsani: Got it.
+Jonathan Assayag: content.
+Murali Krishna Yamsani: Got it. show.
+Natasha Turak: you describe pro provocative content. What's
+Murali Krishna Yamsani: Uh
+Nazima Piracha: go to Twitter and
+Jonathan Assayag: Like look look at social media today and what is getting clicks and and
+ 
+ 
+01:08:32
+ 
+Nazima Piracha: see.
+Jonathan Assayag: convers where the conversation flows. It's something that shocks people. It's the
+Natasha Turak: Yeah, but like as a as a workflow automator,
+Jonathan Assayag: extremes.
+Nazima Piracha: Yeah.
+Natasha Turak: are we going to be doing like shocking provocative
+Jonathan Assayag: I don't know.
+Natasha Turak: how
+Jonathan Assayag: This is why I'm think this is why I'm questioning like then that your success metric is engagement. You're gonna go bark up the wrong tree if you talk about ABPX. I mean, I don't know if ABX is provocative enough, but like, you know,
+Nazima Piracha: Good night.
+Jonathan Assayag: if you put out a white paper of how you how how um you know, workflow orchestration, redesign, engineering, blah blah blah blah blah,
+Natasha Turak: I mean,
+Jonathan Assayag: like you're not going to get a huge amount of engagement, I think, unless you've built a community of those
+Natasha Turak: I agree with you, but that's something that uh that Nville and Arya have been very big on.
+Jonathan Assayag: people.
+Natasha Turak: So, going to have to tell them that their their concept that is their baby is
+ 
+ 
+01:09:23
+ 
+Jonathan Assayag: But, but I'm not questioning the content. and pushing the success metric.
+Natasha Turak: Yeah. Yeah.
+Jonathan Assayag: You have to work backwards from the metric, right? Like if your job is, I need to get a lot of engagement on LinkedIn. How do I do it?
+Nazima Piracha: You know, you're probably going and dissing anything about There's security reach.
+Natasha Turak: I'll start
+Jonathan Assayag: Right? You're poking holes at others.
+Nazima Piracha: Yeah.
+Natasha Turak: fight.
+Jonathan Assayag: You're saying the world's going to end. People are going to lose their jobs. Like then you'll get a lot of engagement.
+Natasha Turak: All
+Nazima Piracha: Yeah.
+Natasha Turak: right.
+Nazima Piracha: The world is going to end if you use opus. But hey, for a minute we automated the world.
+Natasha Turak: Oh god.
+Nazima Piracha: Okay. Yeah, we can we can pick one.
+Jonathan Assayag: So you guys need to sit down and think through the the success metrics like really what is success?
+Murali Krishna Yamsani: Uh, can we actually debate that here out here.
+ 
+ 
+01:10:19
+ 
+Natasha Turak: Well, is it engagement from the masses or is it sales to enterprise customers,
+Murali Krishna Yamsani: Now um
+Natasha Turak: right? I mean, are the enterprise customers going to be impressed by us like talking s***
+Jonathan Assayag: This is me.
+Natasha Turak: about like I don't know throwing out provocative clickbait? It kind of I don't know if if just pure eyeballs obviously that's good. Do we want more eyeballs rather than less eyeballs? But I think quality over quantity is uh
+Jonathan Assayag: That's why that's why I'm poking at the success metric. Like for example,
+Natasha Turak: probably
+Jonathan Assayag: if you want if you want a lot of engagement,
+Nazima Piracha: Yeah.
+Jonathan Assayag: what a lot of people do is, oh, I created this code thing that supercharges you for, you know, beginner non-technical people, write ready to go, you know, write opus ready to go on the comments and I'll send it to you. I don't know how many of these you get. I have a thousand of these come through every day and I see lots of my colleagues writing going in and writing
+ 
+ 
+01:11:19
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: myself included writing like ready and sometimes I get the content sometimes I don't but I know that absolutely
+Nazima Piracha: Yeah. I do.
+Jonathan Assayag: boosts
+Nazima Piracha: Yeah.
+Jonathan Assayag: engagement
+Nazima Piracha: So, and or like you know like uh comment ready and I'll send you like this I don't know AI in
+Jonathan Assayag: right because it's
+Nazima Piracha: coin and it's just flop right like you open the guy say nothing but people want it. else.
+Jonathan Assayag: sometimes it's slop sometimes it's not slop people who probably stick with that person is not slop Again,
+Nazima Piracha: Yes.
+Jonathan Assayag: that's if you want to up if engagement is your success metric, you can't take the high road. You're going to have to do that stuff. Social media works like that.
+Nazima Piracha: Yeah.
+Jonathan Assayag: There's no, you know, we're better than the masses kind of play.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Like, I've seen people try to do that.
+Natasha Turak: Yeah.
+Jonathan Assayag: It fails
+Murali Krishna Yamsani: Here's
+Natasha Turak: Yeah. No, for sure.
+Jonathan Assayag: dramatically.
+ 
+ 
+01:12:00
+ 
+Natasha Turak: So then I think we should actually reconsider some of the success metrics in that case because I thought our main main thing was attracting enterprise customers and then of course PLG on the other level.
+Jonathan Assayag: Yeah. And I think then the question just becomes if you're on LinkedIn and your goal is to attract enterprise customers, how do you get any kind of leading metric that people are looking or like maybe it's
+Natasha Turak: Yeah.
+Jonathan Assayag: just views. Is that enough?
+Natasha Turak: Or or that LinkedIn led to customer interest.
+Jonathan Assayag: But you don't necessarily know the profile,
+Natasha Turak: Yeah. It's hard to sort
+Jonathan Assayag: right? How are you targeting specifically the seale folks at these companies?
+Natasha Turak: of
+Jonathan Assayag: I think this needs a little bit more thought leadership around it because if not we're just going to you know blast with random content like it does no good if high school stu or college students are reading this and commenting like that's not that's not the
+Natasha Turak: no. Yeah.
+Jonathan Assayag: goal.
+ 
+ 
+01:12:50
+ 
+Natasha Turak: I mean we want to be able to somehow show that we are attracting um seuite level interests uh to the website to um to contact the sales team um you know to invite us for industry events etc.
+Jonathan Assayag: Yeah.
+Natasha Turak: So that's something we have to figure out but I don't think you can find evidence to make those direct links.
+Murali Krishna Yamsani: Uh we we can do
+Jonathan Assayag: And and I would say like if it's C if you really so again here in this in this table we pivoted to channel and
+Murali Krishna Yamsani: that.
+Natasha Turak: Thank
+Jonathan Assayag: then we go to customer. If you if you pivot the other way and you go back to customer if you're really focusing on the seauite where does the
+Natasha Turak: you.
+Jonathan Assayag: seat live? Is it LinkedIn where they really consume a lot of their content that help them make this, you know, decisions or is it small groups and organizations and intros and
+Nazima Piracha: Oh no, you're
+Jonathan Assayag: whatnot that get them the the content, right? Like Arya right now is getting a lot of intros to customers through warm
+ 
+ 
+01:13:47
+ 
+Natasha Turak: Most likely Yeah.
+Jonathan Assayag: warm conversations, right?
+Natasha Turak: Yeah. Events, round tables,
+Jonathan Assayag: So I just
+Natasha Turak: you know, closed door seminars and uh intellectual
+Jonathan Assayag: right maybe community groups that exist you know young young president's club like
+Natasha Turak: events, the arts club, YPO. Yeah, exactly.
+Jonathan Assayag: what you know yeah like uh you know
+Natasha Turak: These and so that's that's much more on like a higher human level.
+Jonathan Assayag: you
+Natasha Turak: And and I think you know you can't do on LinkedIn what you can do in person in these you know that's a very
+Jonathan Assayag: right that's exactly my point which is if you're trying to target these people LinkedIn is maybe not the best idea. Like I'll give you another another point of view. Um there are courses for MBA MBA courses now um MIT, Stanford, etc. here in the US for AI transformation.
+Natasha Turak: Oh s***.
+Jonathan Assayag: Uh um uh you know,
+Natasha Turak: Okay.
+Jonathan Assayag: chief a AI transformation officers. Everybody who goes take that course is going to go get a job trying to be an AI transformation officer.
+ 
+ 
+01:14:43
+ 
+Jonathan Assayag: That's probably a very targeted place where we can sponsor their happy hour, you know,
+Natasha Turak: Cool.
+Jonathan Assayag: and get these people to learn about OP or, you know, do a quick talk or something. That's maybe much more better grassroots kind of budget spending than here where we get no connection like you can throw throwing money into LinkedIn and such like my at least this is my opinion just having seen it done over the years it goes into something and you
+Natasha Turak: Awesome.
+Jonathan Assayag: know who knows what comes out on the other side like you have very little visibility to what actually got
+Nazima Piracha: That's the voice.
+Jonathan Assayag: served it's just the easiest thing to sit back put the put the checking account number hit go and like watch the money
+Natasha Turak: Yeah. No,
+Jonathan Assayag: No.
+Natasha Turak: you've got a good point. That's good insight actually. I appreciate that. Um, so then we have to focus also um on more human activities um and events.
+Jonathan Assayag: Well, my point is just again what is the success me like think about the go back to the audience segmentation think about the customer who is the who is the who is the persona and then go to the channels from that right it's very easy to just say leadership driven CXOs LinkedIn like right but is LinkedIn the best channel or not and then and then think about you know where do they consume the content that influences them based on the success criteria area.
+ 
+ 
+01:16:05
+ 
+Jonathan Assayag: If the successor is getting a sales call, LinkedIn may not be the best. You know, they're not going to they may not just be looking around LinkedIn,
+Nazima Piracha: Yeah,
+Jonathan Assayag: hit call and and and give somebody a
+Natasha Turak: What's that?
+Nazima Piracha: I I'm actually thinking of an example as we speak because um I'm trying to
+Jonathan Assayag: call.
+Nazima Piracha: recall there is a podcast that goes live every morning. I'm just trying to recall what the name is, but basically every audited. No, acquired. Yes. Every single podcast that they do, they talk about a specific product that they're trying to sell. It's literally like during the podcast,
+Natasha Turak: Thank you.
+Nazima Piracha: they talk about it. And more likely than not we know the kind of folks who are listening to those podcasts is that audience like people who are in in this specific space.
+Jonathan Assayag: Yeah.
+Nazima Piracha: So and I'm sure that's why there are so many people who are also going and pitching for their products to be advertised over
+ 
+ 
+01:16:57
+ 
+Natasha Turak: Yeah. Okay,
+Nazima Piracha: there
+Natasha Turak: that's uh that's really good noting that down.
+Nazima Piracha: beyond our price point though at this point.
+Natasha Turak: Then I mean the types of the types of media that they can
+Nazima Piracha: But I'm sure there are there are some that are in our Yeah.
+Natasha Turak: That's that's a really hard question to answer considering.
+Nazima Piracha: price.
+Natasha Turak: Yeah. And then things like obviously, you know, the Financial Times and CNBC and the Wall Street Journal.
+Nazima Piracha: Uh
+Natasha Turak: I mean, seues are are always reading and consuming this kind of news. Obviously, that's harder to do because we have to actually produce news that makes that like meets the bar for publications like that to want to write about this. Um, so that's obviously one of my KPIs that I'll keep working on. But um those things lend credibility as well in a in a big way. But it's not like you're going to be showing up in the FT every week, you know, like you might get a profile maybe if uh you know, play your cards right, but
+ 
+ 
+01:17:58
+ 
+Jonathan Assayag: Natasha,
+Natasha Turak: um
+Jonathan Assayag: my reason is you're going to have to have some provocative thought leadership. It's right. It has to be, you know, to get attention in a sea of noise.
+Natasha Turak: send this guy
+Jonathan Assayag: And I don't mean provocative in a negative way like it could be ABPX folks are doing it wrong
+Nazima Piracha: What?
+Jonathan Assayag: or most companies are trying to rewire sequentially where we are you know Opus
+Natasha Turak: I'm
+Jonathan Assayag: can do it in parallel or folks are are trying to focus on IT uh techn users and you need you know people in order to rewire properly and quickly you need to focus on uh non-
+Natasha Turak: Yeah.
+Jonathan Assayag: tech users right so what is it that's going to be provocative that's working in sales conversations. And then how do you spread that message?
+Natasha Turak: Okay. Got a lot to think about. It's tricky.
+Jonathan Assayag: So like going back, I think I'd love to align on what the what the metrics are, success metrics are,
+Murali Krishna Yamsani: So
+ 
+ 
+01:18:58
+ 
+Jonathan Assayag: and it can't be four things because then you're then you can't optimize for all any of
+Murali Krishna Yamsani: yeah,
+Jonathan Assayag: them.
+Murali Krishna Yamsani: agree on that.
+Nazima Piracha: M.
+Murali Krishna Yamsani: So uh John like when Nadash and I were discussing right so LinkedIn like what what we were discussing right now are all valid points. uh LinkedIn as a channel would always like LinkedIn for all these segments and YouTube for PLG users would remain as a hygiene channel. uh which means that we have to be present in these channels uh irrespective of we are are seeing results or not because when somebody comes uh hears about opus and comes to the uh LinkedIn channel or website or uh search for the product on YouTube we have to be present and that's why these are the um uh topics or themes that we have identified and with with a particular cadence that we will be doing this post or these topics at least twice or thrice every week. So that um the like there is some conversation happening on LinkedIn about uh opus and AI but what you have mentioned rightly is that we might not be able to get a lot of leads from here or we might not be able to get a lot of uh signups from here but this will keep building into the other channels which is organic or backlinks or even when somebody hears about opus they come and they check and they see oh these guys are doing XYZ.
+ 
+ 
+01:20:30
+ 
+Murali Krishna Yamsani: So this will add as a backup to other channels. So like this is this is a hygiene thing and we should definitely do this and this is what actually Natasha and I were discussing uh in the morning and the other channels that we're talking about this earn media uh the events like events we have a list of planned for this year and uh mostly almost all the H1 events are closed which I have mentioned them here. So these are the ones that will actually give us warm uh leads and which will give us uh contacts and people who we are going to talk to especially with enterprises and u this is a new thing that we wanted to um uh discuss again about this should we conduct private roundts u like one we did with uh like we haven't done but we have collaborated with hub hub 71 to launch opus there where it's an incubator where all the startups have come to one place and uh Arya and Phil actually demonstrated Opus and launched. So should we be doing these kind of events uh in collaboration?
+ 
+ 
+01:21:33
+ 
+Murali Krishna Yamsani: So these are the three things that will give us
+Jonathan Assayag: you can do whichever thing you want to do.
+Murali Krishna Yamsani: what
+Jonathan Assayag: I just need to know what is success look like for each of these things because if if I'm a c
+Nazima Piracha: and basically should
+Jonathan Assayag: to going back to the point you said if I'm a customer and you're you're expecting me to be able to land on Opus's LinkedIn profile and it's bare bones like she posts every day but nobody comments likes nothing. What does that mean? there's no followers. So what did we fail? or she shows up on LinkedIn and hey thousands of people are commenting and liking you know lots of followers like okay maybe that's success so to get so so okay so if we're saying one of them is success because you have lots of like you have lots of followers and commenters and you know posts are get a lot of visibility great how do you get to that and it's not going to be just posting whatnot it's going to be spending money it's going to be posting more provocative content It's going to be, you know, there are lots of tactics today on LinkedIn.
+ 
+ 
+01:22:36
+ 
+Jonathan Assayag: You can look it up on different websites or even go to Gemini and ask like what are the best tactics to get high engagement on LinkedIn and like you're going to have to follow those tactics. There's no way out, right? We're trying to break through the noise. You're going to have to you're going to have to look for provocative content that gets gets eyeballs. It can be it doesn't have to be the world's going to end.
+Nazima Piracha: Kareem,
+Jonathan Assayag: It can be images. It can be uh videos.
+Nazima Piracha: a second
+Jonathan Assayag: It can be things that get posted right like it can be content that hey you know make a comment here and I'll send it to you like what are the things that on LinkedIn are going to get started getting likes and build audience community etc.
+Nazima Piracha: They wanted to announce their partnership with uh Dubai Chocolate. No, you're not mute by the way. I'm just pointing.
+Jonathan Assayag: Say that again.
+Nazima Piracha: No, we were just discussing. So, Karim recently did a campaign on LinkedIn.
+ 
+ 
+01:23:31
+ 
+Nazima Piracha: They wanted to announce basically their partnership with Fix. So, they literally created a job posting that was called Chief Chocolate Officer. That created a lot of buzz. It took a week and after a week basically the announcement on was that we have fix on board and we're the only exclusive people who will basically be selling fixed chocolate. But that was so much buzz that was created by just that one job post.
+Jonathan Assayag: Yeah. So, there's no way out of that stuff, right? Like you you you can't expect to just put in engineering white papers and all of a
+Nazima Piracha: Yeah.
+Jonathan Assayag: sudden it's going to go virus
+Nazima Piracha: Yeah.
+Jonathan Assayag: my energy. You know, we'll post uh a partnership announcement that we're doing, but that's like we don't really care what kind of engagement we get. What we actually care about is coming out of a conference. What's success out of a conference? Success out of a conference is the next day Nabil gets 10 calls for leads.
+ 
+ 
+01:24:29
+ 
+Jonathan Assayag: So that's how we know we're doing conference as well. If if we're coming to conferences and nobody calls us the next day to get leads, we failed. We need to know what the gold standard is of doing these things. Like what is the what is success? If we don't have a really clear definition of success, we're going to do a ton of stuff. We're not going to know if it's actually working. And some people are going to show up to that thing and say it's not working. So that's why I'm saying it's like sharpen the axe before we start chopping. Have really clear definitions of success before we do things. We're going to do this on the website, too. On the on the product, we need metrics. We need northstar metrics. We need clear metrics for how we know the website's working.
+Murali Krishna Yamsani: Cool.
+Nazima Piracha: Mhm.
+Murali Krishna Yamsani: Uh so we Nash and I will go through once again and maybe this time we'll have some content bucket types as well like some topics for the content and um as of now I mentioned northstar metric as website visitors which is the most logical uh notch metric for for us right now.
+ 
+ 
+01:25:34
+ 
+Murali Krishna Yamsani: Uh but again we will go through this and we will share in case of any changes are there.
+Jonathan Assayag: Yeah. And maybe the last point I'll give you just as a suggestion to think through. Go both directions. Go start with the customer and look what you need to go do to get the customer. And then you say, "Hm, I didn't hit LinkedIn at all." And then go the other direction. Okay. I really want to do LinkedIn though. I'm not sure exactly why. What's success for LinkedIn? Go that direction and then meet in the middle. Cool.
+Murali Krishna Yamsani: Cool.
+Jonathan Assayag: Okay. Anything else?
+Murali Krishna Yamsani: I think we have website that
+Nazima Piracha: website.
+Murali Krishna Yamsani: sorry
+Nazima Piracha: Uh yeah. Should I just send you the V3 async? I don't know.
+Jonathan Assayag: Yeah,
+Nazima Piracha: What do you want to do?
+Jonathan Assayag: you saw the comment yesterday. I left detailed comments.
+Nazima Piracha: I operated all of those.
+ 
+ 
+01:26:19
+ 
+Nazima Piracha: There's a new version uh in the Slack.
+Jonathan Assayag: Okay, let's look at it for five minutes just because then I have another
+Nazima Piracha: Uh sure.
+Jonathan Assayag: meeting.
+Nazima Piracha: Uh yeah, my laptop is dead. Can you open Slack? Yeah.
+Jonathan Assayag: Hold on.
+Nazima Piracha: Where did you send it? The same PMGTM group. The last one. Yes. Okay.
+Jonathan Assayag: for three.
+Nazima Piracha: Yes. V3. So this is uh basically in the change log you can see that uh this one. Yeah. V3. Yeah. Uh everything that has changed is basically based on the feedback that we had. Uh does everyone have it open or should I share it?
+Murali Krishna Yamsani: No, I have it open. I have it
+Jonathan Assayag: Um,
+Nazima Piracha: Yeah,
+Murali Krishna Yamsani: open.
+Natasha Turak: Where is this? Uh,
+Nazima Piracha: it's uh the newest thing on the Slack BMGTM sales.
+Natasha Turak: try. All right.
+Nazima Piracha: Yeah. Uh you want to go to proposal V3.
+ 
+ 
+01:27:14
+ 
+Nazima Piracha: That's the tab in the document. Uh with each section you have a summary of what has changed. So uh follow along.
+Jonathan Assayag: Did my comments make sense or were you like, "Hey, this one doesn't make any sense, but I'll do it just because it's
+Nazima Piracha: Uh no no no. I don't think I had any like uh uh uh strong objections.
+Jonathan Assayag: Johnson.
+Nazima Piracha: Like when I looked through that I was like yeah this makes sense. It's fine. Yeah. Uh not nothing specific to flag that way. I think like most of I think uh I think what I did was that I sort of overcorrected to the writer direction and then you brought me back to the ideal state. So uh so that's fine. Uh yeah I think like in terms of open questions what is opus has one open question which is mentioned. Um so that's the second item under navigation. Uh yeah, let me know when you've uh finished reading it and then I'll share it so that you can follow along like where I am uh when we talk.
+ 
+ 
+01:29:10
+ 
+Jonathan Assayag: Yeah, I have minor tweaks to this and then um uh there's a conversation that I'm having. I think you got invited to that Phil set it up for I think it's like 6 a.m.
+Nazima Piracha: Tomorrow morning.
+Jonathan Assayag: your time to go finalize because I met with him for two hours yesterday to try to figure out the Opus V2.
+Nazima Piracha: Yes.
+Jonathan Assayag: I think that'll also hit what the homepage design is looking
+Nazima Piracha: Okay. Okay.
+Jonathan Assayag: like.
+Nazima Piracha: Sure. I don't know if it's needed or not. Mhm. Why can't we do like some kind of community thing in the footer or resources somewhere? We can put community but like what what will we put in there like uh do we have a discord or something like that like since we are like in very early stage I don't think so like maybe like for the partners or for the automation experts like to join the community and like but but that community like is that a new platform? Are we bu are we building it?
+ 
+ 
+01:30:05
+ 
+Nazima Piracha: Are we buying it? Like what is it? Is it discord? Are we creating a Slack channel? Slack. Discord. Uh, we have a discord. I mean, I think Discord is anyway linked even today. Um, so yeah, I mean depending on like what we use. If it's like a completely new thing, then we can put a community footer. That's fine. Yeah, we can put it under resources also. Like that's fine.
+Jonathan Assayag: Um, can I give you my comments real quick or I'm just gonna write them in?
+Nazima Piracha: Um, it's it's it's easier if you wait a second. Wait, let me just uh Yeah. No, when I was on my laptop, I had the recording, but then my laptop died. So, let me just uh Okay,
+Jonathan Assayag: I I'll write them in real quick,
+Nazima Piracha: sure.
+Jonathan Assayag: but it's
+Nazima Piracha: I mean, you can now say them also. It's being recorded. You are all being recorded, guys.
+ 
+ 
+01:30:49
+ 
+Nazima Piracha: Just GDP
+Jonathan Assayag: okay. So,
+Nazima Piracha: notification.
+Jonathan Assayag: um I'll go very quick because we I have to jump to a meta lab call.
+Nazima Piracha: Okay.
+Jonathan Assayag: But um on the navbar,
+Nazima Piracha: Yeah.
+Jonathan Assayag: I'm good. What is opus? Should be product overview copy. Yopus integrations release notes is a strange thing to say like we had just the latest but I know
+Nazima Piracha: Uh I uh yeah yeah
+Jonathan Assayag: I know what you're trying to do. It may take you to release notes.
+Nazima Piracha: yeah okay
+Jonathan Assayag: It just reads weird. It reads devike as opposed to user friendly.
+Nazima Piracha: maybe let's see
+Jonathan Assayag: Yeah. What's latest or you know latest updates or something like that.
+Nazima Piracha: okay okay
+Jonathan Assayag: Whatever we had on the V2 version. Um solutions by industry by departments by type is fine.
+Nazima Piracha: Okay.
+Jonathan Assayag: It doesn't need to be customer type. By type is totally fine.
+Nazima Piracha: Okay.
+Jonathan Assayag: I think people will read below and understand enterprises enterprise I don't know if it's plural or
+ 
+ 
+01:31:33
+ 
+Nazima Piracha: My Okay. So,
+Jonathan Assayag: singular.
+Nazima Piracha: there's a do we do we call it uh customers or do we call it enterprise? So, right now I think like between uh since yesterday one change is that uh it's now called customers even though when you click on it it's going to be a more enterprise focused page. Uh but if you want we can call it enterprise. Uh so I prefer calling it enterprise. Yeah.
+Jonathan Assayag: at the top at the top
+Nazima Piracha: Uh top bar. Yes.
+Jonathan Assayag: bar.
+Nazima Piracha: Uh so writer uses the terminology customers and then when you go into the landing page it's like a mix of customer showcase plus enterprise offerings.
+Jonathan Assayag: I think I would I would start with I would just do both.
+Nazima Piracha: Um
+Jonathan Assayag: So I would do customer at the top and then in by customer type you have
+Nazima Piracha: okay.
+Jonathan Assayag: enterprise BPOS's automation consultants and when you get to the page you have all of it.
+Nazima Piracha: Right.
+Jonathan Assayag: So because we need to build uh quantity of customers if not it's going to look bare bone if you're just trying to do enterprise.
+ 
+ 
+01:32:28
+ 
+Jonathan Assayag: So I would try to do as many as you can on that
+Nazima Piracha: Right.
+Jonathan Assayag: page.
+Nazima Piracha: Okay. Sure. Sure. So, so the customers uh uh link in the top level navbar goes where? It goes to the enterprises page inside by customer
+Jonathan Assayag: Yeah,
+Nazima Piracha: type.
+Jonathan Assayag: I think when you I mean I don't have to design it here with you,
+Nazima Piracha: I mean you can
+Jonathan Assayag: but I'm just trying to think like you click customer, you go to the page that has all types like Ryder does.
+Nazima Piracha: Okay.
+Jonathan Assayag: If you click enterprises,
+Nazima Piracha: Okay.
+Jonathan Assayag: it it maybe takes you to a page that's just for enterprise and filtered the content or
+Nazima Piracha: Got it. Got it. Got it.
+Jonathan Assayag: so.
+Nazima Piracha: Got it. Okay. We can do that. Yeah. Um then we
+Jonathan Assayag: Customer pricing resources, I I don't know if featured goes on the left.
+Nazima Piracha: have
+Jonathan Assayag: It may go on the right.
+ 
+ 
+01:33:10
+ 
+Jonathan Assayag: Just something to think about. I I saw your comment about IDAR. We'll comment on it.
+Nazima Piracha: Yes.
+Jonathan Assayag: Uh resources academy blog partner directory help center trust center developer documentation integrations templates. I think that is fine.
+Nazima Piracha: Yeah, if you want I can break this resources down into like uh two categories. If this one list is getting too long u it can be something like learn and then support.
+Jonathan Assayag: I'll leave that to you. I think you can take a look at that and see if that's valuable.
+Nazima Piracha: Okay.
+Jonathan Assayag: But I think by the end,
+Nazima Piracha: Okay.
+Jonathan Assayag: the goal is by the end of this week, we should wrap this up and get this thing start,
+Nazima Piracha: We we're going to move this down. Yes.
+Jonathan Assayag: you know, break it down into a table and say who's the owner of each of these and let's start building stuff.
+Nazima Piracha: Yes. Yes. Yes.
+Jonathan Assayag: I think we're getting already pretty organized and where we need to go.
+ 
+ 
+01:33:54
+ 
+Nazima Piracha: Mhm.
+Jonathan Assayag: Cool. I got to jump.
+Nazima Piracha: Cool. All right. Uh uh we did not cover the homepage.
+Jonathan Assayag: Thanks.
+Murali Krishna Yamsani: Thank you.
+Nazima Piracha: Uh that's the last thing.
+Jonathan Assayag: Yeah, the whole page I will come back to.
+Nazima Piracha: Uh feel free.
+Jonathan Assayag: It looks good what you have. You revved it to what I I mentioned. Let me come back after the call with
+Nazima Piracha: Yeah, sure. If you have any thoughts,
+Jonathan Assayag: Phil.
+Nazima Piracha: you can just leave them there and I'll rework it. I think for next steps, we should then send it over to Nabil and Arya. See what they have. uh but a slightly more highfidelity version. So what I'll do is I'll have the current opus.com and like a mockup of what we are proposing in terms of structure so they can see it side by side because seeing it like this it's easy to lose context of what currently exists and what are we proposing. Yeah. Okay. Sure. We can do that too. Yeah. All right. Uh okay. Sounds
+ 
+ 
+Transcription ended after 01:34:43
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

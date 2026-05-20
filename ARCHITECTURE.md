@@ -166,20 +166,39 @@ Each chunk stores:
 the top `TOP_K_RESULTS` chunks (default 12). The result is converted into
 `RetrievedChunk` dataclasses for easier consumption downstream.
 
+### Accuracy framework (catalog + router + diversified retrieval)
+
+To avoid wrong meeting counts and incomplete cross-meeting answers, the
+chat path uses three extra modules:
+
+| Module | Role |
+| --- | --- |
+| [`src/retrieval/catalog.py`](src/retrieval/catalog.py) | Authoritative list of indexed meetings (merged from Chroma + `data/processed/*.json`). Injected into every LLM context as **INDEXED MEETINGS**. |
+| [`src/retrieval/query_router.py`](src/retrieval/query_router.py) | Heuristic intent routing: `inventory`, `per_meeting_summary`, `cross_meeting_synthesis`, `specific_fact`, `attribution`. |
+| [`src/generation/validator.py`](src/generation/validator.py) | Post-answer checks (e.g. claimed meeting count vs catalog). |
+
+`AnswerGenerator.answer` (see [`src/generation/generator.py`](src/generation/generator.py)):
+
+1. Refreshes the catalog.
+2. Builds a `QueryPlan` from the user's question (not the enriched retrieval string).
+3. Retrieves via `retrieve_for_plan` (diversified or per-transcript).
+4. Formats context with catalog block + excerpts.
+5. Validates the answer and returns `warnings` for the UI.
+
 `Retriever.format_context` groups results by `transcript_id`, sorts the
-groups by meeting date and emits a context block like:
+groups by meeting date and emits:
 
 ```
-=== Meeting: Impromptu Zoom Meeting - May 04 (2026-05-04) ===
-[Excerpt - 1:13 - 2:23 | speakers: Andrew Gaikwad, Learner Park Media]
-[Andrew Gaikwad @ 1:13]: And so I think our biggest challenge is...
-[Learner Park Media @ 1:24]: And the webinar is one-hour training...
+INDEXED MEETINGS (authoritative — use for counts and dates)
+1. DAILY: PLG... (2026-02-09) [transcript_id: ...]
 
-=== Meeting: Impromptu Zoom Meeting - April 29 (2026-04-29) ===
+MEETING EXCERPTS (evidence — use for what was said)
+=== Meeting: DAILY: PLG... (2026-02-09) | transcript_id: ... ===
+[Excerpt 1 | chunk_id: ... | 0:00:00 - 0:05:00 | speakers: ...]
 ...
 ```
 
-This is what the LLM sees as "MEETING EXCERPTS".
+The LLM is instructed to use INDEXED MEETINGS for counts and EXCERPTS for content.
 
 ## Prompting (`src/generation/prompts.py`)
 
@@ -280,7 +299,21 @@ All in [`src/config.py`](src/config.py) (overridable via `.env`):
 | `CHUNK_SIZE` | `500` | Max tokens per chunk |
 | `CHUNK_OVERLAP` | `50` | Reserved (overlap is measured in utterances, see `chunker.py`) |
 | `TOP_K_RESULTS` | `12` | Chunks retrieved per question |
+| `MAX_CHUNKS_PER_TRANSCRIPT` | `3` | Cap per meeting in diversified retrieval |
+| `PER_MEETING_CHUNKS` | `2` | Chunks fetched per meeting for per-meeting summaries |
+| `RETRIEVAL_OVERSAMPLE` | `24` | Initial pool size before per-transcript dedupe |
+| `INVENTORY_TOP_K` | `0` | Chunks retrieved for pure inventory questions |
 | `MAX_CHAT_HISTORY` | `10` | Turns sent to the LLM as history |
+
+### Re-index after parser changes
+
+If transcript parsing logic changes, rebuild the index so Chroma metadata
+matches the new titles/dates:
+
+1. Admin → **Manage & Reindex**, or
+2. `python -m scripts.ingest_transcripts --reset`
+
+Raw files in `data/raw/` are re-parsed with `normalize_transcript_text()` applied.
 
 ## Extending the POC
 

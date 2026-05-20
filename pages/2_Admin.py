@@ -20,6 +20,8 @@ st.set_page_config(
 )
 
 from src.config import OPENAI_API_KEY, PROCESSED_DIR, RAW_DIR  # noqa: E402
+from src.ingestion.extractors import extract_text_from_file  # noqa: E402
+from src.ingestion.formats import TranscriptFormat, format_label  # noqa: E402
 from src.ingestion.service import (  # noqa: E402
     IngestResult,
     delete_transcript_fully,
@@ -148,10 +150,25 @@ def tab_overview(store: TranscriptVectorStore) -> None:
         return
 
     st.markdown("<div style='margin-top: 0.6rem;'></div>", unsafe_allow_html=True)
+    try:
+        from src.ingestion.service import list_catalog_records
+
+        catalog_rows = {r["transcript_id"]: r for r in list_catalog_records(store)}
+    except Exception:
+        catalog_rows = {}
+
     for t in transcripts:
+        tid = t["transcript_id"]
+        cat = catalog_rows.get(tid, {})
+        title = cat.get("display_title") or t.get("meeting_title") or tid
+        if cat.get("title_is_date_only"):
+            st.caption(
+                f"`{tid}`: title looks like date only — re-index after re-uploading "
+                "with the updated parser."
+            )
         transcript_card(
-            title=t.get("meeting_title") or t["transcript_id"],
-            transcript_id=t["transcript_id"],
+            title=title,
+            transcript_id=tid,
             date=t.get("meeting_date"),
             chunks=t["chunk_count"],
             speakers=t.get("speakers") or [],
@@ -161,8 +178,23 @@ def tab_overview(store: TranscriptVectorStore) -> None:
 def tab_add(store: TranscriptVectorStore) -> None:
     section_header(
         "Add a new transcript",
-        "Paste the transcript text or upload a .txt file. The system will parse, chunk, embed and index it for you.",
+        "Paste text or upload a .txt / .docx file. The system auto-detects the format, then parses, chunks, embeds and indexes.",
     )
+
+    with st.expander("Supported transcript formats", expanded=False):
+        st.markdown(
+            """
+            | Format | Example |
+            |--------|---------|
+            | **Fathom** | `0:09 - Speaker Name (org)` with text on following lines |
+            | **Gemini / Google Meet** | `00:00:00 Speaker Name: text on same line` |
+            | **Zoom VTT** | `00:00:05.120 --> 00:00:08.440` cue blocks |
+            | **Otter.ai** | `Speaker Name  0:00` with text below |
+            | **Plain dialogue** | `Speaker Name: text...` (no timestamp) |
+
+            For Word exports, upload the `.docx` and paste only the **Transcript** section if Notes are included.
+            """
+        )
 
     if "admin_preview" not in st.session_state:
         st.session_state["admin_preview"] = None
@@ -180,16 +212,20 @@ def tab_add(store: TranscriptVectorStore) -> None:
     raw_text = ""
     if input_mode == "Upload file":
         uploaded = st.file_uploader(
-            "Upload a transcript (.txt)",
-            type=["txt"],
-            help="Plain text in Fathom-style format with timestamped speaker lines.",
+            "Upload a transcript",
+            type=["txt", "docx"],
+            help="Supported: .txt (plain text) or .docx (Word document, e.g. Gemini notes export).",
         )
         if uploaded is not None:
             try:
-                raw_text = uploaded.read().decode("utf-8")
-            except UnicodeDecodeError:
-                raw_text = uploaded.getvalue().decode("utf-8", errors="ignore")
-            st.session_state["admin_raw_text"] = raw_text
+                raw_text = extract_text_from_file(
+                    uploaded.getvalue(),
+                    uploaded.name,
+                )
+                st.session_state["admin_raw_text"] = raw_text
+            except Exception as exc:
+                st.error(f"Could not read file: {exc}")
+                raw_text = st.session_state.get("admin_raw_text", "")
         else:
             raw_text = st.session_state.get("admin_raw_text", "")
         if raw_text:
@@ -200,13 +236,12 @@ def tab_add(store: TranscriptVectorStore) -> None:
             "Transcript text",
             value=st.session_state.get("admin_raw_text", ""),
             placeholder=(
-                "Impromptu Zoom Meeting - May 04\n"
-                "VIEW RECORDING - 24 mins:\n\n"
-                "---\n\n"
-                "0:09 - Andrew Gaikwad (kainyx.com)\n"
-                "  Can you hear me okay?\n\n"
-                "0:10 - Learner Park Media\n"
-                "  Yes, I can hear you."
+                "Gemini / Google Meet example:\n"
+                "00:00:00 Speaker One: Hello everyone.\n"
+                "00:01:30 Speaker Two: Thanks for joining.\n\n"
+                "Fathom example:\n"
+                "0:09 - Speaker Name (org)\n"
+                "  Can you hear me okay?"
             ),
             height=300,
             label_visibility="collapsed",
@@ -249,6 +284,21 @@ def tab_add(store: TranscriptVectorStore) -> None:
         preview = st.session_state["admin_preview"]
         st.markdown("---")
         section_header("Preview", "What the parser found, before any embedding work.")
+
+        if preview.detected_format and preview.detected_format != "unknown":
+            label = format_label(TranscriptFormat(preview.detected_format))
+            conf = preview.format_confidence
+            st.markdown(
+                f'<span class="mt-badge mt-badge-success">'
+                f'<span class="mt-badge-dot"></span>Format: {label} ({conf} confidence)</span>',
+                unsafe_allow_html=True,
+            )
+        else:
+            st.markdown(
+                '<span class="mt-badge mt-badge-warning">'
+                '<span class="mt-badge-dot"></span>Format: unknown</span>',
+                unsafe_allow_html=True,
+            )
 
         cols = st.columns(4)
         cols[0].metric("Utterances", preview.utterance_count)
@@ -296,8 +346,10 @@ def tab_add(store: TranscriptVectorStore) -> None:
             except Exception as exc:  # pragma: no cover - defensive
                 st.error(f"Indexing failed: {exc}")
                 return
+        fmt_label = format_label(TranscriptFormat(result.detected_format))
         st.success(
-            f"Indexed transcript `{result.transcript_id}` with {result.chunk_count} chunks."
+            f"Indexed transcript `{result.transcript_id}` "
+            f"({fmt_label}, {result.chunk_count} chunks)."
         )
         _format_ingest_result(result)
         st.session_state["admin_preview"] = None

@@ -127,12 +127,21 @@ def _render_sources(sources: list[dict]) -> None:
         return
     with st.expander(f"Sources used ({len(sources)} excerpts)"):
         unique_meetings = sorted(
-            {(s.get("meeting_title") or "", s.get("meeting_date") or "") for s in sources}
+            {
+                (
+                    s.get("transcript_id") or "",
+                    s.get("meeting_title") or "",
+                    s.get("meeting_date") or "",
+                )
+                for s in sources
+                if not s.get("_warnings")
+            }
         )
         if len(unique_meetings) > 1:
             badges = " ".join(
-                f"<span class='mt-badge mt-badge-primary'>{title or 'unknown'}</span>"
-                for title, _ in unique_meetings
+                f"<span class='mt-badge mt-badge-primary'>"
+                f"{title or tid or 'unknown'}</span>"
+                for tid, title, _ in unique_meetings
             )
             st.markdown(
                 f"<div style='margin-bottom: 0.7rem; display:flex; align-items:center; gap: 0.4rem; flex-wrap: wrap;'>"
@@ -141,11 +150,14 @@ def _render_sources(sources: list[dict]) -> None:
                 unsafe_allow_html=True,
             )
         for src in sources:
+            if src.get("_warnings"):
+                continue
             sim = src.get("similarity")
             sim_text = f"similarity {sim:.2f}" if isinstance(sim, (int, float)) else ""
             speakers = ", ".join(src.get("speakers") or []) or "-"
             meeting_title = src.get("meeting_title") or src.get("transcript_id") or ""
             meeting_date = src.get("meeting_date") or "no date"
+            tid = src.get("transcript_id") or ""
             time_range = src.get("time_range", "") or ""
             meta_sep = " &middot; " if time_range else ""
             st.markdown(
@@ -153,7 +165,7 @@ def _render_sources(sources: list[dict]) -> None:
                 <div class="mt-source-card">
                     <div class="mt-source-head">
                         <div class="mt-source-title">{meeting_title}</div>
-                        <div class="mt-source-meta">{meeting_date}{meta_sep}{time_range}</div>
+                        <div class="mt-source-meta">{meeting_date}{meta_sep}{time_range}{' &middot; ' + tid if tid else ''}</div>
                     </div>
                     <div class="mt-source-speakers">Speakers: {speakers}{f' &middot; {sim_text}' if sim_text else ''}</div>
                 </div>
@@ -175,19 +187,35 @@ def _render_messages(messages) -> None:
                     badge_kind = "primary" if msg.mode == "attribution" else ""
                     klass = "mt-badge" + (f" mt-badge-{badge_kind}" if badge_kind else "")
                     meta_chunks.append(f'<span class="{klass}">{mode_label}</span>')
-                if msg.sources:
+                warnings = [
+                    w for s in (msg.sources or []) if s.get("_warnings") for w in s["_warnings"]
+                ]
+                real_sources = [s for s in (msg.sources or []) if not s.get("_warnings")]
+                if real_sources:
                     meta_chunks.append(
-                        f'<span class="mt-badge">{len(msg.sources)} excerpts</span>'
+                        f'<span class="mt-badge">{len(real_sources)} excerpts</span>'
                     )
-                    sources_used = sorted({
-                        (s.get("meeting_title") or s.get("transcript_id") or "")
-                        for s in msg.sources
-                    })
+                    sources_used = {
+                        s.get("transcript_id") or s.get("meeting_title") or ""
+                        for s in real_sources
+                        if s.get("transcript_id") or s.get("meeting_title")
+                    }
                     if len(sources_used) > 1:
                         meta_chunks.append(
                             f'<span class="mt-badge mt-badge-primary">'
                             f'Across {len(sources_used)} meetings</span>'
                         )
+                catalog_count = next(
+                    (s.get("catalog_count") for s in (msg.sources or []) if s.get("catalog_count")),
+                    None,
+                )
+                if catalog_count:
+                    meta_chunks.append(
+                        f'<span class="mt-badge">Based on {catalog_count} indexed transcripts</span>'
+                    )
+                if warnings:
+                    for warn in warnings:
+                        st.warning(warn)
                 if meta_chunks:
                     st.markdown(
                         "<div style='margin-top: 0.5rem; display:flex; gap: 6px; flex-wrap: wrap;'>"
@@ -214,9 +242,9 @@ def _handle_user_question(active_session_id: str, question: str) -> None:
     generator = get_generator()
     with st.spinner("Searching transcripts and composing answer..."):
         answer = generator.answer(
-            question=enriched_query,
+            question=question,
+            retrieval_query=enriched_query,
             chat_history=history_payload,
-            top_k=TOP_K_RESULTS,
             force_attribution=wants_speaker_attribution(question),
         )
 
@@ -234,6 +262,16 @@ def _handle_user_question(active_session_id: str, question: str) -> None:
         }
         for s in answer.sources
     ]
+    if answer.warnings:
+        sources_payload.insert(
+            0,
+            {"_warnings": answer.warnings, "catalog_count": answer.catalog_count},
+        )
+    elif answer.catalog_count:
+        sources_payload.insert(
+            0,
+            {"catalog_count": answer.catalog_count},
+        )
     chat_db.add_message(
         active_session_id,
         role="assistant",

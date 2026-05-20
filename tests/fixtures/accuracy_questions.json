@@ -1,0 +1,16 @@
+[
+  {
+    "question": "How many meetings were held?",
+    "expect_meeting_count": 5,
+    "expect_intent": "inventory"
+  },
+  {
+    "question": "How many meetings were held? Give a summary of each meeting separately.",
+    "expect_meeting_count": 5,
+    "expect_intent": "per_meeting_summary"
+  },
+  {
+    "question": "What was discussed about ETL across all meetings?",
+    "expect_intent": "cross_meeting_synthesis"
+  }
+]

@@ -27,6 +27,10 @@ LLM_MODEL: str = os.getenv("LLM_MODEL", "gpt-4o-mini")
 CHUNK_SIZE: int = int(os.getenv("CHUNK_SIZE", "500"))
 CHUNK_OVERLAP: int = int(os.getenv("CHUNK_OVERLAP", "50"))
 TOP_K_RESULTS: int = int(os.getenv("TOP_K_RESULTS", "12"))
+MAX_CHUNKS_PER_TRANSCRIPT: int = int(os.getenv("MAX_CHUNKS_PER_TRANSCRIPT", "3"))
+INVENTORY_TOP_K: int = int(os.getenv("INVENTORY_TOP_K", "0"))
+PER_MEETING_CHUNKS: int = int(os.getenv("PER_MEETING_CHUNKS", "2"))
+RETRIEVAL_OVERSAMPLE: int = int(os.getenv("RETRIEVAL_OVERSAMPLE", "24"))
 
 MAX_CHAT_HISTORY: int = int(os.getenv("MAX_CHAT_HISTORY", "10"))
 

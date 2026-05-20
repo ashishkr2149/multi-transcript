@@ -1,0 +1,946 @@
+Feb 13, 2026
+DAILY: PLG, Website, Content, Academy, etc - Transcript
+00:00:00
+ 
+Jonathan Assayag: Did everybody play the game? Phil just pushed an updated version of the tool right in the middle of the game playing.
+Nazima Piracha: Yes,
+Natasha Turak: Oh.
+Jonathan Assayag: So if you reload it, it it's black now. It's all sort of weird.
+Nazima Piracha: let
+Jonathan Assayag: Um,
+Natasha Turak: Oh, I didn't get
+Nabil Mansouri: That's
+Nazima Piracha: me
+Natasha Turak: to
+Nabil Mansouri: why
+Jonathan Assayag: Hey, Nabil, I'm going to mute you just because there's a lot of noise coming. Oh, thanks. So, what just very quick before we start, reactions to the tool, thoughts on like the process?
+Murali Krishna Yamsani: It's a really cool tool. Uh was slightly confusing at the first, but once I started using it, um the the the funny part or the fun part was to see the comments on the right like what people are doing, what actions they're performing. So I can actually imagine when it goes into an organization you can actually see what different teams are uh like including in the processes. So I think that's that's good.
+ 
+ 
+00:01:05
+ 
+Murali Krishna Yamsani: Uh one thing I asked that asked uh this question but it's about error handling. So when I asked like what if I don't find the coffee that I like or what if I don't have the payment method that like this this I put only cash but I don't have cash. Shard. So this is like something like error handling that I maybe we can add that like what to do. Yeah,
+Jonathan Assayag: Thoughts from others?
+Murali Krishna Yamsani: you're on mute. Sorry if you're saying
+Shaurya Singh: Yeah,
+Murali Krishna Yamsani: something.
+Shaurya Singh: I was saying I put my stakeholder pants on and I challenged the very first step. I was like actually is this the first step? This is not the first step. Maybe this a second step is the first step. But uh it's handling it quite nicely. I like the um like the the the neat like sort of UI touches like if I make a change it's like labeled differently like in the ledger and then if the AI makes a change on behalf of me that's like noted separately.
+ 
+ 
+00:02:09
+ 
+Shaurya Singh: It's not just Opus AI made a change like who who coaxed Opus AI into making that change.
+Jonathan Assayag: Yeah, that was a rev.
+Shaurya Singh: Yeah,
+Jonathan Assayag: I told Phil he just he just pushed it. So, you got the latest version.
+Shaurya Singh: I see.
+Jonathan Assayag: It's in black on the side. Yeah, if you if you got the black version on the side,
+Shaurya Singh: Yeah.
+Jonathan Assayag: then that was the latest and he made lots of cool changes. Um,
+Shaurya Singh: Yeah. So, but uh overall like yeah, it was uh I I do think that like you know for for a small prototype it's a good sort of sorry I'm just adjusting my monitor. Uh it's a good uh view into the future. It was interesting. Yeah.
+Nazima Piracha: I think I'm still trying to wrap my head around it.
+Jonathan Assayag: Okay, no
+Nazima Piracha: Um, the only the only thing is because when I was using the tool,
+Jonathan Assayag: worries.
+Nazima Piracha: my husband was sitting next to me and the first thing he said is they should have a voice assistant.
+ 
+ 
+00:03:09
+ 
+Nazima Piracha: People should talk and it should be there.
+Jonathan Assayag: Yeah. Yeah. You could just talk it out, right? You could talk it out.
+Nazima Piracha: Exactly. He's like,
+Jonathan Assayag: Yeah.
+Nazima Piracha: if you're in a meeting,
+Jonathan Assayag: Yeah.
+Nazima Piracha: then you should be talking and it should be
+Jonathan Assayag: Totally.
+Nazima Piracha: there.
+Jonathan Assayag: You could just talk. just talk to it and just see the thing evolve and I that could be really fun and easy. Um I'll give I'll give two two thoughts and Natasha I don't know if you had a chance to play with the tool or not because it okay no
+Natasha Turak: No,
+Jonathan Assayag: worries you
+Natasha Turak: I'm just looking at it and I How do you start? Do you just hit one and then
+Jonathan Assayag: just just chat you just chat with it and you say if you think you need any changes to the process or
+Natasha Turak: you
+Jonathan Assayag: you can drag it around.
+Natasha Turak: Okay,
+Jonathan Assayag: Um I was I just gave everybody a prompt saying like how do you get coffee right and and
+ 
+ 
+00:03:49
+ 
+Natasha Turak: I'll take that after. Okay.
+Jonathan Assayag: I just said right from so it's it had to be it had to be a use case where we all kind of did similar stuff. It's not like how you brush your teeth in the morning, you know, so everybody kind of brushes completely different, but there's only a few coffee places around the office.
+Natasha Turak: different.
+Jonathan Assayag: U and so, you know, h how do we do it? And I just all I told the AI to get it started is like I I want I want, you know, I gave a very simple prompt and it build the workflow. I didn't build it. And then all of you added in rev revved it. So, I thought that was super interesting. Uh and it got it got relatively detailed, right? Like Yeah,
+Natasha Turak: So it's shaped by everyone who's using it.
+Jonathan Assayag: it's shaped by everybody commenting it and telling telling the AI what's right, what's wrong.
+Natasha Turak: So you basically just start by describing your process like this is what I do.
+ 
+ 
+00:04:37
+ 
+Jonathan Assayag: Um,
+Natasha Turak: This is where I
+Jonathan Assayag: yeah, and the cool part that Phil just pushed out um is is this idea
+Natasha Turak: walk.
+Jonathan Assayag: that, you know, the AI as soon as it knows what the process is becomes an expert in that process and will probe specific questions to that process as an expert. I mean, I don't know if our use case was great at that,
+Shaurya Singh: Let's
+Jonathan Assayag: but like when you get into banking and you say, "I want KIC or KI." Yeah, KIC, then then it'll ask you specific questions to that.
+Shaurya Singh: do
+Jonathan Assayag: It won't it won't just let you, right?
+Shaurya Singh: that.
+Jonathan Assayag: And if you if you steer the conversation off of that, it'll bring you back. Um,
+Nazima Piracha: thing that's is that the chat you have is private with just
+Jonathan Assayag: go ahead.
+Shaurya Singh: That's
+Nazima Piracha: you and not a mixture of like 10 other people who are going back and forth and
+Jonathan Assayag: That's right.
+Nazima Piracha: talking to each other. So I think that's really nice as well because you get to think just your
+ 
+ 
+00:05:35
+ 
+Jonathan Assayag: That's right.
+Nazima Piracha: perspective
+Jonathan Assayag: Um, I'll give you the biggest insight that I got out of the experience when I was doing it by myself. I did like paella recipe, then I did my own workflow. Um, I think it's actually a better tool for you. Like, if you're going to go build a workflow by yourself, you want nobody's help, it is a great tool to just go in and put your own prompt and see the steps and rev the steps quickly with no cost, no nothing, right? like I can just play with it, get the steps perfectly right, move things around, etc. And then I hit publish to workflow and I get this perfect prompt ready to go that I just paste into Opus and the workflow gets built. So I don't have to wait three minutes. I don't have to, right? There's no heavy lifting. It's just like the easy way to document my thoughts and rev as I see it because the visual displaying I thought was really nice. That was my big takeaway.
+ 
+ 
+00:06:32
+ 
+Jonathan Assayag: But super cool. It's funny because I'm seeing Phil go in there and say, "Hi guys.
+Shaurya Singh: Yeah,
+Jonathan Assayag: Um, thanks for hearing me." Yeah, I'll take these quotes uh and these suggestions to to Revit once more. But yeah, the big the big thing of this that I I think is also a huge differentiated from like mural boards is is the intelligence, right? There's intelligence here. It's not just about building a canvas. And so that's why we actually ended up optimizing for more of a chat experience first because the the back and forth has to be intelligent to then get you to a board. And I don't know if you guys clicked on there's a button here. Um it's a little hidden.
+Murali Krishna Yamsani: Give
+Jonathan Assayag: Let me share my
+Murali Krishna Yamsani: it.
+Jonathan Assayag: screen. Can you all see my screen? There's a button here on the top. It's the share button, but it shouldn't be the share button, but it actually gives it to you in workflow form.
+ 
+ 
+00:07:49
+ 
+Shaurya Singh: Yeah. Yeah, I saw that.
+Jonathan Assayag: So, you choose your coffee destination, you leave the office, you could I was thinking you would put it like go down the elevator, right? You know, travel to the coffee shop, then you could split it like there's a Starbucks, there's a 777 that you can go to any one of those. And so, we could get it to be more complex. Um, yeah, wait for preparation.
+Murali Krishna Yamsani: So uh yeah when I see like this um it's it's an interesting uh view should we uh also add branching here. So uh in in this case maybe someone wants to Starbucks, someone wants to go to uh trip
+Jonathan Assayag: Yeah.
+Murali Krishna Yamsani: 7.
+Jonathan Assayag: Yeah. So I can say here for step three there are multiple coffee shop options. Someone we can I can go to Starbucks. I can go to 777 coffee and I can go to Joe and the juice and it should see and it stepped down. But what it doesn't do right now so it updated here across the options.
+ 
+ 
+00:09:06
+ 
+Murali Krishna Yamsani: Keep
+Jonathan Assayag: Uh, and then I think you could say if it was Starbucks, I could use my Starbucks app to pay. If it was Yu 777, I should ask for the discount,
+Murali Krishna Yamsani: them.
+Jonathan Assayag: right? There's something to that that we haven't figured out how to model yet. And then it would it would branch probably and then branch back. So, I think that's like the other big macro thing to solve
+Nazima Piracha: Yeah,
+Jonathan Assayag: for,
+Nazima Piracha: it's not it's not letting us uh branch right now because that's what I was trying to do.
+Jonathan Assayag: right?
+Nazima Piracha: If you choose card versus cash, then the decision ABC I don't think it's letting us do that right now.
+Jonathan Assayag: Yeah. And I wonder if you need to branch here or if the branching would just happen when you actually go build the workflow, right? If you take the content and you say there's if you but but we're playing with it anyway. Good exercise. Fun to see everybody's feedback.
+ 
+ 
+00:10:02
+ 
+Jonathan Assayag: We we'll keep revving it and then uh go from there. All right. Shift gears. You guys want to take it
+Murali Krishna Yamsani: Yes,
+Jonathan Assayag: away?
+Natasha Turak: Cool.
+Murali Krishna Yamsani: Natasha.
+Natasha Turak: Okay. So, um to begin, um Morali, do you w to pull the document up or should I Okay,
+Murali Krishna Yamsani: Uh you can share it uh if you have that.
+Natasha Turak: let me Okay, it's here. Okay,
+Murali Krishna Yamsani: Yeah.
+Natasha Turak: share screen. Okay, allow. Sorry, it my thing has a Okay. Oh, okay. Okay, here we are. Sorry. Can you guys see it?
+Murali Krishna Yamsani: Yes.
+Natasha Turak: Okie dokie. So, um, first off, I just want to make sure we are aligned on probably our most important question, which is who are we actually talking to? So obviously um we had you know enterprise and PLG but um as we discussed yesterday Morales has split it into three buckets AI aspiring I already and builders and consultants now builders and consultants are really our PR plg and I think as we sort of established we're going to like wait until we have more success on that front to really be developing that side um contentwise But uh can we just if everybody can just take a look at you know who is in this
+ 
+ 
+00:11:36
+ 
+Natasha Turak: segment um especially for AI aspiring and AI ready and just like make sure we're aligned and if you have any questions or objections or suggestions um please uh say So
+Jonathan Assayag: Um, sorry. Ask the ask the updated question again.
+Natasha Turak: oh um
+Jonathan Assayag: The prompt,
+Natasha Turak: sorry so in the whole
+Jonathan Assayag: what's the what's the key prompt we're trying to answer in this workshop?
+Natasha Turak: world well I think it's it's to understand really like who we're talking to and how we best talk to them in terms of channels and content and then what those success metrics are. So, we were talking about it yesterday, but I I know I feel like we kind of hit some walls. Um, so I think the main things we want to we want to really understand and be aligned on is is who we're talking to, what channels we use to talk to them, what that content needs to look like for each channel, and how we measure that success. Um, and I think I kind of I have more questions right now than I have answers.
+ 
+ 
+00:12:51
+ 
+Natasha Turak: So that hopefully we can just come up with the answers over the course of this call and uh and brainstorming.
+Jonathan Assayag: Okay, let me share my screen real quick and try to I'm going to throw us into a Figma jam
+Natasha Turak: Okay,
+Jonathan Assayag: and we'll jam.
+Natasha Turak: sweet.
+Jonathan Assayag: Okay. Um, let me get you guys the link for this. I'll put it in the Slack channel. So, we'll do a quick Paste this Okay. Uh you're all welcome to all join and uh if there's any other content when you put in let's write out what the big questions are then what do we want to get
+Natasha Turak: Okay.
+Jonathan Assayag: done oh it's
+Nabil Mansouri: Can we share the screen?
+Natasha Turak: Are you sharing your screen?
+Nabil Mansouri: Yeah, share the screen, please.
+Jonathan Assayag: not sharing okay hold
+Natasha Turak: No.
+Jonathan Assayag: on is it easier for you all to just follow me on Slack on Figma just do
+Nabil Mansouri: I can't cuz I'm on my phone. So like if I if you can Yeah,
+ 
+ 
+00:14:21
+ 
+Jonathan Assayag: that okay Hold
+Murali Krishna Yamsani: Yeah.
+Nabil Mansouri: that's right.
+Jonathan Assayag: on. Okay, there we go. All right. What do we want to achieve in this workshop? What are the big what's the big question we're trying to get to is what should be our content strategy for each user type for each customer
+Natasha Turak: Yeah. And then within that strategy there is like understanding the customer,
+Jonathan Assayag: type
+Natasha Turak: understanding what channels are best and picking the themes of the content itself, the themes that will resonate with them. Um and then yeah, success metrics could be the last one.
+Jonathan Assayag: Okay. For each customer type. So, are we all aligned on the customer types? We had a We had one more, right? was um I don't know if we need all of it.
+Murali Krishna Yamsani: one AI resistant uh which we have not we are not including that at all.
+Jonathan Assayag: Okay, AI resistant tends to be the CEO is like the person who is looking for a solution and wants to push it into the organization, right?
+ 
+ 
+00:16:08
+ 
+Jonathan Assayag: Because the CEO is demanding AI results while the data is still stuck in messy spreadsheets versus AI aspiring. They have an AI lead. that person may be acting as a data janitor trying to figure things out versus AI ready where they're all lined up. So just a thought like that could be another person but I guess the more important piece perhaps is to start with who are the h who are the humans under each of these and we just line them up which I think is what you have
+Natasha Turak: Yeah.
+Jonathan Assayag: here.
+Natasha Turak: So, as long as everyone understands that and
+Nazima Piracha: I if that's if that's the case,
+Natasha Turak: agrees
+Nazima Piracha: I don't think then the way we've defined it here is accurate because we're basically saying AI aspiring is somebody who's leadership driven. That's not true. AI aspiring is a an organization level type, right? And then within that you have the CEO readiness and then the execution team's readiness and then the data infrastructures readiness. So that's not a segment.
+ 
+ 
+00:17:14
+ 
+Jonathan Assayag: Yeah, I guess I'm just try um maybe what you're touching on is AI aspiring is what the company is, right?
+Nazima Piracha: Yes.
+Jonathan Assayag: But now what I'm trying to get us to go is you know ultimately our content strategies both for AI and for people. But let's you start focusing on the people.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Who are the people?
+Nazima Piracha: Yes. uh
+Jonathan Assayag: So you have the seale executives,
+Nazima Piracha: the
+Jonathan Assayag: you have the enabler and you know these these folks are often the buyer. Then you have like AI transformation lead. They're often the enabler. Who else?
+Nazima Piracha: the the process owner ex whoever is doing the
+Natasha Turak: department head stand well the process owners
+Nazima Piracha: execution basically.
+Natasha Turak: are often department heads yeah I think okay overlap
+Jonathan Assayag: Not always. to be below a level process
+Natasha Turak: in some across some of
+Jonathan Assayag: for
+Natasha Turak: the
+Murali Krishna Yamsani: There there is uh the compliance and legal and finance who are most like gatekeepers.
+ 
+ 
+00:18:38
+ 
+Jonathan Assayag: so it compli uh and compliance it compliance and legal
+Murali Krishna Yamsani: and finance as well.
+Natasha Turak: Yeah.
+Jonathan Assayag: I know we're backtracking a little bit, but I think it's just good to give us all really like clean clarity before as we move forward, we'll get to it. Okay.
+Natasha Turak: Yeah.
+Jonathan Assayag: Um, anything else, consultants.
+Natasha Turak: Yeah.
+Jonathan Assayag: Okay. So, let as we talk about this, what what is what is the what's success for us out of a content strategy?
+Natasha Turak: I mean, I think something that helps establish a reputation that we are serious, that we understand the customers we're trying to serve. Um, the language we use and the use cases and pain points we talk about are immediately resonant to the customers that we are trying to attract. So, um, you know, I mean, if if you look at our website, I think like our use case pages suggest we understand the pain points of the industries we're trying to serve.
+Jonathan Assayag: there's an aspect of reputation. So if I go back to um hold on try to tie trying to
+ 
+ 
+00:20:18
+ 
+Natasha Turak: Um,
+Jonathan Assayag: tie different work streams together here to not force us to reinvent the wheel. Let me paste something here. So a huge part is this right is this awareness brand reputation piece that's this you be the world authority come off world's most trusted authority on enterprise supervised AI automation. There's that. There's also probably
+Shaurya Singh: Is there a PLG revenue angle? to this or are we considering this in isolation with other
+Jonathan Assayag: I mean,
+Shaurya Singh: goals?
+Jonathan Assayag: there's a PLG1 for product that we just um proposed. Um I'm just copying a couple of the ones that I think are relevant to us here. Yeah, probably use these here. One, two, three. So, there's something about Oh, and the 50 in the order forms. That's a big one. Okay, go quick.
+Nabil Mansouri: Hey guys, just a heads up. My phone's about to die. It's been a couple of hours of of calls. So, just know that if I drop off, you know why.
+ 
+ 
+00:22:48
+ 
+Jonathan Assayag: Okay, no worries. Uh, so there's a repetition aspect. There is a There's
+Natasha Turak: and I think along with the reputation um it's it's building name recognition as well
+Jonathan Assayag: a
+Natasha Turak: um that is part of say getting into media being present at more events and just being like a regular LinkedIn presence. So yeah, reputation and market recognition thing in the same category. Sales obviously. Yes.
+Jonathan Assayag: Is there something about community that we care about like followers
+Natasha Turak: It's a good question.
+Jonathan Assayag: or
+Natasha Turak: Um down second. Um, well, I think community probably would fall under the PLG and user um category where we have like individuals who are using it, who are pros at it, who talk to each other about it. And you know once we have a decent amount of that then maybe there's like you know a discord channel that begins or something else where um where expertise and tips and knowledge are traded on it and uh people are following the new developments. But I think that probably comes a little bit later once we have more
+ 
+ 
+00:24:22
+ 
+Jonathan Assayag: Yeah,
+Natasha Turak: users.
+Jonathan Assayag: I would agree. So, let's just focus on these two things. Success is just a reputation that actually gets us to sales. It's both reputation and sales.
+Natasha Turak: Yeah. Yeah, I think
+Jonathan Assayag: Okay, everyone
+Natasha Turak: so.
+Jonathan Assayag: agreed?
+Nabil Mansouri: How you going to measure that guys?
+Jonathan Assayag: We'll get there. But is there any any other success metric here that we need to be
+Shaurya Singh: Um, do do we want to quantify recognition in some way like I don't know like followers or
+Jonathan Assayag: once.
+Shaurya Singh: engagement or something like that?
+Jonathan Assayag: Yes, let's ask that question next.
+Nabil Mansouri: Also,
+Jonathan Assayag: How do we measure
+Nabil Mansouri: we we have some we have some KRs that are associated with this,
+Jonathan Assayag: it?
+Nabil Mansouri: remember?
+Natasha Turak: Yeah. So, so with reputation,
+Nabil Mansouri: Uh specific.
+Natasha Turak: sorry, go ahead,
+Nabil Mansouri: Yeah.
+Natasha Turak: Nil.
+Nabil Mansouri: No, no.
+Natasha Turak: Yeah. Yeah. In each Yeah. Yeah. Um so what it was is the five citations in uh tier one media right for for opus and applied AI by June.
+ 
+ 
+00:25:32
+ 
+Natasha Turak: Um so that that like in itself would be part of the success metrics for reputation and name recognition. So simply having those um means a lot more eyeballs have seen it um and the types of customers we're interested in are you know reading and watching those uh news outlets. So um hitting those KRS which are are mine for H1 is definitely a big part of the reputation because obviously it's like we can't go and count every single person who recognizes the name applied AI. Um, but to the extent that we can quantify, I think media mentions are a good way of sort of knowing that, okay, that's definitely gotten somewhere. It's gotten more eyeballs than like our LinkedIn or our website would. Um, and then sales, obviously, it's if we make sales, and that depends on, of course, a lot of different things. Content is just one element of it. But obviously we all, no matter what our role is, we all want to help sales happen.
+Murali Krishna Yamsani: uh so I have one question uh so when we are saying this sales right which is get to 50 order forms uh the primary driver for this success would not be content would be something else that we will be doing in other motions.
+ 
+ 
+00:26:54
+ 
+Murali Krishna Yamsani: So should we uh put that here or uh or or should we uh mention it separately that like content will be a secondary or territory driver and not the primary driver
+Natasha Turak: True.
+Murali Krishna Yamsani: here
+Natasha Turak: I mean, I feel like we I mean, I feel like that's kind of obvious, but should we should we put it anyway?
+Jonathan Assayag: Sorry. Repeat it
+Natasha Turak: Morali
+Jonathan Assayag: again.
+Murali Krishna Yamsani: uh so what I'm saying is like when we have this uh success metric as getting 50 order forms. Uh the primary driver for this is not going to be content going to be what we are
+Natasha Turak: Yeah, correct.
+Murali Krishna Yamsani: going what we'll be doing in different motions uh uh in a sales motion or in other motions. Uh and content is going to be a support metric or at best um uh proverifying kind of channel for these guys. So should we put that as success here?
+Jonathan Assayag: Well, content isn't going to alone also feed your reputation. I mean, it it is a driver of reputation.
+ 
+ 
+00:28:00
+ 
+Jonathan Assayag: Many things will feed reputation, right? success with the current clients that took on Opus and had word of mouth is also a way to
+Murali Krishna Yamsani: Mhm.
+Jonathan Assayag: feed reputation. So I think we're just let let's get to the next question which is how do we measure this as it relates to content
+Natasha Turak: Okay. Um, okay. So, yeah, and then of course just like understanding that that reputation and name recognition is down to a number of factors, not just content and sales obviously the same. Um, so how do we measure it? I think reputation and name recognition I think um followers and engagement is important. Um, and as we discussed yesterday, LinkedIn is probably the most sort of established, reputed like platform to to track that on, but also um just appearing in press, which is one of uh my KRS of course. So, um yeah, earned media. Um also reputation and name recognition events are very important. Um
+Jonathan Assayag: I'm just I'm just writing everything right now.
+ 
+ 
+00:29:20
+ 
+Natasha Turak: events
+Jonathan Assayag: Let's just put the content ideas in and then we can figure out if they're good or bad. But eyeballs by user type by our target target buyer enabler perhaps. I think we're going to I want to question this based on success, but give me everything you all think could be ways to measure
+Natasha Turak: I mean with LinkedIn we do have just numbers and metrics that we can look at and we can look at it by job type and seniority as we saw yesterday. So I would say look at try to establish some growth in those specific um job types rather than just sheer numbers. I think the quality is much more important than the quantity.
+Shaurya Singh: I think SEO is also one uh people searching for things like workflow automation. I don't think we show up right now,
+Natasha Turak: Uh SEO.
+Shaurya Singh: but it would be a good outcome like 3 to 6 months out if we do uh show up.
+Murali Krishna Yamsani: Yeah.
+Natasha Turak: Okay.
+Shaurya Singh: Yeah.
+Natasha Turak: SEO and also like LLM SEO, whatever that
+ 
+ 
+00:30:37
+ 
+Shaurya Singh: Uh yeah, I I Yeah,
+Natasha Turak: term.
+Shaurya Singh: it's fine. Yeah, GEO is what it's called. They're basically the same thing though because uh uh if you start ranking high above those search results are what LLMs are using to figure out the outcomes.
+Natasha Turak: Okay. Okay. How to
+Shaurya Singh: So uh so if you get the Google search results done well uh CH GPT will
+Natasha Turak: do
+Shaurya Singh: automatically start talking about you more.
+Natasha Turak: Oh, okay. That makes
+Murali Krishna Yamsani: Um yeah.
+Natasha Turak: sense.
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: Uh inbound leads or sales calls or uh signups.
+Jonathan Assayag: Can someone well I can do it myself but just um someone just throw into like uh Gemini of sorts hey success for our content strategies reputation and sales what are the ways to measure and just see what you get and if there's anything major missing I have a perspective on what the northstar metric for us is coming out of this,
+Natasha Turak: do tell.
+Jonathan Assayag: but I want to hear just if there's anything else we're missing here.
+ 
+ 
+00:31:34
+ 
+Jonathan Assayag: Like what's the best practice if you throw this into an LLM? Like what what will they
+Natasha Turak: Yeah, I also think we should put um events like events
+Jonathan Assayag: say?
+Natasha Turak: attended, speaker engagements booked um because you know like think about the banking summit yesterday. there were a lot of our exact type of customers there and we had w on the stage talking and I think and obviously yeah I mean you can't necessarily measure how many people's how many people started thinking about opus after that but if there were introductions made and meetings and calls organized after that that's
+Jonathan Assayag: Thanks
+Shaurya Singh: Uh yeah,
+Jonathan Assayag: R.
+Shaurya Singh: I don't see any blind like major blind spots,
+Natasha Turak: Great.
+Shaurya Singh: but sure, take a look.
+Jonathan Assayag: Can you ask it? What is the Northstar metric?
+Shaurya Singh: Sure.
+Jonathan Assayag: I think I know what it is, but Is it
+Shaurya Singh: Um I mean I think it's uh uh it sort of declined to give one
+Jonathan Assayag: eyeballs?
+Shaurya Singh: northstar metric and said depends on what you want but if if your goal is this then this uh and it named like five or six goals.
+ 
+ 
+00:33:07
+ 
+Shaurya Singh: Let me just uh put the context in here.
+Jonathan Assayag: I'll put a provocative statement out there. Get get everybody's feedback. Um,
+Shaurya Singh: Mhm.
+Jonathan Assayag: if we were Nad,
+Natasha Turak: Mhm.
+Jonathan Assayag: I'd be less inclined to say this is about eyeballs because I think your target customer is inherently a very technical person and that's not the majority of the of the open public. You could argue perhaps my hypothesis is that if we just optimize for eyeballs ideally of our target sea level, right? Who's the buyer or the enabler? So, and maybe maybe and maybe that's it. Eyeballs by our target enabler. But because if hopefully you guys had a chance to read that paste the doc that I was writing in the I did, right? Yeah. So because the premise of the company is so much about we are empowering business people to automate their own workflows through the the tool that you use today or through you know prompt the process. This there is a mass relevance of this type of uh you know product category to to to a general public.
+ 
+ 
+00:34:33
+ 
+Jonathan Assayag: It's it's it's bigger than just an IT team, right? Every most people, all of us included, could theoretically be impacted. Most people maybe in a regulated industry. I guess that's the maybe the other aspect here would would be could be relevant like I could work at a bank and opus may be of interest to know about. And the more people within a bank know about opus, the higher chance that the buyer, somebody important decides to want to look at it and have a reputation that carries. So I do wonder if if it does go to I'm curious on people's perspective but like is it eyeballs in general and ideally by by our target enabler in the regular industry but eyeballs in general.
+Nabil Mansouri: So, let me let me add something there, John. Um, that just I as I I'm struggling through through all this because I I feel like we kind of we're trying to like boil the ocean a bit right now because we we're going everywhere. I I wonder if like our content should be around letting the world know what our point of view is.
+ 
+ 
+00:35:56
+ 
+Nabil Mansouri: And I think one thing that's become clear as the past couple days and you just didn't even know this idea that uh let's call your process or or whatever you want to call it that um that we're enabling the rest of the world to use AI right and the content becomes around that and if you use that as a north start then it's about the empowerment so like first like the the ads can be about that but then there's content more about how to H how how do we actually helping the people do that? Does does it make sense what I'm trying to say? Like I feel like there's no like I I I I get eyeballs and SEO GO like that all needs to happen, right? But I think when when I when I think about the content, I'm think about the messaging like what's the messaging, what's the positioning, what are we going to say, and then we can pick different channels around it. Do you guys see it that way or no?
+Natasha Turak: That makes sense to me.
+Jonathan Assayag: Have you heard of do you know what just a just cause is like the concept?
+ 
+ 
+00:37:02
+ 
+Natasha Turak: Sorry, what?
+Jonathan Assayag: Um this is something powerful I looked at before. There's a guy named Simon Scenic who's like a futurist who lot about it.
+Natasha Turak: Oh, I love him. Yeah, he's great.
+Jonathan Assayag: So the idea of like a just cause is something that is relevant to people and that they can get behind in in pushing this idea because it stands for something important to the world. So I'll give an example who uses it beautifully, right? But um you know Elon Musk, we need to get to Mars. We need to be an interstellar species. Ultimately, there's money going into Elon's pocket, but he got everybody super excited about this idea that we need to get to
+Shaurya Singh: Right.
+Jonathan Assayag: Mars, right? Like, that's so powerful. Um, you know, Steve Jobs had a lot about the why and about, you know, design, like the beauty, the simplicity of design. And I think people just get behind stuff like that, right? It should be simple. A thousand a thousand phones in your pocket like these beautiful design product ideas beautifully designed which is very different than like a Microsoft product.
+ 
+ 
+00:38:16
+ 
+Jonathan Assayag: So it's not to say that you can't but people if you ask somebody do you like good design or bad design I want I want great design of course. Uh and you can kind of get behind that cause. So what's the cause for us? like this idea of the just cause is that kind of where you're going like why it's so relevant like giving giving AI empowering people to use AI to automate I I don't know is that where you're going
+Natasha Turak: Oh, did his phone die?
+Jonathan Assayag: oh bummer work.
+Natasha Turak: We lost.
+Shaurya Singh: Oh, that was so timing.
+Natasha Turak: Dang it. The one thing he wanted to talk
+Shaurya Singh: Yeah.
+Natasha Turak: about.
+Shaurya Singh: Um in terms of just cause I have actually uh we've heard of Arya talk about this uh specific thing of like instead of automating humans away completely you want to create like a human in the loop system and like make each human higher leverage right could that be
+Natasha Turak: Yeah. Well, that was Yeah,
+Shaurya Singh: Thanks.
+ 
+ 
+00:39:19
+ 
+Natasha Turak: that was the first blog post that I wrote about for our sort of thought leadership type of uh content. And that's like like every time he's on a panel, that's what he talks about. He's like, "How do you keep the human at the center of this?" Because otherwise you're going to have like giant revolutions. And he has a very sort of philosophical existential approach to it. And you know like someone has to there has to be a human at the other end who faces a consequence if things go wrong. There has to be someone you can sue. Someone has to suffer if things so um yeah and exactly it's like you then look at someone's value in terms of like the tasks they've accomplished not the hours that they've spent doing the work. Um and he had a whole Yeah. Yeah, I mean there's a lot of his philosophy there that we could that very much lines up with this just cause idea and because his whole thing, right, he says it all the time.
+ 
+ 
+00:40:15
+ 
+Natasha Turak: He says um we shouldn't what do he say? We shouldn't sacrifice humanity at the altar of gross margin. That's his thing. And so like we've written about that. We put it out on LinkedIn and stuff. Um and he's like, "Okay, how do we survive like the AI winter? How do we ensure that like we're still here? I mean, it's a lot of like kind of philosophical stuff, but I think some people like that. I don't know how much it will go toward like enterprises being like, "Yeah, we'll buy it." But it's there. It's interesting. I mean, what do you guys think? What do you think, John?
+Jonathan Assayag: I'm just trying to tie it to the reputa. Like to get a reputation, I think a lot of it is rising above the noise. You got to rise above the noise.
+Natasha Turak: Mhm.
+Jonathan Assayag: We are bombarded more than ever nowadays with so much content, even now with AI, even more content. How do you rise above it?
+ 
+ 
+00:41:14
+ 
+Jonathan Assayag: And there's no way to do that without being provocative.
+Natasha Turak: Yeah.
+Jonathan Assayag: Now, provocative doesn't mean we have to put BS out, right? But it has to be stuff that is relevant to people's lives and that it makes them stop and wonder and think and like appreciate and share and engage, right? Because like when this is the whole discussion we had yesterday about you're going to put stuff on LinkedIn and you know, do you want the engagement? do you want to do those like stupid uh you know write you know I want it here on the comment section and I'll send send you this deck like yeah it's maybe beneath us quote unquote but but but that's how you get the relevance um and I think I think to me kind of the click what's kind of clicking us is like ideally for the least cost possible right because you could pay for relevance if you had an unlimited budget right now you'd buy infinite ads everywhere and you would get relevant Regardless of, you know, maybe your message is going to be less important there, but if you could billboard the entire world, people would see you as with a reputation.
+ 
+ 
+00:42:19
+ 
+Jonathan Assayag: But we don't have infinite budget.
+Shaurya Singh: Yeah.
+Natasha Turak: Sorry, Shia. You were saying something earlier and I feel like I kind of cut you off. I apologize. Um, if you wanted to talk a bit more
+Shaurya Singh: Uh no, it was just uh the Yeah. I I mean but when we uh when we introduced the idea of just cause um that thing
+Natasha Turak: about
+Shaurya Singh: by Arya came to my mind because that sort of sounds like the exact same uh line of thought like you know that the examples that we were giving it before that. So if if that is a contender we can work with it.
+Natasha Turak: Yeah.
+Shaurya Singh: If we want to sort of workshop it a bit, we could do that. And maybe like we land on an idea that is like a little bit more um like you know a little bit more powerful than just like vanilla marketing on social media.
+Natasha Turak: Yeah. Um, and what did you guys think of uh the sort of approach like um Hold on.
+ 
+ 
+00:43:19
+ 
+Natasha Turak: Where did I just a second? Um, sort of because Arya has his he loves to say we're the world's most boring AI company. It's sort of like a like a why AI should stay boring or why you should trust I don't know like trust us because we're the because we're boring. like AI is scary and like we don't want to take away the art from you and the this from you and that like you know you shouldn't trust AI that isn't boring like you want it to be boring like let's embrace this and like double down on it. I don't know. I mean, if you guys think it sucks, you can just say so.
+Jonathan Assayag: Well,
+Natasha Turak: That's fine.
+Jonathan Assayag: but so so you
+Natasha Turak: But I feel like it stands out a little bit because everyone's like,
+Jonathan Assayag: know
+Natasha Turak: "We're revolutionary." And it's like, we're doing the boring stuff so
+Jonathan Assayag: it's provocative, right?
+Natasha Turak: that
+Jonathan Assayag: If it stands above the noise. That's exactly the point. You have to find the stuff that's and and that line that you just said isn't necessarily like a bad line,
+ 
+ 
+00:44:15
+ 
+Natasha Turak: Okay.
+Jonathan Assayag: right? Like it's not beneath us in that sense. It's just provocative.
+Natasha Turak: Okay. Okay. So, if you like it, because I think we could really like work with that and do things with it. And I mean, it's already like it's Arya coined basically. So, we know it's we know he's cool with that. Um, and like I literally never I've never seen any language like that presented by any company. Most of the AI stuff you see, it's all the same type of hype. And they're like, "We're the best. We're going to revolutionize this and transform this and elevate that." and it's like all chat GPT buzzword like hype words. Um, and I feel like it's taking a completely contradictory approach. We're almost trolling at that point, but in like a a way that could work. It's like if you think about, you know, if you want to hire an accountant, you you want someone boring. Like you don't want someone crazy who's like a Burning Man.
+ 
+ 
+00:45:17
+ 
+Natasha Turak: like um in these these kinds of uh industries like it should be serious so it should be
+Jonathan Assayag: You know,
+Natasha Turak: boring.
+Jonathan Assayag: this is not for Mario, right? Like this the boring company. Elon has a boring company.
+Natasha Turak: Oh yeah, but it's because boring is like it's it's boring.
+Jonathan Assayag: Yeah. Yeah. Yeah. It just stands out. Yeah. I just want to make sure that you're like,
+Natasha Turak: Yeah.
+Jonathan Assayag: "Hey, we coined the term Yeah,
+Natasha Turak: Oh no, no, no, no. I I mean as in we're making fun of Yeah.
+Jonathan Assayag: we call it for for AI. Yeah. Okay. So, so hold on the content for now.
+Natasha Turak: Yeah.
+Jonathan Assayag: Let's go back to the the metrics and the and the success definition. So,
+Natasha Turak: Elon Musk was the other night.
+Jonathan Assayag: are we aligning what's the feedback from the group around like eyeballs?
+Natasha Turak: Weird.
+Jonathan Assayag: Because engagement also beggets eyeballs, right? Like if you can get engagement, you just get more eyeballs.
+ 
+ 
+00:46:11
+ 
+Jonathan Assayag: That at least in social media
+Natasha Turak: Yeah, eyeballs are good,
+Jonathan Assayag: think
+Natasha Turak: but I think yeah, if we can sort of sharpen like what what kind of eyeballs on what and how important it is to us um because again like coming from an industry where like eyeballs are so important, but then you can be led astray by that um and stop putting out stuff really of substance because you just like want more eyeballs and there's the quantity versus quality debate. So, um I don't know if anyone else wants to um share their thoughts and
+Murali Krishna Yamsani: Um yeah I just have one thought. So uh I think yesterday we were discussing about this quality
+Natasha Turak: feelings.
+Murali Krishna Yamsani: versus quantity uh aspect. So I think eyeballs is a good metric but we should add some kind of quality metric around that. Um yeah uh
+Jonathan Assayag: What's a quality metric to you?
+Murali Krishna Yamsani: the direct correlation will be the kind of people who are interacting with us. If at all uh it is likes then who are the people liking our posts.
+ 
+ 
+00:47:26
+ 
+Murali Krishna Yamsani: If it is sales leads who are the kind of what is the profile of the companies that are coming uh to us for
+Jonathan Assayag: Yes.
+Murali Krishna Yamsani: leads. So that that would be a quality for me.
+Jonathan Assayag: So, so what? So, what about this line that I have here?
+Murali Krishna Yamsani: eyeballs ideally by Yeah. Sorry, I didn't see that. Yeah.
+Jonathan Assayag: Yeah, no worries.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: So tomorrow if we go in out in the world and we sponsor every CEO social group, every you know um YPO, imagine anywhere CEOs navigate and uh you know uh AI transformation uh uh agent AI transformation specialist conferences and like we blank those groups. Did we succeed? Like is that is that you know are we we're going to get eyeballs ideally by our target customer? Is that like if we honed it in did did that feel like success regardless of how many likes we had on our LinkedIn page.
+Natasha Turak: So just views you
+Shaurya Singh: Oh
+ 
+ 
+00:48:39
+ 
+Natasha Turak: mean?
+Jonathan Assayag: Eyeballs, right? Which is views.
+Shaurya Singh: yeah. Reach and Yeah.
+Natasha Turak: Yeah.
+Shaurya Singh: impressions.
+Jonathan Assayag: Because because in social media my my understanding correct me others is that engagement is great for generating more eyeballs. Like that's the primary reason you try to drive a lot of engagement is so you can get more free eyeballs without having to pay for
+Shaurya Singh: Yes.
+Natasha Turak: Mhm.
+Jonathan Assayag: eyeballs.
+Shaurya Singh: Yeah, that's Yeah.
+Jonathan Assayag: Like how much do you care?
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: I mean maybe people will remember you a little bit more if they had to go and type something out. But if they see you 10 times, you know, they're going to get a lot more impressions. You're going to get a lot more uh, you know, idea of relevance. That's why companies put uh uh commercials in the Super Bowl because there's so many eyeballs right right there. And they make it funny or snazzy so that you remember it.
+Shaurya Singh: Right.
+Jonathan Assayag: So it's provocative basically like the the funny commercials, right?
+ 
+ 
+00:49:43
+ 
+Jonathan Assayag: often they're just provocative so you remember they're stand they stand out of the above the noise. Okay.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: So if we can conclude that this is our sort of northstar metric for success. If we got a lot of eyeballs ideally from our target buyer and enabler we've been successful.
+Shaurya Singh: Yep. I think I'm aligned with that.
+Jonathan Assayag: Okay. All right. Let's go to the next question. So, we talked about success metrics. We talked about who's our customer. All right, let's talk about the channels
+Natasha Turak: Mhm.
+Jonathan Assayag: next. And the themes, we talked a little bit about the themes that they need to be provocative and or stand above the noise so that it be gets better eyeballs,
+Natasha Turak: Yeah.
+Jonathan Assayag: more eyeballs without us having to pay for them.
+Murali Krishna Yamsani: Yep.
+Natasha Turak: And so like for now that kind of content would not really be product related. It would be very much sort of on a like thought leadership philosophical talking about the state of the world talking about the future of work um and AI is the great equalizer etc. Um and empowering process owners like that would be the kind of stuff we're talking about.
+ 
+ 
+00:51:24
+ 
+Natasha Turak: So, it's a bit more theoretical rather than like strictly rather than specifically product related. Obviously, like I I want more product related stuff out there, but like perhaps that waits until we have the new
+Murali Krishna Yamsani: Uh so John when you main themes you are talking about like the content buckets uh like ABPX or um the product one that just Nadasha mentioned and yesterday you made uh you you talked about AI as the great equalizer basically opus is bringing everybody on the same pedestal so do you think these are the themes that uh you're talking
+Jonathan Assayag: Hold on.
+Murali Krishna Yamsani: F
+Jonathan Assayag: Uh Latasha just sparked something I think that's important for us to get aligned before we go into that level of depth because because and and this is part of this process, right? We're going to go top up, bottom, bottoms up, top down and and see what it lands. So what she just said that actually maybe breaks this a little bit is that um you know do we need to share product content? Is that at all relevant?
+ 
+ 
+00:52:33
+ 
+Jonathan Assayag: And oh hold on a second.
+Murali Krishna Yamsani: Sure.
+Jonathan Assayag: Kid kid is up. Give me a second. Can you guys take over? Just give me one second.
+Shaurya Singh: Yeah.
+Natasha Turak: I'm gonna take this opportunity to
+Shaurya Singh: What do you
+Murali Krishna Yamsani: To take a
+Natasha Turak: Oh,
+Shaurya Singh: think?
+Murali Krishna Yamsani: nap.
+Natasha Turak: I was going to take a quick bathroom break, but who was that you or was that Shia who asked? What do we think?
+Shaurya Singh: Asked about what?
+Natasha Turak: Somebody was asking something just now.
+Shaurya Singh: No, I don't know.
+Murali Krishna Yamsani: I was actually asking when when we had mentioned themes over there. Uh uh what do they exactly mean? Like is it is provocative a theme or is it actual uh functional stuff that we can talk about which is like ABPX or
+Natasha Turak: Yeah, I think those are all different themes and we should um refine that also because I know like Arya and Ail want us to talk about ABPX. Nobody still really knows what ABPX is.
+ 
+ 
+00:53:35
+ 
+Natasha Turak: Um and I'm working on Yeah.
+Shaurya Singh: including us.
+Natasha Turak: Um, so Nil and I were supposed to have a meeting to sort of like whittle it down the other day, but he didn't have time. So that's still a work in progress. Um, but I think we should have a bunch a couple of different themes because like we're going to need to be coming up with a well, I'm going to need to be coming up with a lot of stuff um to to to get engagement like hopefully increasing on our channels. So, I think the more themes the better. Although, obviously, we don't want to be like running around like headless chickens. It would still somehow be clean and understandable.
+Jonathan Assayag: Sorry about that.
+Natasha Turak: Welcome back.
+Jonathan Assayag: Um,
+Natasha Turak: No problem.
+Jonathan Assayag: yeah. Um, okay. So, the the point I was trying to make is just on the on the product.
+Natasha Turak: Oh,
+Jonathan Assayag: Do we share do we put out product content or do we just put provocative content?
+ 
+ 
+00:54:39
+ 
+Jonathan Assayag: Um, and so
+Natasha Turak: I think product content is important because like look, if you're an enterprise CXO or a buyer or whatever and you're like cool, okay, like there's some really interesting content here. These people seem to have some cool thoughts and obviously, yeah, we're going to have product information on the website. So, okay. But I think at the end of the day, they still want to know like what are they actually offering? Like what do they actually do and how much can I learn about this
+Jonathan Assayag: Right.
+Natasha Turak: easily?
+Jonathan Assayag: So what I wanted to get to is just this which is you you want to maximize eyeballs but you ultimately want to be the world's most trusted authority on enterprise and supervisory automation. So you can't just talk about like the world's going to end if you're not actually getting to your goal.
+Natasha Turak: Yeah, this
+Jonathan Assayag: But you will measure your goal by I think these these things go together.
+Natasha Turak: philosophical
+Jonathan Assayag: I got to figure out the order. But um ultimately where you want to be is is this the world's most trusted authority.
+ 
+ 
+00:55:44
+ 
+Jonathan Assayag: But you but you're trying to get a lot of eyeballs in order to get there. And I think the content has to help you
+Natasha Turak: The content has to be stuff that makes people trust that you're an authority. Which means you have to talk about technical stuff, not just woo woo philosophical provocative stuff.
+Jonathan Assayag: I don't know if the word is educational, but it has to be
+Natasha Turak: Um maybe not but uh I don't know does technical make sense in
+Jonathan Assayag: No,
+Natasha Turak: this?
+Jonathan Assayag: no, because it could you could do the white papers and then you don't you may not get there.
+Natasha Turak: No.
+Jonathan Assayag: So, I be want to be
+Natasha Turak: Okay. Um uh like not like
+Jonathan Assayag: careful.
+Natasha Turak: concrete but like actually draws back to the thing. Um applicable maybe applicable to the to the business. Does that make sense using the word applicable in this case? Actionable because it's like
+Jonathan Assayag: It's not exactly actionable, right?
+Natasha Turak: okay well use
+Jonathan Assayag: Because they don't need to take action on it.
+ 
+ 
+00:56:57
+ 
+Jonathan Assayag: I think there's an element of trust.
+Natasha Turak: it.
+Jonathan Assayag: Like the word trust to me
+Natasha Turak: Well pro provocative is also not just eyeballs but it's it's like a brand identity.
+Jonathan Assayag: is
+Natasha Turak: Provocative like um provocative is is is also trust and it's like an emotional like relational sort of um thing that you're doing. I feel like just saying eyeballs kind of cheapens it because we are trying to like build an actual connection with with people and with visitors and potential customers in their minds.
+Jonathan Assayag: Actually,
+Natasha Turak: So, it's like we're not just a completely soulless product. We're people who have a vision. Um Okay.
+Jonathan Assayag: here let me just help think. So, like the let me just break down the goal, right? The world's most is eyeballs, right? If you want to be the world's most anything,
+Natasha Turak: Okay.
+Jonathan Assayag: you need eyeballs. There's no way out of that. Um,
+Shaurya Singh: Yeah.
+Natasha Turak: Yeah.
+Jonathan Assayag: if you want to be an authority on enterprise automation then what do you need?
+ 
+ 
+00:58:07
+ 
+Jonathan Assayag: I think this is the word we were looking for is actionable
+Natasha Turak: Yeah.
+Jonathan Assayag: educational uh like what's that type
+Natasha Turak: Um well like authoritative on
+Jonathan Assayag: of
+Natasha Turak: the science of it. Like I mean just from a like like it's like I
+Jonathan Assayag: so it's authoritative content
+Natasha Turak: when I think of stuff that would make us seem authoritative I think of like when I listen to Phil talk like he's just so smart and I'm like oh my gosh like this guy knows what he's talking about and it's like some of these academic papers yes they're very dry and like most your seuite types are not necessarily going to be reading through this academic paper but like anything that shows that like we are building a product that adds value. There's the provocative stuff which is talking about theoretical things and big concepts and then I just think it's like talking about business and the product and the tech behind it. These are these are it's like the hardware versus the software. I don't know bad analogy but a just authoritative like just just product based technology based industrybased
+ 
+ 
+00:59:21
+ 
+Jonathan Assayag: Well,
+Natasha Turak: content.
+Jonathan Assayag: authoritative content can be like, you know, the customer experiences that we've had.
+Natasha Turak: Yes. Yeah.
+Jonathan Assayag: It can be white papers.
+Natasha Turak: So again related back to the product related back to the product and industries and tech and
+Jonathan Assayag: It can be all those things, right?
+Natasha Turak: technology I think product
+Jonathan Assayag: So that it makes it seem author authoritative in the field like we we could speak with it from a
+Natasha Turak: technology.
+Jonathan Assayag: position of authority means we have lots of
+Natasha Turak: Yeah. So I think product, customers,
+Jonathan Assayag: customers.
+Natasha Turak: industry, technology like and and yeah, we can talk about our product in a way that shows like this is a product that actually works and adds value.
+Jonathan Assayag: that builds trust. I think that's the other piece because it's the world's most trusted the word trust.
+Natasha Turak: Yeah.
+Jonathan Assayag: So authoritative content that builds
+Natasha Turak: and and attract and attracts buyers. I mean, and you know,
+Jonathan Assayag: trust.
+Natasha Turak: builds trust and attracts.
+ 
+ 
+01:00:23
+ 
+Natasha Turak: Yeah.
+Jonathan Assayag: Is this resonating to everybody else? Because folks are quiet so I want to make sure others are
+Nazima Piracha: relatability.
+Jonathan Assayag: second.
+Nazima Piracha: Shouldn't it be builds relatability?
+Natasha Turak: Yeah,
+Jonathan Assayag: What?
+Nazima Piracha: Like somebody be attracted to buy just because there's trust.
+Natasha Turak: that's
+Jonathan Assayag: Sorry.
+Nazima Piracha: I mean they need to relate to the product for them to actually buy it,
+Natasha Turak: yeah, builds trust.
+Nazima Piracha: right?
+Natasha Turak: Um, shows relatability, demonstrates relatability slash understanding of the industries. I think demonstrates relatability slash understanding of industries and problems. Yeah. Okay. Basically
+Jonathan Assayag: Not reliability.
+Natasha Turak: an understanding of uh an understanding of customers problems.
+Jonathan Assayag: Demonstrating relatability is a tactic to get to authoritative content that builds trust and attracts buyers. So I don't want to I don't want to mix it. But this is the the outcome we want is to build trust and attract
+Natasha Turak: Okay.
+Jonathan Assayag: buyers, right? And then demonstrating relatability through problem,
+Shaurya Singh: Mhm.
+ 
+ 
+01:01:49
+ 
+Jonathan Assayag: product, customers, industry, technology, all those things can get us to be more relatable to then build trust and attract buyers. Okay. So, does that does that answer the point that you were making uh and then we can go back to Moral's point, but Natasha, the point you were making like does product content fit in here? I think it's then is this tension between this authoritative content that builds trust and attract
+Natasha Turak: Yeah.
+Jonathan Assayag: buyers but that you can use to maximize eyeballs. So it's not
+Natasha Turak: Well, I mean,
+Jonathan Assayag: straightforward.
+Natasha Turak: I would I would hope that everything can attract eyeballs, like, you know, it's like if we're writing about the product, we don't want it to be like super. But at the same time, Yeah. I mean like if we're writing about the product, it's just I think the main goal is for it to be serious and for it if a thou if if 10,000 people see our article about like you know some new release and some really important technical advantage that we have in a product, but none of those 10,000 people are enterprise buyers, it doesn't matter.
+ 
+ 
+01:03:06
+ 
+Natasha Turak: But if three people look at it and they're all enterprise buyers and they're like, "Ooh, this like really hits our pain points here. This answers our questions of what we're looking for." Then that's like much more valuable. Do you see what I mean?
+Jonathan Assayag: I I I do see what you mean. I think the challenge that you'll have is you if you want you you want to be this authoritative content that builds trust and attract buyers, but to get to a lot of eyeballs of our target user and buyer, you still will need to be
+Natasha Turak: Yeah. Yeah. No.
+Jonathan Assayag: provocative.
+Natasha Turak: So I So I I don't think it's an either or. I think we're capable of doing both. I mean,
+Jonathan Assayag: Yes.
+Natasha Turak: and look,
+Jonathan Assayag: I'm just saying if you Go ahead.
+Natasha Turak: because Yeah. Well, because right now we don't have like actively using customers and because right now we don't have like the new version of the product, it makes sense to start with more of the thought leadership and provocative content so that we get more of a community.
+ 
+ 
+01:04:07
+ 
+Natasha Turak: We hopefully get more interest, more followers and then once we have the product and more of the product and customer story stuff to talk about, then we do have more of those eyeballs. So these things can work together.
+Jonathan Assayag: Yeah, the point that I wanted to just clarify is that how do you know you're doing it wrong? Right?
+Natasha Turak: Oh,
+Jonathan Assayag: Sometimes the question that's worth doing is the opposite question. Like, okay, I have an idea where I need to go. How do I know I'm going the wrong place? Right? If you just put forward a doc on thought leadership, a white paper, did you do this? Well, you did put authoritative content that builds trust in tech buyers, but it wasn't provocative. So, you probably didn't get a lot of eyeballs unless you paid for it.
+Natasha Turak: Yeah. And the thing is like look, whatever your thoughts may be on how boring ABPX sounds, we cannot escape ABPX. Nibil and Arya are like militant about this once we figure out what it
+ 
+ 
+01:05:05
+ 
+Jonathan Assayag: But but but ABPX but ABPX they're you have to pitch ABPX as
+Natasha Turak: is.
+Murali Krishna Yamsani: Look at that.
+Jonathan Assayag: as provocative. We're about to collapse an entire industry of five things,
+Natasha Turak: I think Yeah.
+Jonathan Assayag: billions and billions of dollars into one thing that is meant to be provocative.
+Natasha Turak: Okay.
+Jonathan Assayag: If it if it's not provocative,
+Natasha Turak: Yeah.
+Jonathan Assayag: you're saying the wrong thing. I think that that that's what I'm trying to I'm trying to get you to see,
+Natasha Turak: Okay.
+Jonathan Assayag: which is how do you know you're doing it wrong? If you're pitching a story that isn't above the noise,
+Natasha Turak: Okay.
+Jonathan Assayag: then like what's the point? You're not going to get any eyeballs. And the eyeballs that you do, even if you pay to get all the CEOs to see it, they're not going to remember it. I think there's another thing which is which is why is it's to get him to remember it. So it has to be memorable.
+ 
+ 
+01:05:53
+ 
+Jonathan Assayag: It rise above the noise means memorable.
+Natasha Turak: Yeah. So that's why I also think the we're boring. That's why you should trust us. I feel like that's kind of Yeah.
+Jonathan Assayag: We're boring is a memorable way to talk about us, right?
+Natasha Turak: Yeah.
+Jonathan Assayag: Because who's is exactly what you said.
+Natasha Turak: No one else is saying that.
+Jonathan Assayag: Nobody says we're boring. Who would say that about their company?
+Natasha Turak: No one.
+Jonathan Assayag: That is that is
+Natasha Turak: Exactly. So, it would make me curious. I'd be like, "Wait a second." Like,
+Jonathan Assayag: right.
+Natasha Turak: what's the catch here? Like, why are you talking about this? Like, this like you must be very confident if you're talking about yourselves this way. And like, there must be something good in here. There's like
+Jonathan Assayag: Okay. Is this clear to every like is everybody online? I saw some faces going like this. Is everybody I just I think it's important to
+ 
+ 
+01:06:42
+ 
+Shaurya Singh: We're good. We're good.
+Jonathan Assayag: recognize when we're doing it wrong. How do we know we're we're doing it wrong?
+Natasha Turak: Okay.
+Jonathan Assayag: I think that's probably one of the most important things in your seat to recognize like how do you know it's not going well?
+Natasha Turak: Okay.
+Jonathan Assayag: And it and it may be poss um just trying to jump ahead a little bit like it may be that just writing a post about the world is going to end that or whatever Arya says is maybe less valuable than having Arya in an interview like setting talk about it.
+Natasha Turak: Yeah.
+Jonathan Assayag: like he's much more personable and like it gets exciting and there's an audience there and people are kind of I don't know
+Natasha Turak: Well,
+Jonathan Assayag: maybe but but I'm just trying to show the range of just just
+Natasha Turak: he he has he's he's Yeah. Yeah. Well, yeah.
+Jonathan Assayag: Yeah.
+Natasha Turak: The different forms of content for it. There's video, there's all sorts of different stuff. I mean, he was his interview with Becky Anderson on CNN, which we have on the site, and his podcast with Forward Start, which we have on the site currently, and we have on the LinkedIn.
+ 
+ 
+01:07:49
+ 
+Natasha Turak: Like, those were really interesting, and he's great, and he he talked about all that existential stuff. I mean, we can just like repeatedly put like snippets of that out there. Um, because again, like he can say it on a podcast, then it's one podcast. What do we do? like put different iterations out of it every single week like like hey guys we're posting this again like you put it out once but is there like a strategy behind like repeating certain uh themes because yeah I mean Arya is great when he talks about it and he does talk about it like in almost every interview that he does. Um we just have to like get more interviews and just keep putting them out there. Um, but yeah, I mean that's something we'll continue to do like each time he has speaker engagements and podcast appearances, but he has already done that. I mean, it hasn't caught on massively, I think, just because like we don't have that many followers. Obviously, it's all like a work in progress.
+ 
+ 
+01:08:49
+ 
+Natasha Turak: If you but if you guys have any ideas on like how we could better um
+Jonathan Assayag: So,
+Natasha Turak: optimize that
+Jonathan Assayag: so what do we have? 20 minutes left.
+Murali Krishna Yamsani: Yep.
+Jonathan Assayag: So, we got to a little bit of like the the theme strategy.
+Murali Krishna Yamsani: Yep.
+Jonathan Assayag: I think that's what this sort of would be like. So, it has to, you know, we focusing on particular types of customers, provocative, making sure it's memorable, authoritative content that builds trust and attracts buyers.
+Natasha Turak: Oh,
+Jonathan Assayag: And then I think there's
+Natasha Turak: and also, yeah, so sorry, real quick. We do have about 25 short clips of Arya talking to like an HBS guy that he knows. Um, and they're talking about all these existential topics and it's actually like it's really good and the videos are between like three and five minutes long and we have like 25 of them. Um, and so we could just like once a week or twice a week just put those on LinkedIn with like a little caption and like that builds like Arya's like recognition and the things he's talking about and they are genuinely interesting to listen to.
+ 
+ 
+01:10:12
+ 
+Natasha Turak: Um, and then you know put them on the YouTube and put them wherever. Um, so go ahead Marley. Oh, you're muted. You're muted.
+Murali Krishna Yamsani: say like if if we post it in our current state I don't think we will get any kind of reach we have to uh boost it so ju just the
+Natasha Turak: Boosting is a good means to an end. I feel like it's like just boosting because it's like it will give us the follow
+Murali Krishna Yamsani: oper
+Natasha Turak: hopefully the reach that gains us. I think it's a good thing to do right now while we're trying to like climb up that hill.
+Jonathan Assayag: boosting. I think depending on how provocative the content is, you may need to boost or not boost. The idea of getting provocative content is that it drives more engagement, which drives more followers, which gets you more free eyeballs. So this is why I'm like really trying to understand the the the the role of the prov the provocation of content because if you don't do that you're going to be paying and you may not be memorable.
+ 
+ 
+01:11:25
+ 
+Jonathan Assayag: So the content itself is sort of your is sets you free, right? Let the content set you free. If you have enough provocative content that's memorable that people are following.
+Natasha Turak: Yeah,
+Jonathan Assayag: I'll just give an example.
+Natasha Turak: but sometimes you still need to boost it like just to get it to the to more people who will engage with it because right now we still have like pretty small
+Jonathan Assayag: who who will engage because when they do engage that gives you more
+Natasha Turak: or so it has to be good content anyway.
+Jonathan Assayag: free,
+Natasha Turak: It has to get it has to be good content anyway.
+Jonathan Assayag: right?
+Natasha Turak: But we can I think deploy a bit of help in getting the good content in front of more
+Jonathan Assayag: Yes. It speeds it up. Yes. But but I'm saying that the we talked about what's the success metrics and we talked about followers and engagement.
+Natasha Turak: people.
+Jonathan Assayag: The point of of getting these these are leading metrics towards the eyeballs you're about to get.
+ 
+ 
+01:12:13
+ 
+Jonathan Assayag: You're going to get a lot more eyeballs if you see more followers. If you get more engagement on a post, you get more eyeballs. It's a I'm just trying to show like the clarity that all these signals that we can get on a platform are only trying to um drive this idea of free eyeballs ideally of your target market, which it may or may not even be. So you could if you boost wrong and part of the boosting I think is to try to get you to be more on target, right? You could boost to a specific audience type. Uh but it's important for it to be provocative to be
+Natasha Turak: Mhm.
+Jonathan Assayag: memorable.
+Natasha Turak: Mhm.
+Jonathan Assayag: And and if it's something that's provocative enough that people want to comment on it because they're so pro provocated, then you're going to get more engagement.
+Natasha Turak: Yeah.
+Jonathan Assayag: So it kind it all starts it all comes back to the content. Like the first block that you put down on the thing is the content. If the content is great, everything else on top makes gets easier.
+ 
+ 
+01:13:17
+ 
+Jonathan Assayag: If the t the content's not great, like again back to the idea,
+Natasha Turak: There's very little you can do about
+Jonathan Assayag: how do we know we're doing it wrong? How do we know you're doing it wrong?
+Natasha Turak: it.
+Jonathan Assayag: If the content's not great, if it's just a white paper that Phil wrote and you throw that out there, it may not go anywhere.
+Natasha Turak: Yeah.
+Jonathan Assayag: And this is like hard I think and and not very clear.
+Shaurya Singh: Yeah.
+Jonathan Assayag: So I want to make sure that we're we're aligned or not aligned on it because I think it's very easy to just do the motions but not get the results that you wanted and not be really sure why.
+Natasha Turak: Yeah, definitely.
+Jonathan Assayag: And then even to make the case internally that we're doing the right thing without a clear north star. I think that's really hard too. Because,
+Natasha Turak: Yeah.
+Jonathan Assayag: you know, I've talked to Arya before about this. She's like, "Oh, let's do podcast. Let's do all these things." But what what why do we know we're doing it right?
+ 
+ 
+01:14:10
+ 
+Natasha Turak: Yeah. Yeah,
+Jonathan Assayag: How do we know we're doing it right versus just doing it?
+Natasha Turak: I agree.
+Jonathan Assayag: Because then you'll start and stop doing a bunch of efforts and then you're not sure.
+Natasha Turak: Uhhuh.
+Jonathan Assayag: Like then you come back to the drawing board and ask yourself why. Okay.
+Natasha Turak: Mhm.
+Jonathan Assayag: Um Okay. How about this? Uh, my daughter's calling. I gotta go run and see what's going on. But can we pause here?
+Murali Krishna Yamsani: Sure.
+Jonathan Assayag: I'm going to try to write a blurb out of this. Maybe if you guys can take thoughts here about the two other questions.
+Shaurya Singh: Okay.
+Jonathan Assayag: What is the right channel and what are the themes for the content based on this? Then I think on Mon on say Tuesday or Wednesday, we could meet again and review it. Cool.
+Natasha Turak: Okay. You want us to do that right now or you want us to do that early next week?
+Murali Krishna Yamsani: Uhoh.
+ 
+ 
+01:15:01
+ 
+Natasha Turak: Okay.
+Shaurya Singh: Mhm.
+Natasha Turak: Cool.
+Shaurya Singh: Okay.
+Murali Krishna Yamsani: Thank you. Yeah, thank you.
+Natasha Turak: All right. Thanks, guys.
+Shaurya Singh: Thank you.
+Murali Krishna Yamsani: You too.
+Shaurya Singh: You too.
+Natasha Turak: Bye.
+Murali Krishna Yamsani: Bye.
+Shaurya Singh: Bye.
+Natasha Turak: Hello. Wait,
+Shaurya Singh: Hey.
+Natasha Turak: so are we talking about this or are we piecing out?
+Murali Krishna Yamsani: Um up to you. Uh we can do it on
+Shaurya Singh: A
+Natasha Turak: Look at that baby.
+Murali Krishna Yamsani: Monday.
+Natasha Turak: He's an orange boy like mine. I don't know where my guy is right now.
+Shaurya Singh: Why did she turn off the camera?
+Natasha Turak: No,
+Shaurya Singh: I thought she was showing us
+Natasha Turak: we were enjoying the cat. We have questions. What's his name? Her name.
+Shaurya Singh: that.
+Natasha Turak: Oh,
+Nazima Piracha: know what happened to my camera?
+Natasha Turak: well,
+Nazima Piracha: I genuinely don't know. But let me check.
+Murali Krishna Yamsani: I think it it it has this smile detection
+ 
+ 
+01:16:05
+ 
+Nazima Piracha: Okay.
+Natasha Turak: I'll tell you I'll tell you a funny story real quick about my freaking cat and
+Murali Krishna Yamsani: now.
+Natasha Turak: work video calls, but like I I was in my old job. I um it was like we have these like big team meetings that would go on forever and like we it was like very rare that like we would actually like really talk and contribute. It would basically mainly be like the managing editor and stuff and we were talking and like so I would have my camera off and I would have my laptop on the table and I'd be like cooking. I'd be like doing something in the kitchen. I'd be listening but I'd be like in my sports bra and like doing and and I'm not facing the the computer. I'm just listening and I'm cooking. I'm cutting some salad vegetables and suddenly I hear, "Hey, is that a cat? Natasha, Natasha, what are you doing?" And I'm like, and my freaking cat had stepped on my keyboard and turned on my camera. And this had gone on for like a good 10 seconds before I realized. And they were like, Natasha, and I mean like in my sports bra with like my spatula and my knife and my cat's butt like on the side of the screen. And I was like, I'm so sorry. And like you can't recover from that because they've seen everything. Like you can't like you just that's it. You're exposed.
+Shaurya Singh: Uh, you guys want to catch up early Monday morning?
+Murali Krishna Yamsani: Yeah.
+Shaurya Singh: I thought that idea would get some traction.
+ 
+ 
+Transcription ended after 01:17:50
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

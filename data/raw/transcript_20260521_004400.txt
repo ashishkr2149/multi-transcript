@@ -1,0 +1,650 @@
+Feb 12, 2026
+DAILY: PLG, Website, Content, Academy, etc - Transcript
+00:00:00
+ 
+Nabil Mansouri: Hello. How are you guys
+Nazima Piracha: Hi.
+Murali Krishna Yamsani: Good.
+Nazima Piracha: All good. How are
+Nabil Mansouri: doing?
+Nazima Piracha: you?
+Jonathan Assayag: Good morning or good evening, afternoon.
+Nazima Piracha: Good.
+Jonathan Assayag: How are you all doing?
+Nazima Piracha: Good. Good.
+Murali Krishna Yamsani: Great.
+Nazima Piracha: How are you?
+Jonathan Assayag: Good. Been working with Phil on um the discovery product. Starting to get some traction, starting to get some alignment on priority. So,
+Nazima Piracha: Amazing.
+Jonathan Assayag: it's been rather nice.
+Nabil Mansouri: Give me this. How about that?
+Nazima Piracha: Will we have design anytime soon for that?
+Jonathan Assayag: Uh, it's coming.
+Nazima Piracha: Okay.
+Jonathan Assayag: Um,
+Nazima Piracha: Nice.
+Jonathan Assayag: just to close out on the recommendation you had. Oh, I think he's building the other one right now. Got it. Okay. So, I think that Are we good on the design of the uh of the drop down and kind of the the three rows you were talking about?
+Nazima Piracha: Yeah, but I just want to confirm you don't want the additional row to appear with the three cuz one option is there's an additional row and that has the three options stated or when the user just clicks on the advanced settings icon the drop-own appears it has three options bases
+ 
+ 
+00:01:27
+ 
+Nazima Piracha: whichever one you want to click on you can set the intensity
+Jonathan Assayag: I' I' I'd rather not be prescriptive about that. What I can tell you what I looked at and I think is not a good design. I think clicking an icon to then click another icon is a bad design.
+Nazima Piracha: Okay. Okay. So,
+Jonathan Assayag: Right?
+Nazima Piracha: we'll keep the first icon and then we'll see
+Jonathan Assayag: clicking an icon and then just seeing detailed and with a dropown is also a bad design
+Nazima Piracha: how
+Jonathan Assayag: because I don't know what the detailed is about.
+Nazima Piracha: Yeah, makes sense. That's Yes.
+Jonathan Assayag: It requires me to have another click to understand what it's about. So once I once I do the effort of clicking an icon,
+Nazima Piracha: Yes,
+Jonathan Assayag: I should just have like knowledge of what to choose, right? Because it's only three
+Nazima Piracha: perfect. Got it.
+Jonathan Assayag: options.
+Nazima Piracha: So, I'll just work on that like after a meeting. I think it should be
+ 
+ 
+00:02:13
+ 
+Jonathan Assayag: Yeah. And like one last point just no move to this meeting but a lot of people love to
+Nazima Piracha: ready.
+Jonathan Assayag: innovate on design. You need to be really careful to want to innovate in design because you're you're messing with people's habits and understanding of how technology works. You're just trying to get a job done.
+Nazima Piracha: Yep.
+Jonathan Assayag: So the simplest path is to follow stuff you already know how to do as a user already knows how to do right. You don't want to reinvent the wheel for them because it's generally when they fall
+Nazima Piracha: Yes.
+Jonathan Assayag: off.
+Nazima Piracha: So I actually took the reference from Gemini for this. Um and they do have like when you when you click on the drop down the first thing that just says is fast and then but basically you have to click on it again to understand what the context is and
+Jonathan Assayag: Yeah, let's take it offline.
+Nazima Piracha: you open it.
+Jonathan Assayag: But but you that's my feedback. Like I'm not going to tell you how to do it.
+ 
+ 
+00:03:05
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: I'm going to tell you how not to do it.
+Nazima Piracha: Perfect. Uh just to confirm once we have the designs ready when are we shipping this to the engineering
+Jonathan Assayag: Okay?
+Nazima Piracha: team?
+Jonathan Assayag: Get the design ready and then we should put it into a ticket for engineering and then have a conversation with
+Nazima Piracha: Perfect. Okay. Okay.
+Jonathan Assayag: them.
+Nazima Piracha: Um I don't think we have a lot of updates specifically for PLG right now. Should we get started on the pricing strategy?
+Jonathan Assayag: Let's do it. And uh I can't remember from the B was on yesterday, so we may need to bring him up to speed.
+Natasha Turak: Should we
+Nabil Mansouri: Just a quick question. No,
+Natasha Turak: just
+Nabil Mansouri: I I was not on yesterday unfortunately.
+Nazima Piracha: Yeah.
+Nabil Mansouri: Um I'm curious whether are are we still it like are people still using the tool or or where are we?
+Natasha Turak: I don't
+Nabil Mansouri: I know there were two one dropped off like where are we?
+ 
+ 
+00:03:51
+ 
+Nabil Mansouri: If you could just give me like a five minute update please.
+Nazima Piracha: Yeah. Yeah. Yeah. Yeah. So, in terms of the consultants, we've closed engagements with another two of them. So, now we have three consultants who who are done. The last one still remaining and most likely with him actually we will have our feedback session tomorrow. So, after our call today, we will send him the link to just schedule his feedback call and then um by tomorrow basically we should be done with all four of them. We've added and updated all the learnings. Um so in terms of all three parts um product, education and incentives there are some learnings that do not have an action item. So those are specifically highlighted within the document and the rest of them are just updated in the sheet and all of them have action items and next steps um and owners assigned to
+Nabil Mansouri: One question.
+Nazima Piracha: them.
+Nabil Mansouri: When we say we're done, is that mean that like they're not continuing and we did our part and and like we're saying goodbye or like what does done mean?
+ 
+ 
+00:04:44
+ 
+Nazima Piracha: Um well I mean not necessarily goodbye but also they just all of them basically have the reaction of okay we're going to wait and see what the product offers once it's improved. Um everyone's had the same reaction.
+Jonathan Assayag: Can
+Nazima Piracha: We're super excited to see what you'll be offering in the improved product and we would love to continue at that point
+Nabil Mansouri: Okay.
+Nazima Piracha: then.
+Nabil Mansouri: So at at this moment go
+Jonathan Assayag: you just answer to the sorry just to help you answer your question can you just answer to Nibil when you ask the
+Nabil Mansouri: ahead.
+Jonathan Assayag: question how how willing are you you know how disappointed would you be to keep going with opus very disappointed somewhat disappointed not disappointed I no longer use opus what was the answer for all four of
+Nazima Piracha: So Kunal didn't answer that question because with him like the conversation was very different as we discussed earlier with Diana it was I will not be disappointed right now if opus was taken away with Ashish it was I would be somewhat disappointed but there's still a lot of work that needs to be done in the product and with Eigor we've not had that conversation
+ 
+ 
+00:05:40
+ 
+Nabil Mansouri: Okay,
+Nazima Piracha: yet
+Jonathan Assayag: But the vibe overall is that people are not there is no very
+Nabil Mansouri: got it.
+Nazima Piracha: no there's no disappointed
+Jonathan Assayag: disappointed.
+Nabil Mansouri: Yeah. So, okay. So at the end like we we need we need more in order to to grab people. Okay. Got
+Nazima Piracha: Yes.
+Nabil Mansouri: it.
+Nazima Piracha: And some of the product improvements that we're thinking are along those lines now. So, how do we improve the
+Jonathan Assayag: This to me
+Nazima Piracha: experience?
+Nabil Mansouri: Okay. Got it.
+Jonathan Assayag: the is a little bit of the impetus of the conversation we had earlier today which is I mean PLG right now is is minute in our scope of what everything we're doing but it's it is a a temperature check
+Nabil Mansouri: Yeah. Yeah.
+Jonathan Assayag: on how people are seeing especially because it's coming not even from process owners or business
+Nabil Mansouri: Yeah.
+Jonathan Assayag: owners but it's coming from automation consultants who should be more friendly to us right in that in in the ability to use the tool.
+ 
+ 
+00:06:32
+ 
+Nabil Mansouri: Yep. Agreed.
+Murali Krishna Yamsani: Cool. Uh,
+Jonathan Assayag: Okay.
+Murali Krishna Yamsani: you want to start?
+Nabil Mansouri: Let's continue.
+Murali Krishna Yamsani: Right. Okay. Can you guys hear me? Okay.
+Nazima Piracha: Yes.
+Murali Krishna Yamsani: Um, so, um, on the content side,
+Jonathan Assayag: Yes.
+Murali Krishna Yamsani: uh, I think it was really useful having the conversation that we had yesterday on talking about success. Um because I think we kind of had like an inflection point moment where it was like okay because you were saying okay well if you want you know good su success metrics on LinkedIn you have to get eyeballs to do that you have to be provocative. You were saying you know people aren't going to click on like an APBX white paper they're going to click on like as as Shia sent um in the Slack yesterday this sort of AI doom sloth. Um, and I really think that's not the direction we should go in because while that may get clicks and look, like I worked at CNBC for, you know, eight years, it's like, yeah, clickbait gets clicks, but we never wanted to be clickbait people because everybody also knows it's crap.
+ 
+ 
+00:07:32
+ 
+Murali Krishna Yamsani: Like, that doesn't get people to come and buy stuff. Like, it might get them to click on it. it might get them to share it. But if our ultimate goal is to um really make something that's compelling for enterprise customers and to get sales, then I think we actually shouldn't be afraid to lean into the serious and the more boring. I mean, we can still like find ways to make it interesting um through thought leadership content, but I think um it's not really worth chasing like provocative content because it's very hard to sustain that also and there's so much of it out there. Um I don't know. I think uh and and so that then begs the question, okay, how do we like sort of recalibrate how we're looking at the success metrics? So um with like just LinkedIn in particular, um I think rather than like view counts, it's the quality of like who is actually looking at our posts, who is clicking, who is engaging. And so you can look and so um Morali has put together something where you can basically break it down by the seniority and the job titles of the viewers and we can use those as our success metrics to try and make sure that those um numbers of the specific
+ 
+ 
+00:08:46
+ 
+Murali Krishna Yamsani: like roles that we're targeting uh goes up. Now of course like even if these numbers improve that doesn't directly translate to people either visiting the site or you know calling the sales you know contacting sales and it's hard it's impossible to know like if there's a direct correlation or causation rather but it's still better than nothing um if we're getting those types of eyeballs. So I guess I'll let Morali um yeah uh so related to success metric which is where we um wanted to have like a clear uh understanding about how are we measuring whatever we're doing. Uh so um the the the the direction that we are trying to take is not get just engagement rate but uh something called uh QW which is quality weighted engagement rate. Uh typically the way uh QWR managed is whenever your your post gets 100 likes and 10 comments and five shares, a share is much more valuable than like. So you assign a weightage to each of the reaction that you get on your post and you then measure uh the quality weighted engagement rate.
+ 
+ 
+00:09:55
+ 
+Murali Krishna Yamsani: So here uh we want to just translate that to our uh page views on a weekly basis. So the way we want to do this is this is I have downloaded this for a particular period. Uh so we have all these five different uh six different kinds of um uh metrics that we get which is location, job function, industry, seniority and company size.
+Nazima Piracha: Thank you.
+Murali Krishna Yamsani: This is uh the final metric is still under making but this is what we will be doing. So if you take seniority for example, we have all these kind of uh seniority levels that we can see and the total views that we have. Then we assign a score to each of these seniority levels. So here I have assigned a score of 0.1 to uh unpaid training and entry. Then assigned a score of 0.5 to senior and manager level and assigned a score of one to top management level. And we have and we got a weighted average score of 0.57.
+ 
+ 
+00:10:54
+ 
+Murali Krishna Yamsani: Now uh when we start doing this LinkedIn post, this is a metric that we will be tracking on a week-on-week level uh to see if we are maintaining this or improving this. Ideally we want to improve these metrics that is we want uh more senior level people uh visit our LinkedIn page because the kind because we are saying that the post that we will be doing will be more for a senior uh uh level folks than um builders. So this is what this is the direction that we are heading towards. Uh this is still work in progress but uh would love to hear your thoughts.
+Jonathan Assayag: So you're let me play it back. Let me make sure I understood. You're saying we need some kind of quality score about the audience type, right? And so it may over time this will be directionally helpful but not
+Shaurya Singh: Yeah.
+Jonathan Assayag: specific like yesterday was 0.5 today's 57 we're directionally going in the right
+Murali Krishna Yamsani: That's right. So we should be tracking this on a week-
+ 
+ 
+00:12:00
+ 
+Jonathan Assayag: way.
+Murali Krishna Yamsani: toeek level or a fortnightly level and not on a daily level.
+Jonathan Assayag: And then you're also going to measure total
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: views.
+Murali Krishna Yamsani: So I want to come to one formula because we have a lot of metrics here. So for example, company size is also another important metric that we want to track. We want to get more traction from people from larger companies. Uh then there is industry. uh so uh this I I'll work on this and try to come to a number that that is reasonable but yeah the the way want to do we want to do it is like assign a weighted average score for each of these metric and then uh track that on a week toe
+Jonathan Assayag: Okay. Yeah. So,
+Murali Krishna Yamsani: basis.
+Jonathan Assayag: I get what you're doing as a mechanic. You're just trying to take multiple metrics and come up with one metric. But that actually,
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: if you break it down,
+ 
+ 
+00:12:48
+ 
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: it's actually pulling multiple metrics. What is what are you optimizing for to get this score to be a one? What has to happen?
+Shaurya Singh: the share of your audience um skews towards higher uh ranks.
+Jonathan Assayag: So, higher ranks and then I'm assuming there's going to be some quantity here like number of people who are looking.
+Shaurya Singh: I mean this particular metric is only about distribution right because it's a weighted average.
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: So, I'm assuming you're going to combine it with something about like quantity of view. So it's quantity user type or you know participant or viewer type
+Shaurya Singh: So,
+Jonathan Assayag: and then is there any aspect of engagement.
+Murali Krishna Yamsani: This is a proxy. This is a proxy for engagement because um for like when we typically look at engagement right we see at on a post level like every post that we are doing what is the kind of engagement we are getting but unfortunately LinkedIn doesn't support these kind of metrics for uh post level.
+ 
+ 
+00:13:50
+ 
+Murali Krishna Yamsani: They only give us on a uh uh period level.
+Jonathan Assayag: Yeah, the challenge that I'm just let me just get to the challenge.
+Murali Krishna Yamsani: So,
+Jonathan Assayag: The challenge that I'm seeing is that eventually if there's a quantity aspect to this, like we want more people, right, as opposed to less, then you have two routes. You either pay to play, right? You're going to throw money at LinkedIn to get more eyeballs or you have to make the content
+Murali Krishna Yamsani: Mhm.
+Jonathan Assayag: more viral.
+Murali Krishna Yamsani: Yeah. But we're still focused,
+Jonathan Assayag: Sure,
+Murali Krishna Yamsani: I think, on quality of visitors rather than sheer quantity.
+Shaurya Singh: I need
+Jonathan Assayag: you can have five people at the same level.
+Murali Krishna Yamsani: Obviously, we do want we still do want it to grow like
+Jonathan Assayag: You want you need both,
+Shaurya Singh: Um,
+Jonathan Assayag: right? I mean, you need the quantity.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: The quantity is not to be, you know, when social media started, they were giving quantity for free.
+ 
+ 
+00:14:40
+ 
+Jonathan Assayag: Now, they're very conservative with quantity. You either pay to play or you need to be so compelling in what you're sh putting
+Shaurya Singh: look.
+Jonathan Assayag: out that it's making people on the other side of the platform who are just coming to scroll through LinkedIn want to stay and read and watch and and consume for longer and longer. That's the game. That's the LinkedIn game. That's the social media game. But I just don't know. Again, I go back to the type of posting that you're doing in order to get quantity because I I agree with the methodology here. I'm just trying to get to the next piece that you're going to have to ask yourself, which is how do we get the quantity? Is it by paying or is it by making posts something that is more and more
+Shaurya Singh: So, um, on this sheet, I mean, I don't know,
+Jonathan Assayag: compelling?
+Shaurya Singh: we haven't seen the other sheets. I if they are I don't know if they're like, uh, set up the same way.
+ 
+ 
+00:15:31
+ 
+Shaurya Singh: uh but for this sheet specifically uh I mean quantity is also very clear right like you just sum up the total views and that's your quantity for the so you like you know where you have written the score thingy um you just replace that with the sum of the views and then you want both of those metrics to
+Murali Krishna Yamsani: Yes.
+Shaurya Singh: go up so like more people are viewing it but also the distribution of people who are viewing is skewing
+Murali Krishna Yamsani: That's right.
+Shaurya Singh: up
+Murali Krishna Yamsani: So, we have to actually come up with a number that takes into account both the quantity and quality. This is just one part which is a weighted average which tends more towards quality.
+Jonathan Assayag: Yeah.
+Murali Krishna Yamsani: But we have this visitor metrics where we can look at total unique visitors and subtract the people who are coming for jobs and then have a weightage to that metric. Um so uh yeah like like I said it's it's work in progress but this is the kind of metric that we want to get into that is um looking at the engagement rate by averaging or uh by distributing across multiple different metrics.
+ 
+ 
+00:16:35
+ 
+Jonathan Assayag: I think you're still going to have to answer the question about quantity of people, right? Because I get your you're I get the the mechanics are fine. This what we're having a discussion about spreadsheet is mechanics meaning like how do I take this number add it to that number multiply by two weighted average etc. We get a number. Great. Awesome. Peace. Understood. Social media is still about quant. You're looking for quantity, right? In terms of getting these even because this exercise now pivoted from we want people to call and biopus as the major output, but we want the visibility. It's a branding play, right? I just want people to know that we exist and be looking at us and like so if if ultimately this becomes a branding play, how are you going to get to scale? Does that make sense?
+Murali Krishna Yamsani: Yeah. Yeah, absolutely. Um I mean I think that's that's our probably our biggest challenge contentwise because um it brings us back to the question is like do we just want to try and do viral stuff to get to get views?
+ 
+ 
+00:17:48
+ 
+Murali Krishna Yamsani: And I I don't know. I feel like that that's like energy that's kind of distracted from um from I don't know just being taken more seriously as as a product. if that makes sense. I just I don't want us to be like pulled in the wrong direction because we want to go viral with a post.
+Jonathan Assayag: the the other thing I've been thinking about is and I've been writing about this a little bit on a separate document, but there's something that as we go to market and talk to CEOs that turns their head,
+Murali Krishna Yamsani: Okay. What's
+Jonathan Assayag: right? There's got to be something, right? There is. I know there is because I'm writing about it, but there's got to be,
+Murali Krishna Yamsani: up?
+Jonathan Assayag: you know, the product marketing doc writes this out. Also, there is there is something out there that when we tell a CEO, they're like, "Oh, risky startup that I've never heard of. I am interested in you, right? To like put my company on your platform." So,
+ 
+ 
+00:18:42
+ 
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: what that is is interesting, right? I don't know. You know, viral is a different term because it depends on the audience that it can go viral for. It's not mainstream, but it is interesting to a set of people and that is engaging and that is worth clicking into. So, I'm wondering if it's feeding off of that. And I think the the premise of this u is that we put the power in the hands of the business owners,
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: right?
+Murali Krishna Yamsani: Okay.
+Jonathan Assayag: And so so you know the boring thing like all that like that's good too but I'm giving you another another um direction to consider all and it may be an and more than an or. You may have to play with lots of directions but I do think that there's something here you know assuming
+Murali Krishna Yamsani: Mhm.
+Jonathan Assayag: the product holds that is you know AI is the great equalizer. You know we are in a world where you know folks are vibe coding more than you know nobody needs to learn to code.
+ 
+ 
+00:19:45
+ 
+Jonathan Assayag: You can vibe code your way through to whatever you want to rewire your companyly at at I'm going to send you this document at better cost and better speed. Opus is your solution. The two big promises that I think Opus are is making continuously to the market that is turning the heads is this idea that it doesn't have to go through your IT department.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: business owners can take hold which means you optimize cost optimize speed to rewire.
+Murali Krishna Yamsani: Okay. Okay. Yeah.
+Jonathan Assayag: I'll send
+Murali Krishna Yamsani: I mean because you guys are in more more meetings with you know with investors and with
+Jonathan Assayag: you
+Murali Krishna Yamsani: CXOs what would be really useful actually is is if you can pinpoint in these in these in these conversations why is it that they decide you know what I I do want to work with you guys. I do want to give you guys funding like what is it for them? I mean, if you can literally ask them um or I can, you know, go through Arya or something and and try to get those those specific things from some of these partners if if there are any of them that you can talk to or if we can make a list of who we can talk to and say what was it actually that stood
+ 
+ 
+00:20:52
+ 
+Murali Krishna Yamsani: out might go
+Jonathan Assayag: There are multiple efforts happening right now within the company to try to answer your question.
+Murali Krishna Yamsani: through.
+Jonathan Assayag: One is McKenzie is doing a market study to figure out where we're unique in the market.
+Murali Krishna Yamsani: Okay. Okay.
+Jonathan Assayag: They're going to present that tomorrow.
+Murali Krishna Yamsani: this.
+Jonathan Assayag: There's the work that our team is doing also internally myself also driving which
+Murali Krishna Yamsani: Okay.
+Jonathan Assayag: is how's our product differentiated based on what sales is saying uh and then
+Murali Krishna Yamsani: Okay.
+Jonathan Assayag: I think you can ask the leaders Nabil Arya like what have you been seeing from investors and from customers Nabil if you how you're welcome to comment on this now but my read is that the answer is still non-technical you know business not I'm not going to say technical versus non techchnical I I think that kind of verbiage always gets us in a bad play. It is business owners versus having to wait out on it. The business owners can take control and drive at faster speed and cost.
+ 
+ 
+00:21:48
+ 
+Murali Krishna Yamsani: Okay.
+Jonathan Assayag: Maybe no. Okay. Um so I think it Yeah, maybe we can try to do Okay.
+Nabil Mansouri: Sorry. Sorry. I was on mute.
+Murali Krishna Yamsani: All right.
+Jonathan Assayag: No worries.
+Nabil Mansouri: I I was on mute.
+Jonathan Assayag: Go ahead.
+Nabil Mansouri: But I I was just saying that um I I agree with what you said, Joan. I don't think I don't I I think you you you hit it right in the nail, like the head and nail. Yeah. Nothing to add there,
+Jonathan Assayag: I think the um I think we need to do maybe a deeper dive.
+Nabil Mansouri: but
+Jonathan Assayag: Maybe we can take tomorrow. It could be a smaller group of us and we just try to and help you can help you guys hone in on the strategy a little bit
+Nabil Mansouri: Yeah.
+Jonathan Assayag: more.
+Nabil Mansouri: But but but one thing I I will say and you and you mentioned it uh there before the this idea of dist distributed like AI I think sometimes AR uses the the term or the serial innovation sorry distributed innovation does turn heads right at least in the sales meetings I've been and and and I think it's and this idea of empowering the users now whether I think it's another question whether the the product can hold it or not I don't think we should be like giving I
+ 
+ 
+00:23:04
+ 
+Nabil Mansouri: I believe we're talking about content right so if we're putting content that's a that's a promise we want to make so I think we should we should explore that more and I think that was the whole idea around prompt to process whether that landed or didn't land well if you look at the uh at the at the commercials it's all about like empowering like breaking from the chains of like of boringness or mundainess it all went through there and that's what that that campaign was trying to like to express at at the end So putting it out there as that I I I do think like that's a theme that should not be dropped.
+Jonathan Assayag: distributed innovation. Is that what you
+Nabil Mansouri: What was that?
+Jonathan Assayag: said?
+Nabil Mansouri: Yeah. Distributed innovation. Yeah. Yeah.
+Murali Krishna Yamsani: empowering the users.
+Nabil Mansouri: Empowering the users,
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: And by the way, this is provocative.
+Nabil Mansouri: moving
+Jonathan Assayag: This is provocative. This is this is the provocative content.
+Nabil Mansouri: faster
+ 
+ 
+00:23:49
+ 
+Murali Krishna Yamsani: Sorry.
+Jonathan Assayag: It's not provocative to teenagers or college students perhaps, right, in the mainstream, but it is provocative to our customer segment.
+Murali Krishna Yamsani: Okay.
+Nabil Mansouri: and and I I think the provocation also can come if you want to go. And I think Natasha, you had alluded to this a couple times of of a lot of people trying and and hey, there's very strong camps. We met guys yesterday of kind of saying all of you guys are obsolete in the sense AI will just eat everything and like you like there's no place for the human being, right? And I think as a company we've taken a stance that that will not be the case. So kind of like putting the human back into the AI and and how like the human and and the and the AI play together in the future. I think it's something interesting. But it's it's a point of view at the very least that we should try to put out there to see how it lands or whether it it
+Murali Krishna Yamsani: Yeah.
+ 
+ 
+00:24:47
+ 
+Nabil Mansouri: generates
+Murali Krishna Yamsani: Yeah, I like that.
+Nabil Mansouri: Let's
+Jonathan Assayag: Let me when we finish this meeting, let me see maybe we spend an hour tomorrow.
+Murali Krishna Yamsani: Okay.
+Jonathan Assayag: Natasha with you, Morali, me, Nabil, and others are welcome to join, but I don't want to hold everybody up. But I would like to just deep dive into this and kind of almost like a working session as opposed to a review session because we're doing review sessions here,
+Nabil Mansouri: do it.
+Jonathan Assayag: right? But I think it could be worth like a workshop
+Nabil Mansouri: Yep.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: like
+Murali Krishna Yamsani: And and to figure out what streams of like actual content is it like content that sounds like marketing is it sounds like thought leadership is it customer you know customer focused to like there's all sorts of streams where we can just sort of reformat um the themes that we want to uh focus on. So I like these these are helpful. Thank you.
+Jonathan Assayag: Cool.
+Murali Krishna Yamsani: Definitely.
+ 
+ 
+00:25:39
+ 
+Jonathan Assayag: So to close morale like I don't have feedback on the mechanics. I continue to have feedback and questions on success. What are you know how do we define success? What looks what looks like we're doing an amazing job? How much is that related to quantity in addition to the customer type that giving eyeballs? Are there any particular actions we're looking for out of this or is it purely branding? And it's fine to have it be branding. We just need to know what we're getting into. The thing with branding, I've seen it over the years, is very is very hard to quantify a result besides just
+Shaurya Singh: Mhm.
+Jonathan Assayag: eyeballs and so you're kind of throwing this bur and sometimes you're throwing money in the wind and you have no idea when, where, and if it'll ever come back. So the more we can try to manage either the expectations or the efforts or really prioritize what we think is on the grounds and we get some feedback about what we're putting out there that is really helpful.
+ 
+ 
+00:26:41
+ 
+Murali Krishna Yamsani: got it. Yeah. So I think uh we will have we will discuss this more in our work working working session with respect to who are the exact users that we want to target and the the the metrics will definitely depend on that like uh if you're doing a branding play it is it cannot be measured in 60 days. It should be a long-term play versus do we want to do it on a short-term play then things will change.
+Jonathan Assayag: And sometimes the answer is a mix.
+Murali Krishna Yamsani: Yeah,
+Jonathan Assayag: You do both. You do some posts that are meant to be short-term short-term call us if you have questions and some posts that are meant to be branding and you're just sort of throwing content into the wind. Okay.
+Murali Krishna Yamsani: pricing.
+Jonathan Assayag: Pricing.
+Murali Krishna Yamsani: Yes. Uh, I've shared the sheet in the Is it okay if I uh boost? I actually have to get back to Dubai for something.
+Jonathan Assayag: Yeah.
+ 
+ 
+00:27:33
+ 
+Murali Krishna Yamsani: Okay. Thank you guys. See you. Um I've shared the sheet in the Slack channel. I'm putting it in the chat as well here.
+Jonathan Assayag: Has everybody looked at the sheep besides me and the or is this everybody
+Murali Krishna Yamsani: Yeah, we have done this
+Shaurya Singh: Yes.
+Jonathan Assayag: else?
+Shaurya Singh: Yeah.
+Jonathan Assayag: Okay. Okay.
+Murali Krishna Yamsani: together.
+Shaurya Singh: We had to discuss.
+Jonathan Assayag: And you're all
+Shaurya Singh: Yes.
+Jonathan Assayag: Okay.
+Shaurya Singh: Yeah. Let's take a minute to read through it and then we can discuss.
+Murali Krishna Yamsani: Yep.
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: Cool.
+Jonathan Assayag: I'm ready when others
+Murali Krishna Yamsani: Uh Nability to get a chance to look at it. Sure.
+Nabil Mansouri: Yes, I did.
+Murali Krishna Yamsani: Um so John to your comments um why do we want to limit this? The idea
+Jonathan Assayag: Yeah, let me read the comment correctly because I don't want to
+Nabil Mansouri: What? What? Sorry guys.
+ 
+ 
+00:31:43
+ 
+Murali Krishna Yamsani: was
+Nabil Mansouri: Ju just so you say this. Can just cuz I'm on my phone.
+Jonathan Assayag: Yeah. So, there are several rows of the document that I that I was calling out like why do we need this? Why do we need this? And and I want to just share before we dive into the answers like what I'm trying to look at now.
+Nabil Mansouri: Yeah.
+Jonathan Assayag: So, I think we're we're getting pretty aligned which is awesome. I think we we cleared a lot of the ambiguity. We're getting to the you know from the conversation yesterday was very fruitful to close. What I want to understand is what is absolutely necessary for us to cap that is now a burden on engineering to go figure out how to cap it versus you only, you know, two or three changes that they need to make between what is today and tomorrow. Even if we're a little bit overly exposed, we can rev it, you know, the next day once we start getting more traction.
+Shaurya Singh: Uh yeah some of these are actually um not of the category that you're describing.
+ 
+ 
+00:32:41
+ 
+Shaurya Singh: Um so job API access yes we have discussed before but the new items specifically that I think you have highlighted which you haven't um seen before uh the rational is more that um like you know a visiting user who is trying out is not a user who uses these features and they are like more more relevant to someone who has already found value in the product. But if you want to like keep them not gated because of the fact that it will cost less engineering effort which is absolutely true uh we can do that that's
+Jonathan Assayag: I think so.
+Murali Krishna Yamsani: So yeah uh just to add to that uh yeah so uh when when we were
+Shaurya Singh: fine.
+Murali Krishna Yamsani: looking at uh other products also they they've done this mix of giving only some only so much that users can actually experience the product but getting the features that uh is truly pro. So when we think say um a human in the loop and sub workflows one is that Shia mentioned that we these are the users who are just trying or experiencing the product.
+ 
+ 
+00:33:43
+ 
+Murali Krishna Yamsani: So they might find might not find value initially but if they really find value they would not be hesitant to uh go to a pro plan just for this one
+Jonathan Assayag: Yeah.
+Murali Krishna Yamsani: feature.
+Jonathan Assayag: The way I'm looking at this experience, and I think you called it out yesterday, uh, Shroy, like, put something out there that is not the, you know, there's a time element here. Put something out there that's not necessarily what we want to be. If tomorrow we have hundreds, thousands of people joining the free plan, fantastic. We clamp the free plan further down and force people to move to pro. But I don't want to throw a ton of work to engineering when we have nobody in the free plan, right? Like you know very little number of customers and it's not like locking them from human in the loop or sub workflows or custom agents is going to make a huge difference on our side.
+Shaurya Singh: Yeah,
+Murali Krishna Yamsani: F.
+Jonathan Assayag: Do you agree?
+Shaurya Singh: that's I A fair fair argument.
+ 
+ 
+00:34:39
+ 
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: Like I I would love this to be an exercise where we finish it,
+Shaurya Singh: Yeah.
+Jonathan Assayag: we put it into an engineering ticket, somebody over there looks at like, "Oh yeah, 2 minutes I can do this."
+Nabil Mansouri: So,
+Jonathan Assayag: Ah.
+Nabil Mansouri: I I have a question about the the free plan. I is that like free forever or like does it or does it renew? I that I couldn't really understand.
+Murali Krishna Yamsani: So it is free forever but they can build only 25 workflows in their lifetime and this 25 workflows includes active, inactive, archived all of them like all permutations, combinations they can just build maximum of 25 uh workflows and if they reach that limit they uh are prompted to go to pro and they have a limit on number of u jobs that they can run every uh month. So this is a monthly limit on jobs and with respect to workflows it is a lifetime uh cap while we say it's unlimited but we are capping it in the back end.
+ 
+ 
+00:35:42
+ 
+Nabil Mansouri: Got it. So 25 workflows whether so the moment that I but I need to build it on the canvas and then publish it. So it's a publish works correct.
+Shaurya Singh: all all any kind uh published, unpublished, archived, you like there should not be a way for you to get around the limitation. So um
+Nabil Mansouri: So I I want to understand that a little bit more.
+Shaurya Singh: any
+Nabil Mansouri: Sorry guys. So I I go and I and I build I put a prompt I I have a workflow I make the four five 10 30 changes and then when is it count as one workflow what does need to happen once I save
+Murali Krishna Yamsani: It is automatically saved,
+Nabil Mansouri: it or once I publish it as a job.
+Shaurya Singh: I mean,
+Murali Krishna Yamsani: right? So if you
+Shaurya Singh: yeah, that's one
+Nabil Mansouri: Yeah.
+Murali Krishna Yamsani: Yeah.
+Nazima Piracha: It could be at any stage. As long as you clicked on something and you created a workflow, then regardless of where you are on what stage you are in the workflow, it's considered a workflow,
+ 
+ 
+00:36:45
+ 
+Shaurya Singh: Um,
+Nazima Piracha: right?
+Shaurya Singh: yeah. So,
+Nabil Mansouri: Okay. What's up?
+Shaurya Singh: if your question is let's say like you know that ship of thesis question, I make one workflow and then I don't have use for it so I just edit it to like change it and do a second one. Sure, that is allowed.
+Murali Krishna Yamsani: That is still counted as one workflow.
+Shaurya Singh: Yeah. Yeah.
+Murali Krishna Yamsani: Yes.
+Shaurya Singh: So if like you know I just I replace my entire workflow with a new workflow within the same workflow then yes sure but you have to let go of your old one to do
+Jonathan Assayag: I think it's
+Shaurya Singh: that.
+Jonathan Assayag: 25 un unarived workflows, right?
+Murali Krishna Yamsani: No, including archived here. So like active in inactive archive because if we want to remove the archiving part from here like people might figure out. So including all workflows if somebody has gone to a canvas to do something then
+Jonathan Assayag: Yeah. Okay. I think it should be fine.
+ 
+ 
+00:37:38
+ 
+Jonathan Assayag: I would put a asterisk and put something at the bottom saying unlimited is actually capped at 25 to prevent abuse. some some legal ease thing so that uh someone can't sue the company later said you said it was unlimited for life and now we're all you know so we should just make sure we're preventing a lawsuit
+Murali Krishna Yamsani: Yeah. Uh yeah. So, so actually uh a very contradictory thought. Sorry if we uh are going in circles. In that case, why don't we just put 25? 25 also I think is like a very generous number. Even 100 here is a very generous number that we have for for
+Jonathan Assayag: Sure.
+Murali Krishna Yamsani: workflows. Why don't we just just say 25 workflows and 100 workflows here?
+Jonathan Assayag: Do you have a point of view?
+Shaurya Singh: Uh, I I think it was just because unlimited sounds
+Murali Krishna Yamsani: Yeah,
+Shaurya Singh: better.
+Murali Krishna Yamsani: I I I remember we said that limited sounds better and and at that point of time we we were planning to cap at
+ 
+ 
+00:38:37
+ 
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: I think 10 or so but now that we have agreed to move to 25 and 100 the those numbers sound like pretty decent by
+Shaurya Singh: See,
+Murali Krishna Yamsani: themselves.
+Shaurya Singh: honestly, I think it's fine to say 25 mostly because if we cast our minds back to where we started, right? Like what what was the central problem we were trying to solve was to remove this credit anxiety of,
+Jonathan Assayag: Great.
+Shaurya Singh: oh, I'm using an AI feature, I lost like one and a half credits. We've already fixed that. So, uh we've made those parts free. So, it's fine if we say 25. is that like yeah because people are going to go to the builder and they're going to realize that like you know still they can iterate on the workflows as much as they want. So it's
+Jonathan Assayag: I would agree.
+Shaurya Singh: fine.
+Jonathan Assayag: Maybe it's simple enough.
+Murali Krishna Yamsani: Yep.
+Jonathan Assayag: Even the pro plan is not unlimited. It's not a license, right? Unlimited is really the license that enterprise gets.
+ 
+ 
+00:39:28
+ 
+Shaurya Singh: Sure. Yeah, that
+Murali Krishna Yamsani: Yeah,
+Shaurya Singh: works.
+Murali Krishna Yamsani: then we will put a number and clearly mention uh in fine print that this includes all kinds of uh workflows not just active or inactive ones.
+Jonathan Assayag: Yeah, I don't know if you archive if that is still I guess. Yeah, it's fine. We can always come back and and edit to archive.
+Shaurya Singh: Yeah. I mean we find someone like you know maybe a legitimate user finds like we find
+Jonathan Assayag: Let's make it simple for engineering for now.
+Shaurya Singh: some legitimate user who hits 25 or 100 for that matter on the pro plan and they want more and we can figure out how to do that.
+Jonathan Assayag: Yeah. Okay. Nibil, any other questions on this? I think we should shop it around with Arya and Phil on the product meeting and lock and load.
+Nabil Mansouri: Sounds good.
+Jonathan Assayag: Okay. So, let's get ready. Let's be ready to please present this to um Arya and Phil on next Tuesday during the meeting.
+ 
+ 
+00:40:35
+ 
+Murali Krishna Yamsani: All right, great. So, uh we've agreed that these four the ones that you highlighted John.
+Jonathan Assayag: Okay.
+Murali Krishna Yamsani: So, we will not add any other additional thing here. So, this will be part of both free and pro. The only difference that uh pro will be getting extra will be the workflows, credits, integrations. No integrations are the same like job AP access and organizations.
+Jonathan Assayag: Yeah, I think in the columns that you put forward in the design of the opus page,
+Shaurya Singh: Yes.
+Jonathan Assayag: I would still have several rows to make sure you're seeing because part of this is also selling the value proposition
+Murali Krishna Yamsani: Of course.
+Jonathan Assayag: of these rows and they could just still be available or not available and then all of a sudden we just turn them to not
+Murali Krishna Yamsani: Yeah. Yeah. Yeah. So here we have a lot of things.
+Jonathan Assayag: available.
+Murali Krishna Yamsani: So we will be doing something similar to this.
+Jonathan Assayag: Yeah.
+ 
+ 
+00:41:23
+ 
+Murali Krishna Yamsani: And again one thing I'm not sure if uh everybody read this. So uh
+Jonathan Assayag: And by the way, by the way, a quick trick you could do,
+Murali Krishna Yamsani: text
+Jonathan Assayag: go back to that page you were showing, like you could say, you know, and human in the loop check, subworkflows, check, like all these things check on pro, but you still offer them on core.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Like you just don't don't put the check box
+Shaurya Singh: Yeah. Yeah.
+Jonathan Assayag: there because you're not
+Shaurya Singh: It's a It's a nice trick.
+Murali Krishna Yamsani: It's
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: gimmicky.
+Jonathan Assayag: lying, right? They're they are available on pro. You're just not not making them available on
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: No,
+Jonathan Assayag: core.
+Murali Krishna Yamsani: you mean to say we should have this like we just mention it here but not put a tick mark
+Shaurya Singh: No, no, just don't mention it here.
+Murali Krishna Yamsani: here.
+Shaurya Singh: So like sub workflows are just not mentioned in free.
+ 
+ 
+00:42:09
+ 
+Shaurya Singh: They're mentioned in pro but they're available on
+Murali Krishna Yamsani: Yeah. Yeah. It's so cool.
+Shaurya Singh: both
+Murali Krishna Yamsani: It's gimmicky.
+Jonathan Assayag: not gimmicky because this is people are going to go on they're going to start using the product.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: They're not going to know, you know, and it's the person who's going to be frustrated is the person who's going to upgrade to get it, but they already have it, right? So, it'd be the opposite. It'd be annoying if I didn't have it and I got upgraded and I didn't have it again. So, it's not it's just how do we reduce the engineering work?
+Murali Krishna Yamsani: got it. Uh one thing before we close this, I want us to be sure clear that while we are saying pro plan has 100 lifetime uh workflows per organization, we are giving them unlimited organizations. So um yeah, if somebody wants to abuse, they can abuse and they can create more than 100. But obviously we will keep a watch on
+ 
+ 
+00:43:01
+ 
+Jonathan Assayag: just do a scrub on other platforms if they any of them say unlimited for
+Murali Krishna Yamsani: this.
+Shaurya Singh: Yeah.
+Jonathan Assayag: anything.
+Murali Krishna Yamsani: Yes.
+Jonathan Assayag: Unlimited just worry that it gets excessively towards abuse and maybe to to the point
+Murali Krishna Yamsani: Oh,
+Jonathan Assayag: we just made earlier here like putting a hundred isn't any different than a limited.
+Murali Krishna Yamsani: so these guys have unlimited active scenarios which is like scenario in make is like a
+Shaurya Singh: Yeah.
+Jonathan Assayag: Yeah,
+Murali Krishna Yamsani: workflow.
+Jonathan Assayag: but they don't pay literally anything for the workflow for the Right. Because it's all empty containers.
+Shaurya Singh: Yeah.
+Murali Krishna Yamsani: Yeah.
+Jonathan Assayag: So I don't know if we if we pay anything for new
+Shaurya Singh: Uh,
+Jonathan Assayag: organizations
+Shaurya Singh: no. No. Uh, no. Uh,
+Jonathan Assayag: then then you can
+Shaurya Singh: because
+Jonathan Assayag: leave.
+Murali Krishna Yamsani: Okay,
+Jonathan Assayag: Okay.
+Murali Krishna Yamsani: sure.
+Jonathan Assayag: All right. Anything else to close?
+Nazima Piracha: Uh
+Murali Krishna Yamsani: Nothing from
+Shaurya Singh: uh uh for the website uh your changes are incorporated.
+ 
+ 
+00:44:05
+ 
+Shaurya Singh: I want to send an email maybe so that Nabil can take a look at it uh with a side-by-side comparison of what we have versus what we are proposing. uh because I think that'll be helpful because right now uh because we have this sort of daily cadence
+Jonathan Assayag: Yeah.
+Shaurya Singh: uh I don't know at least for me what happens is that I'm only looking at it in terms of like two versus version three and not like what we have versus the final thing that we're proposing. So um I'll send them side by side u like markups and that should be okay and then maybe we can show it to Arya on Tuesday.
+Jonathan Assayag: Yeah, I think the only thing on the design that we don't have full confidence around yet for April 15th is on the homepage because we don't yet have clarity on the scope of the V2 product. So what we'll get that ideally by Friday we'll get some of that and then then we can rev the
+Nazima Piracha: H.
+Shaurya Singh: Uh that's yeah I
+Jonathan Assayag: page.
+Shaurya Singh: mean I still have like a proposal.
+ 
+ 
+00:45:02
+ 
+Shaurya Singh: I mean sure it will get outdated but like it's not like we don't have a backup. Like if if nothing changes then we do have a version to go with.
+Jonathan Assayag: Yeah, that's right.
+Shaurya Singh: Yeah.
+Jonathan Assayag: And so can we also work by between now and Friday to write out like a a sheet of what are the what are the work streams we are we need to kick off immediately and who are the owners for them from the current design that you have proposed.
+Shaurya Singh: Yeah.
+Jonathan Assayag: I don't want to wait till next week for us to start thinking what are the actions because some of
+Shaurya Singh: Okay. Sure. We can do that. Yeah.
+Jonathan Assayag: these are going to be like okay blog post write a blog post about how we're differentiated in other products like go do that today like there's no need to
+Shaurya Singh: U Yeah. Okay. We can do that. I mean, I think most of those items is just going to be uh me or Natasha as the owners. I don't see situations where someone else would be an owner, but I can still do an
+Jonathan Assayag: Yeah,
+Shaurya Singh: inventory.
+Jonathan Assayag: I would do it just so we also see the the the breadth of the scope, how much stuff we have to build in order to get this thing up and running.
+Shaurya Singh: Yeah.
+Jonathan Assayag: There's probably going to be some work you need from the go team also,
+Shaurya Singh: Yes.
+Jonathan Assayag: right?
+Shaurya Singh: Yeah.
+Jonathan Assayag: And so like what what pages do they need to redesign?
+Shaurya Singh: Okay. Yeah.
+Jonathan Assayag: What are the missing pages from the menu? There are lots of them. Okay. All right.
+ 
+ 
+Transcription ended after 00:46:32
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

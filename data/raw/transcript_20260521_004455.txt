@@ -1,0 +1,949 @@
+Feb 9, 2026
+DAILY: PLG, Website, Content, Academy, etc - Transcript
+00:00:00
+ 
+Nazima Piracha: Okay. Should I start with the update? So, we can start. Um, I don't think Nabil is going to join because he's right now in a meeting with um Arya and then he has to go for an event. So, it's just us. Um, so in terms the consultants,
+Jonathan Assayag: Okay.
+Nazima Piracha: we can just give a quick brief on where we are at with the three consultants who are still in the engagement. So, we will start with Diana. um she gave it a lot of effort and tried to create her workflow but at this point she's stopped. She said like she built a workflow but it's not working really like there are a lot of issues with it. Um this so she gave a lot of reasons obviously there was a lot of troubleshooting involved. There was a lot of back and forth. The support team also helped her a lot debug a lot of these issues. Um she created like multiple Loom videos showing us where she was getting stuck.
+ 
+ 
+00:00:53
+ 
+Nazima Piracha: So there was a lot of interaction and input from her side. Um where she really like saw that opus is not for her right now is pretty basic things. For example like Google Sheets. So right now Opus does not support loops um or like just having to go through like multiple rows let's say in in Google Sheets to identify different things. and she said like because this is something that needs custom code, she does not want to use Opus right now for her clients because Google Sheets is just a really basic part of um her using her workflows.
+Jonathan Assayag: Yeah,
+Nazima Piracha: But
+Jonathan Assayag: they fixed that. I got pinged yesterday about it,
+Nazima Piracha: what
+Jonathan Assayag: but I'm curious specifically what about Google Sheets was missing for
+Nazima Piracha: No,
+Jonathan Assayag: her.
+Nazima Piracha: I don't think it's fixed. It's basically like she wants to create a loop. So every time the like it should the workflow should keep running. It should go through multiple rows at the same time within the sheet.
+ 
+ 
+00:01:46
+ 
+Jonathan Assayag: Yeah,
+Nazima Piracha: Pick up information.
+Jonathan Assayag: I get it because I had the same problem uh when I was building mine. So I think loop is one solution for it.
+Nazima Piracha: Yeah.
+Jonathan Assayag: Um okay, can we do you mind just going after this call and uh asking um Mo if if that's already up and running because
+Nazima Piracha: Sure.
+Jonathan Assayag: he he pinged me over the weekend and said that that was up and running. So, I'd just be curious on what the gap still
+Nazima Piracha: We we'll check with Mo.
+Jonathan Assayag: remains.
+Nazima Piracha: Uh John, so I think Mo has built a workaround for his great we'll
+Jonathan Assayag: I know, but this weekend he pinged me saying the Google Sheet solution is out.
+Nazima Piracha: talk to him. Okay, perfect. So we'll catch up with him. Um as the next steps for Diana, we've shared the survey with her. So these were the list of questions that we had um discussed within the call phase that we want to do prefeedback call. So she's going to fill out the survey and then schedule a call with us.
+ 
+ 
+00:02:43
+ 
+Nazima Piracha: Hopefully tomorrow we have a call with her because we have shared the link so she needs to book now um where we will kind of understand her experience the different things even though she's addressed a lot of them but it'll still just be like a formal way to understand and get her feedback in um on Ashish he built a good workflow actually so um he has given he's shared his workflow with us but there are some issues in that workflow as well um there he has a loop within his workflow that's causing some trouble so the support team is currently assisting him to debug it. Um once it's up and running then we will go ahead and share the survey with him as well as well as the feedback meeting. So we are aiming to close both Ashish and Diana by tomorrow. Um on Igor we had the instructorled training session with him. This was on Thursday evening. Um and the session was interesting because we changed how the instructorled training session is going to happen. So rather than someone from the support team going through a pre-built workflow, this was more of an interactive session where Igor had a workflow that he already started building and then Mo was on the call and Mo assisted him to build the workflow.
+ 
+ 
+00:03:54
+ 
+Nazima Piracha: So he had a lot of issues with integrations. Um he had certain questions. He couldn't understand a lot of things. So it was more of like an interactive session versus just somebody from the support team building the workflow. Um it was useful in a few ways. A we unblocked Igor in the early stages so with the assumption that he's still building the workflow. Um at least he's past the early stages but he's not responsive on Slack at least not until now but maybe when he wakes up and he sees our message he responds. Um the other thing is that during that call itself Igor shared a lot of feedback and a lot of feedback comparing his existing tool of choice which is NA10 to Opus. So he would literally take us back to NA10, show how it's different or how it's how he's used to doing it on NA10 and then bring us back to Opus. So we collected a lot of feedback in this regard both in terms of product and education. Um and we've logged that feedback.
+ 
+ 
+00:04:50
+ 
+Nazima Piracha: Uh what we've done as so Igor now is continuing to build his workflow. But those are the updates on the consultants. Now what we've done as the next step, A, we've updated the learning sheet to include all the learnings that we've gathered over the last few days from Ash, Giana, and Igor. Um, and B, we've translated those learnings into product improvements. So this is the sheet that Ya is then picking up the in uh information from to create features and pass them to the engineering team. and then the education improvements where we've um worked on the collecting the information and then now Merly has created a set of videos that the support team and the delivery team are going to deliver. So I've added the link for both of those um in the agenda in the PMGTM sales but if you want we can share the screen and go over those as well.
+Jonathan Assayag: the link. So I I'm on the product sheet. I get those are just the actions, but what about the learnings that you wrote down on the project Geyser document?
+ 
+ 
+00:05:57
+ 
+Nazima Piracha: Yes. So I'll just share the link for that as
+Jonathan Assayag: Yeah, I have I have the link.
+Nazima Piracha: well.
+Jonathan Assayag: What's what's the question number that has the updated learnings?
+Nazima Piracha: So um it's the last question. It just has the links to all the documents. The learnings are in a uh like we wanted to keep them in a separate document. So if you go to question number 12 in the crawl phase tab, you should see where we have collected all the learnings.
+Jonathan Assayag: Yeah.
+Nazima Piracha: Yes,
+Jonathan Assayag: Can you just move this? This is silly,
+Nazima Piracha: I see.
+Jonathan Assayag: but just move the insights and learnings into this document as a new tab.
+Nazima Piracha: Okay,
+Jonathan Assayag: Like let's not make more.
+Nazima Piracha: I'll do that.
+Jonathan Assayag: Just keep one document.
+Nazima Piracha: I'll do that. Okay.
+Jonathan Assayag: Okay.
+Nazima Piracha: And if you need to know.
+Jonathan Assayag: And all these learnings here, this document doesn't say from who, right?
+Nazima Piracha: No, it doesn't say from who, but I can add that information.
+ 
+ 
+00:06:51
+ 
+Nazima Piracha: So when we add when we transfer them to the product sheet that's where I've added who it is reported
+Jonathan Assayag: Okay.
+Nazima Piracha: by
+Jonathan Assayag: And is there any learnings that is not in the product sheet or is it all mapped to
+Nazima Piracha: uh ed well education but we have a separate place that
+Jonathan Assayag: one?
+Nazima Piracha: where we're tracking the education.
+Jonathan Assayag: But it seems like everything has an action item except uh one or two things.
+Nazima Piracha: Yes, correct.
+Jonathan Assayag: Okay.
+Nazima Piracha: Because we wanted to make sure added action,
+Jonathan Assayag: I'm just trying to figure out where to keep it because if every I'm trying to make sure this is all
+Nazima Piracha: right?
+Jonathan Assayag: funneled into a place where we can say this is the source of truth for everything and if this document has two or three things that are not being tracked as an action then it'll get lost assuming these things are important or if they actually truly don't need actions.
+Nazima Piracha: Mhm. So I because there are a few things that are actually not important but for example using an AI voice for the onboarding co course.
+ 
+ 
+00:07:50
+ 
+Nazima Piracha: So I just added it as not a priority currently because we have more important things to do than to figure out or fix a voice that would change the education or I would say rather the onboarding experience.
+Jonathan Assayag: Why would they why would they suggest that? What what was the
+Nazima Piracha: So, Eigor gave this feedback and he said, "Hey, when I was going through the videos, right off the bat when I started, I felt like there was no real human touch and I was just listening to an AI voice doing the video, which kind of takes away from somebody explaining to you what's happening." So, that was his feedback.
+Jonathan Assayag: Yeah, that's good
+Nazima Piracha: But the the question is do we have the time
+Jonathan Assayag: feedback.
+Nazima Piracha: right now to like change I mean in in terms of the other list of
+Jonathan Assayag: Don't don't don't focus on that's a prioritization question.
+Nazima Piracha: priority items. Yes.
+Jonathan Assayag: Don't just take the feedback for what the feedback is and there there would be an action coming out of that because it's not it's not he gave also an action he gave a a a painoint and a solution.
+ 
+ 
+00:08:55
+ 
+Nazima Piracha: Yes.
+Jonathan Assayag: The painoint is actually very credible is that I'm listening to this thing I don't I don't trust it because it's an AI
+Nazima Piracha: Yes.
+Jonathan Assayag: voice and I don't believe it's worth my time for for what could potentially be uh slop, right? And so how do I make sure?
+Nazima Piracha: Yes.
+Jonathan Assayag: So that's a that's a true valid insight and pain point that one should take an action on. Now whether the action is recorded with a human or the action is find a better AI voice or the action is you know do whatever we don't know but I think I would capture the
+Nazima Piracha: H got it.
+Jonathan Assayag: point again this is one of those things that as a learning from
+Nazima Piracha: Got it. So I I love
+Jonathan Assayag: over time is that the minute you don't put this in the place where one could take action you have made the independent decision that that is not important with nobody else knowing about
+Nazima Piracha: Right. Yes. Correct. Correct. Uh so for product we have the the sheet that's already shared with everyone and I uses that to pass the product related information.
+ 
+ 
+00:09:55
+ 
+Nazima Piracha: Um MLY created another sheet which is focused primarily on education and that includes uh
+Jonathan Assayag: Yeah.
+Nazima Piracha: the different kind of videos that need to be created. Um, is it okay if we have that as a like as a separate place to track all efforts that are being made in terms of the education piece? Because I don't think it's smart to like combine them
+Jonathan Assayag: Yeah. Wherever wherever the take the action is being tracked,
+Nazima Piracha: together.
+Jonathan Assayag: I think it's fine. There are other ones here. We don't have the rabbit hole on this one. I just don't If this learnings and insights is now like secondary and we're not going to worry about this sheet and we're all going to just focus on the product improvement sheet instead, let's just make sure that it's it's comprehensive so that we're not leaving stuff
+Nazima Piracha: Got it.
+Jonathan Assayag: behind.
+Nazima Piracha: Okay. Okay.
+Jonathan Assayag: Yeah.
+Nazima Piracha: Perfect.
+Jonathan Assayag: Make make it more cost effective compared to Zapier. But people still prefer Zapier because it's more intuitive.
+ 
+ 
+00:10:46
+ 
+Jonathan Assayag: I mean there's something here about cost. They're not seeing the cost element,
+Nazima Piracha: Like how yeah how how cheap the other product is compared to one because they care more about the
+Jonathan Assayag: right?
+Nazima Piracha: intuitiveness. In incentives. uh we didn't update uh anything actually except the last
+Jonathan Assayag: Yeah.
+Nazima Piracha: point that was an update. So right now when you do prompt to process um and Diana had this feedback that her workflow had way too many agent reviews. Um there are two parts to it because we also discussed this with ya but she was like okay why do I have so many agentic reviews? just makes a simple workflow so long and so like untidy to visually look at. Um and then we were discussing how there is an option if you go on your account settings and you can control the range in terms of how many agentic reviews do you want. So it has to do both I think in terms of incentives but also in terms of education because we need to be able to guide people that they can actually go and control the amount of agendic reviews that they need to add.
+ 
+ 
+00:11:53
+ 
+Nazima Piracha: So I've added that in in
+Jonathan Assayag: Yeah,
+Nazima Piracha: uh
+Jonathan Assayag: that probably feels like it should live with the prompt of process bar, right? Because that's that's when you would care about it.
+Nazima Piracha: Yeah, because it's separate.
+Jonathan Assayag: Today I may write a workflow that cares a lot about it. Tomorrow I may write a workflow that doesn't. And you know, moving it under organization isn't a great place because it's not like you're going to take the existing published workflows
+Nazima Piracha: Yes.
+Jonathan Assayag: and you're going to all of a sudden remove agentic reviews. It's really when you're prompting the process.
+Nazima Piracha: Yes, that's correct. So,
+Jonathan Assayag: So that's an action. So to put that as an action
+Nazima Piracha: I'll actually and I'll add that to the
+Jonathan Assayag: please.
+Nazima Piracha: product as well.
+Jonathan Assayag: Yeah. Any any action any any insight here that doesn't have an action add it back to the project geyser document as a learnings that that don't have actions. Right. Like I think there's one here around it takes six months for somebody to Right.
+ 
+ 
+00:12:49
+ 
+Nazima Piracha: Yeah,
+Jonathan Assayag: Like that's just a learning
+Nazima Piracha: we can't take an action on this. Okay. Yeah. So, there's another thing that we discovered today is that help center in the product is not intuitive at all. U so if you if it's in the home homepage uh that is Opus website, you have to click at least three buttons in order to go to the help center. And if it is in the app, uh there is no direct way to go. either go to uh website and go from there or you click on the chat button and there is there are two different tabs like talk to agent or talk to a and then there is help center. So this is another uh thing that we discovered today and the reason is that one of the uh pain points or feedback that I had given has already been covered in the tutorial video. Ideally they should have seen that video or understood them by them by themselves but it came out as a feedback that opus cannot do this.
+ 
+ 
+00:13:50
+ 
+Nazima Piracha: So we were talking about we're talking about a particular action of debugging jobs which is already there in the uh help center that we've created as a tutorial but this guy is not able to find it because the navigation is difficult and I think we need to make a note of this for the website yeah architecture as well because we haven't discussed where the help center is going to live so far.
+Clamencia Vergin: was supposed to be in the resources. That's what Shia was
+Nazima Piracha: So,
+Clamencia Vergin: saying.
+Nazima Piracha: we're going to have it like as a separate tab within the resources panel, right?
+Clamencia Vergin: Yeah.
+Nazima Piracha: Um,
+Jonathan Assayag: By the way, I don't know who who owns this on the website,
+Nazima Piracha: Okay.
+Jonathan Assayag: but under the categories, if you click all the tabs, they don't open. Only when you click get started, they open. That's just a bug. You click the gray boxes in help center for the different categories. Nothing happens. Only when you click get started does something
+ 
+ 
+00:14:50
+ 
+Nazima Piracha: Yeah. Yes.
+Jonathan Assayag: happen.
+Nazima Piracha: So those are the updates that we have. Uh now what we've done next um so in terms of the product um I will catch up I think with ya once she's back now or maybe you can give me some uh direction as to what we do. So do we hold on to the next set of features that we have? When do we revisit them with engineering? I think that's that's uh a discussion that we need to have um just to make sure that because the discussion earlier was that every week they will have 10 tickets to work on. So do we pick up from this? How do we streamline them?
+Jonathan Assayag: Yeah.
+Nazima Piracha: How do we take them? Because I is off this week so we need to have a
+Jonathan Assayag: Yeah.
+Nazima Piracha: discussion.
+Jonathan Assayag: And it's not just because you've seen me here. It should make it into that list. I think we need to look at it together.
+Nazima Piracha: Yes.
+ 
+ 
+00:15:40
+ 
+Jonathan Assayag: Um there's probably other priorities here. So I just filtered the list down to critical and high. Can we look at it together real quick?
+Nazima Piracha: Yeah, just go through it. Okay.
+Jonathan Assayag: They fix the search within the integ actions within the
+Nazima Piracha: Yes, I saw the ticket. It says done.
+Jonathan Assayag: integrations.
+Nazima Piracha: I wasn't able to reproduce it on my own. I think that it's probably not deployed to production yet. But the ticket says done.
+Jonathan Assayag: So then if shipped is the last drop down, don't put shipped.
+Nazima Piracha: I'll just add or should I just say
+Jonathan Assayag: Put in progress. Sorry.
+Nazima Piracha: progress.
+Jonathan Assayag: Just put in progress until you verify that you've closed it.
+Nazima Piracha: Yeah,
+Jonathan Assayag: This is your feedback.
+Nazima Piracha: I I saw it on my own and uh it wasn't there.
+Jonathan Assayag: Okay.
+Nazima Piracha: Um but on the board I saw that this is the only one that was done so far. this um
+Jonathan Assayag: You just cannot add or or deactivate a third party tool or third party integration.
+ 
+ 
+00:16:40
+ 
+Nazima Piracha: integration and I see that there's already a ticket that's uh created
+Jonathan Assayag: Okay.
+Nazima Piracha: by the team to be picked up. So I've added the ticket right here.
+Jonathan Assayag: To be picked up means there's a ticket already ready to go.
+Nazima Piracha: To be picked up means from our end um I like not not all of these have a ticket ready to go. So, I'll update the statuses for that actually.
+Jonathan Assayag: Okay,
+Nazima Piracha: Um, okay.
+Jonathan Assayag: they're working on invitees remain pending.
+Nazima Piracha: Again, this was a bug. Um, and I tried to reproduce it, but it wasn't working for me. So, we need to confirm if it's again deployed to production or not.
+Jonathan Assayag: When you say wasn't working, you couldn't reproduce it or it didn't work. It was still a bug.
+Nazima Piracha: It was still a bug.
+Jonathan Assayag: So you did So you did reproduce
+Nazima Piracha: Um then yes,
+Jonathan Assayag: it.
+Nazima Piracha: but exactly. So it's not it because they said that it's been fixed now. So I couldn't uh replicate the fix or I couldn't verify it.
+ 
+ 
+00:17:49
+ 
+Nazima Piracha: Uh the next one which is row number eight, I haven't been able to reproduce this actually. So we like I and I tried with multiple accounts and we weren't able to reproduce this.
+Jonathan Assayag: Yeah, I mean this will get resolved. This is not to be picked up because this is going to get resolved when we think
+Nazima Piracha: Mhm.
+Jonathan Assayag: price, right?
+Nazima Piracha: this you're talking about number eight but we didn't we didn't like we weren't able to
+Jonathan Assayag: Yes.
+Nazima Piracha: reproduce this bug because apparently this was a bug that every time you create a workspace you see 3.67 67 uh manhar credits that are already removed for prompt to process or workflow generation. But um and this was reported by Kunal but we tried to reproduce it and on our end we don't see this happening.
+Jonathan Assayag: Can't you go into his account and look up the the the decrease?
+Nazima Piracha: So on his account it is it does say that but it does say workflow generation. Yeah. We don't know if he actually has done a promptter process or um or not.
+ 
+ 
+00:19:00
+ 
+Nazima Piracha: We don't know that. He just said he said that he he didn't do it. Yeah. Yeah.
+Jonathan Assayag: He said he he created a new
+Nazima Piracha: Yes.
+Jonathan Assayag: workspace
+Nazima Piracha: And he didn't do anything like prompt to process but he still saw 3.67 credits being uh credited from his account.
+Jonathan Assayag: in today in an organization. Can you have multiple workspaces
+Nazima Piracha: Yes. Yes.
+Jonathan Assayag: and the his the um the credits fall under the organization or the workspace?
+Nazima Piracha: organization
+Jonathan Assayag: So, how would he be able to tell that it came from the creation of this workspace?
+Nazima Piracha: uh I actually have the screenshot in front of me. Um I'll just share it in the group once again in the PMGTM sales. So we don't know exactly what happened but he created the organization at 7:33 p.m. and he at 7:34 if you see the screenshot that I shared in the PM GTM group uh 3.67 credit score got deducted.
+Jonathan Assayag: Give me one second. I'm just getting pinged.
+ 
+ 
+00:20:11
+ 
+Jonathan Assayag: I got to solve one thing. Give me one second,
+Nazima Piracha: Mhm.
+Jonathan Assayag: please. One second. Just got to send something out. Okay. Uh let me look at the PGT. Okay. Sorry. Say it again. It's it's this uh workflow generation one.
+Nazima Piracha: Yes. So if you see uh he got 25 uh manners credited at 7:33 p.m. and at 7:34 he was his account is debited with 3 uh 67 manasers again. So he he
+Jonathan Assayag: I'm pretty sure you can go in and ask the engineering team to go look exactly at that line item, exactly at that credit and see what was it that
+Nazima Piracha: Yeah.
+Jonathan Assayag: happened.
+Nazima Piracha: So,
+Jonathan Assayag: So, I think that's something you could plop through a ticket and just call it a potential
+Nazima Piracha: let's
+Jonathan Assayag: bug.
+Nazima Piracha: Mhm. I'll just uh follow up and check. Then we can share the end. Yes. Okay. Um let me just go back to the sheet.
+ 
+ 
+00:22:03
+ 
+Nazima Piracha: Sorry, one second. Okay, so the next item is uh the dashboard. So right now the current experience of the dashboard is not ideal at all. And because that's the first thing that the customer is looking at, um I think we need to like deploy a fix for it anyway. But I don't know if this is planned for in the April 15th release or is there a fix that would come earlier than that?
+Jonathan Assayag: Yeah, my read is that this is also again this is this is where we have to be careful just taking stuff and throw throwing it over the princer because probably this becomes secondary if we can fix the credit problem the pricing right people are going to be just less
+Nazima Piracha: Mhm.
+Jonathan Assayag: concerned about the pricing
+Nazima Piracha: No. Uh so I I want to give an example here.
+Jonathan Assayag: Um,
+Nazima Piracha: So when Igor shared this feedback, he actually walked us through how NAT does it. And even though NAT pricing is also not credit based, it's also like a plan. It shows you um so he he showed us specific metrics like uh you know how many jobs, how many executions have been done.
+ 
+ 
+00:23:14
+ 
+Nazima Piracha: um what is so he showed that information to us. So we still need to show some information to the users that's related to their their money in some aspect. If it's not man our credits and it needs to be in the aspect of okay this is how many jobs they've run this is x x amount has been exhausted so far because we do have some limits in our plans right not in the free ones but um actually even in the free ones we have some limits and then in the starter plan that we that was proposed also has some limits so we need to show that information. So the next
+Jonathan Assayag: That needs to be checked if uh if the design I think metal lab may be hitting this as a
+Nazima Piracha: One.
+Jonathan Assayag: design can you send a note on the metalab channel and say hey we received the feedback from a user that metrics wasn't the you know credit usage wasn't very clear I wanted to check if this is part of the uplift work and here's here's the feedback from the user specifically they
+ 
+ 
+00:24:18
+ 
+Nazima Piracha: Mhm. Okay, I'll do that.
+Jonathan Assayag: recommended we look at NN as a as a benchmark just send a on
+Nazima Piracha: Okay, I'll
+Jonathan Assayag: that because my my guess is they may end up picking this
+Nazima Piracha: Okay, um the next thing is the input node. So this is this was an interesting one actually we learned a lot about it today. Um so on other tools for example make or n10 right if you want to start directly from an integration you can like your first node could be okay fetch something from some place in in Google um you cannot do that with our existing infrastructure so the workflow input node always exists regardless of whatever node you want to add next. So there's a lot of confusion as to okay what am I supposed to do with this node? If for example I want to start with an integration what do I do? So currently the workaround that we were discussing is that uh you can start with the integration node as the first node. So there is basically two nodes that are connecting simultaneously to the second node.
+ 
+ 
+00:25:28
+ 
+Nazima Piracha: The integration node and the workflow input node and then you delete the variables of the input node. So basically the input node is getting ignored. So but this is more of a workaround. This is not a permanent fix. Um there needs to be a permanent fix where people can just replace either the workflow input node or alter it to add integration as the input itself.
+Jonathan Assayag: Yeah, I think this is um this one is two parts. One is it's a design feedback that Metalab has to Rev on the canvas. So a second message please to Metalab saying hey another insight um users are confused by the fact that the input and output are already placed on the canvas and the input cannot come from a integration. So something for them to design around and then two I think this is a ticket to engineering
+Nazima Piracha: Mhm.
+Jonathan Assayag: to evaluate a solve for it because just breaking down my
+Nazima Piracha: Yes.
+Jonathan Assayag: brain here around how I'm thinking about this is just two a two-part problem.
+ 
+ 
+00:26:33
+ 
+Jonathan Assayag: It's a design problem and a uh right because the way we're designing workflows as you
+Nazima Piracha: fix problem.
+Jonathan Assayag: come to the canvas there's always an input and
+Nazima Piracha: Yes. Yeah. And and I think uh on the engineering uh ticket we should look at different kind of triggers that we
+Jonathan Assayag: output
+Nazima Piracha: can have. One is integration. Second thing can be time decay like based on the time. Uh third thing yeah third thing can be like a chat interface. Somebody comes and asks a question then the workflow can trigger. So vary how the input input varies bases how other tools are
+Jonathan Assayag: Yeah,
+Nazima Piracha: it
+Jonathan Assayag: this one I would not call it high because there is a workaround for it right now.
+Nazima Piracha: number 20 number
+Jonathan Assayag: The one we just discussed. Yeah, the one we just discussed.
+Nazima Piracha: 15 I think it should be John
+Jonathan Assayag: Um,
+Nazima Piracha: mainly because it is not at all intuitive for people to understand that okay there is an input and you can remove all the variables in the input and then you can connect an external or um an integration in order to run the workflow.
+ 
+ 
+00:27:46
+ 
+Nazima Piracha: Uh and I think this they this should like they should fix get fixed in an immediate release for somebody to actually start working with it. In fact, three out of the four consultants, so except Kunal, all three have asked us the same question like what do I do with the workflow input because their starting point is always integration. Ashish, Igor and Diana all three wanted to start with an integration fetch something from somewhere. So all three of them were like what do I do with this workflow input node? They had no idea what variables had.
+Jonathan Assayag: Okay, got it.
+Nazima Piracha: And for the workaround what we've also done is on the education piece,
+Jonathan Assayag: All right.
+Nazima Piracha: we have suggested that customer support creates a video. This is more immediate term so that before we onboard the next set of consultants at least they have a troubleshooting video to look at and they're not clueless but um there needs to be a fix from the engineering's perspective on this. Then we have the next one.
+ 
+ 
+00:28:44
+ 
+Jonathan Assayag: Okay.
+Nazima Piracha: Uh this I highlighted actually earlier as well like when I just joined because it's not possible to navigate to jobs directly either from the builder or from the workflow page. So even if you have an active workflow and you're sitting on the workflow in the workflow page itself, you still have to go click on the jobs um like icon on the n on the left side navigation and then you have to get redirected to the jobs and then you have to create the new job. So it's a lot of steps for a user to get through to create an actual job that they can run and it's not very intuitive. So even on this we're taking two actions. One is more on the education side to actually explain to people of the relevance of jobs and why they need to create the job and then run the job.
+Jonathan Assayag: You remember that?
+Nazima Piracha: But from the uh products perspective there needs to be at least a link that's there. So either I can go directly from the canvas if I've activated my workflow or if I'm on the workflow page itself then I can go directly to the jobs.
+ 
+ 
+00:29:47
+ 
+Nazima Piracha: Right now neither of those things are
+Jonathan Assayag: Yep.
+Nazima Piracha: possible.
+Jonathan Assayag: So on the on the metalab note also add this one. This is a third one to say people this is an action people want to do when they're on the
+Nazima Piracha: Yeah.
+Jonathan Assayag: canvas.
+Nazima Piracha: Um and then the last one um so I discussed about this with uh Mo as well.
+Jonathan Assayag: Okay.
+Nazima Piracha: He said that there will be a fix but currently it's not there which is basically for every integration action that you add you have to add a new credential. So even if it's Gmail, watch mail, um,
+Jonathan Assayag: They want a new credential or they don't want a new
+Nazima Piracha: send mail, the users don't want a new credential,
+Jonathan Assayag: credential.
+Nazima Piracha: but every single time you add a new action for an integration, you have to add your credentials again. Ideally, it should be a to many relationship.
+Jonathan Assayag: Why? Yeah.
+Nazima Piracha: It's one integration all we why
+Jonathan Assayag: I wonder why
+Nazima Piracha: users want it or why it should be I think this is
+ 
+ 
+00:30:54
+ 
+Jonathan Assayag: why it's like this currently.
+Nazima Piracha: something we need to ask the engineering
+Jonathan Assayag: go go go um up to someone in engineering like maybe
+Nazima Piracha: team
+Jonathan Assayag: a kosh or just send him a note over sl over over slack and say hey before I read a ticket for this is there a particular reason this and he'll just tell
+Nazima Piracha: design.
+Jonathan Assayag: you and if not you can put up a
+Nazima Piracha: Yeah. So, these are the main items that we have. Uh, there were some others that I think you filtered out, but they were marked as either medium or
+Jonathan Assayag: Yeah, let's let's go through those next,
+Nazima Piracha: low.
+Jonathan Assayag: but let's start with this. This is already a bunch. Um, so there are a few just to summarize. There are a few actions you were going to ping metalab about.
+Nazima Piracha: Yes.
+Jonathan Assayag: And then there's one to go talk to engineering about. There's one to go talk to Mo
+Nazima Piracha: Yes, correct. Yes, actually Mo has already confirmed he just responded to us.
+ 
+ 
+00:31:46
+ 
+Jonathan Assayag: about.
+Nazima Piracha: So, we'll understand from him if it does the same thing as to what we're discussing which is loops.
+Jonathan Assayag: that it does. He said it does do
+Nazima Piracha: Yeah,
+Jonathan Assayag: loops.
+Nazima Piracha: he said this was just um a new action was added which is basically Google Sheets multiple rows. So initially there was one action that was called single row.
+Jonathan Assayag: Yes. Yeah.
+Nazima Piracha: Um so these are the product uh tickets that we have. Should we also go through the content videos?
+Jonathan Assayag: Yes.
+Nazima Piracha: Uh yeah.
+Jonathan Assayag: Let me see.
+Nazima Piracha: So the link for that is also in the
+Jonathan Assayag: This is under
+Nazima Piracha: PLG.
+Jonathan Assayag: education.
+Nazima Piracha: It's it's also in the um in both the Slack channels and then also on the I see that you're on the do
+Jonathan Assayag: Yeah. Is educationally.
+Nazima Piracha: Yes.
+Jonathan Assayag: Yeah.
+Nazima Piracha: So the second tab which is called videos um are you want to explain
+Jonathan Assayag: Yeah.
+Nazima Piracha: or should I just uh yeah so here John the idea was that this these videos were mainly uh created or we want to create these videos mainly from the point of troubleshooting more than uh as a help center kind of videos.
+ 
+ 
+00:33:15
+ 
+Nazima Piracha: So these are all the issues or problems that uh the consultants have faced while building the workflows and u the the uh challenges uh listed down as we one video each. So if you see the first video it's jobs versus manual execution and when to use each. So the u way nit and then make work right now is like on the builder itself you can actually run a job uh or an execution and if there is a uh node that doesn't work or if there is something that is not linked the uh builder still executes but there is no output uh to it. Whereas in Opus we need to have all the nodes working rightly in order to the for somebody to actually preview the workflow for the play button to work on the builder all the nodes should work properly. So there is some kind of confusion for people here. Uh and secondly which also Naj pointed out just now that it's not very intuitive that okay you have built a workflow now we have to go out and go to a separate page for jobs create a job uh and then run the job from there.
+ 
+ 
+00:34:26
+ 
+Nazima Piracha: So this is something that people were not clear about. So this is the first video that uh we want to create.
+Jonathan Assayag: What's your just take me take a step back and just think through me like what's the plan to get them to watch this?
+Nazima Piracha: Uh
+Jonathan Assayag: Is this going to live in the help center or is this specifically part of the PLG effort like the crawl phase? Like, hey, you're about to run into these problems. I'm going to send these to
+Nazima Piracha: Yes, that is the uh right way we want to do this right now.
+Jonathan Assayag: you.
+Nazima Piracha: So this will be more like troubleshooting videos. Uh so when when we onboard a consultant when they finish the implementation module and then we suggest or we ask them to start building a small workflow before we get into the co-working session at that point we share these videos with them and say that hey like these are some of the uh challenges that you might face. So if you have any uh doubts or questions you can just go through these videos otherwise you can continue
+ 
+ 
+00:35:15
+ 
+Jonathan Assayag: Yeah,
+Nazima Piracha: building.
+Jonathan Assayag: I'm less interested. I'm just thinking it's it it seems to me less interesting to all of us to just solve this on a PLG basis than to solve this in a more macro level because then we're just plugging a little hole but where we're not actually getting to walk, right? We're getting just we're just going through crawl crawl. The idea is that like the health center would solve this or some other place or we solve the problem at its root then we don't have this because like again the whole point of crawl to get to walk
+Nazima Piracha: that
+Jonathan Assayag: is to actually be able to say by the time we get to walk these things are gone. If not we shouldn't be in walk
+Nazima Piracha: 100%.
+Jonathan Assayag: period.
+Nazima Piracha: So uh before the idea is that these are like quick fixes that's why we don't want it to be hosted in the product as well. These will be uh shared with the uh uh consultant separately. The idea is ideally we should not have any of these problems that we talking about.
+ 
+ 
+00:36:14
+ 
+Nazima Piracha: We're talking about uh people are not clear what opus agent is. People are not sure why should they choose opus agent versus uh uh a custom agent. Uh people are not clear about setting up integrations. So all these things are basics which have to be solved by the product directly. But till the time we reach that uh place we want to have these videos ready handy because I think we we will be having a checkpoint for the first four consultants sometime this week once we have a workload from Ashish when we are at that stage and if we decide to go ahead with the next six consultants or next 10 consultants there should not be a blocker we should have these videos ready because not going to fix by be fixed by
+Jonathan Assayag: Yeah, but but I'm just being hesitant because you can p this is a patch. If you use the patch when we uplevel to walk, we can't use the patch, right? Ideally, like why is the patch not the help center? Why are why is this like spreadsheet with links to these videos to answer these questions?
+ 
+ 
+00:37:17
+ 
+Jonathan Assayag: The
+Nazima Piracha: Oh, no, no, no.
+Jonathan Assayag: patch.
+Nazima Piracha: This this serves as an internal tracker for us to get the support team to actually make these videos.
+Jonathan Assayag: So the idea is the support team is making this and putting them up in the health
+Nazima Piracha: I mean,
+Jonathan Assayag: center or or is are they
+Nazima Piracha: some of them could live in the help center. Why not? So, some of them
+Jonathan Assayag: living in in a in a contained moral and nausea like sheet or are they living in like an opus.com type Please.
+Nazima Piracha: So right now they are made to live in a separate sheet not the opus.com help center because all of them that were listed were quick fixes or troubleshooting videos but why can't we have them live like I think there are maybe two or three videos that shouldn't live in the help center and these are more of like our workaround videos you know for example um maybe number 10 we don't have some integrations that we support right now. But hey, if you want to create a separate integration, I think even that shouldn't be a workaround.
+ 
+ 
+00:38:19
+ 
+Nazima Piracha: Like even that explains how you can use external um like the jobs API node to support any integration that we currently don't have. But again, that's also like a functionality that our product has. Yeah, that that yeah can be in the so yeah I think a few of them can stay in opus.com like creating jobs or maybe integrate how to create a uh integration and few of the pixel that we're talking about which is like 1 2 3 four videos can stay separately
+Jonathan Assayag: I'm just I'm I'm questioning what's the ultimate goal of crawl. It's not to just get them to be able to build the stuff that they want because you hacked them. You you you taught them how to hack the system. It is to either it is to create sol either fix the product or create solutions
+Nazima Piracha: Mhm.
+Jonathan Assayag: at scale.
+Nazima Piracha: So I
+Jonathan Assayag: We don't we don't we don't really care if if I can build workflows on on Opus.
+Nazima Piracha: my
+Jonathan Assayag: We want Eigor times 100 to build workflows on Opus.
+ 
+ 
+00:39:24
+ 
+Jonathan Assayag: So like do you follow my point? Like you can solve him but that doesn't solve us. That's not doesn't solve the crawl problem. You have to have either guidance that's going to scale to lots of other
+Nazima Piracha: Yes,
+Jonathan Assayag: people or you have to fix the root of the problem.
+Nazima Piracha: I do think
+Jonathan Assayag: If there were if there if there were other aspects of getting if if you guys said to me coming out of
+Nazima Piracha: some
+Jonathan Assayag: this experience with say three or four consultants that hey we feel good enough that aside from this one little thing that they wanted there's a lot of goodness of learning from from three to four more because you know everything else is very stable and you know they're willing to go forward if it wasn't just for this knit for this paper But what I'm getting out of the experience and the discussions we're having is there's massive changes that we need to make in order for them to like agree to support.
+Nazima Piracha: Yes.
+Jonathan Assayag: And so it's not just like teaching someone how they can work around everything, right?
+ 
+ 
+00:40:31
+ 
+Jonathan Assayag: is is actually I'm actually you know I'd be concerned about their perspective about the platform because they're going to think wow this is so like you're not even really solving the problem for them because you're going to say okay for me to create a a a job that inputs through an API or through a through an integration I have to do all these things even if you teach me how to do it seems so messy I don't know if I want to do this so you're actually you're going to do a bunch of work and you're not really solving the
+Nazima Piracha: Mhm.
+Jonathan Assayag: Oh,
+Nazima Piracha: Yes. Fair. I think the issue though John with that is that in the short term then like any consultant basically that we have after these four consultants not a lot would change right because in this case like we're not making any
+Jonathan Assayag: Correct.
+Nazima Piracha: changes in terms of the education content or in terms of the product. So then basically the question becomes around because with this one of the approaches that we could take is if let's say these videos that we create I'm I'm not saying all of them because yes some of them really are workar around some of them are actually educational videos that would that could help and they should live in the help center forever using opus agents blueprint generation that's literally a video that should live on the help center because it explains what one of our node does and that clarifies.
+ 
+ 
+00:41:56
+ 
+Nazima Piracha: So after looking at those videos, are there issues like basic issues about getting informed about what's today in the product getting resolved or not? And are they asking still asking those questions to us even after we have the videos up? I think that's a learning for us that we get from the next let's say set of ex consultants that we bring on board because the only learnings that we can then get is on our education piece and of course any new iterative learnings that we get on product.
+Jonathan Assayag: Clemens, did you want to
+Clamencia Vergin: Yeah. So like I can see the list of videos here.
+Jonathan Assayag: comment?
+Clamencia Vergin: For example, using Opus agent, custom agent, setting up integration, first workflow and then the opus agent node. Most of the videos already exist in the help center. So it's it's it's like maybe the content is not enough or we need to like revise the script based on that. So I think like we are redoing the same thing again and again here. Instead of duplicating the work, we can revise the previous video scripts and see how we can make it better and then re-upload it on the help center itself.
+ 
+ 
+00:42:56
+ 
+Clamencia Vergin: Or else like we can have under category like let's say what is uh uh Opus agent node and then another video as like troubleshooting video like quick fix if you if you come across the error or something like that.
+Jonathan Assayag: And that is the true value of crawl is to fix the content that we have so that you can say,
+Nazima Piracha: Yeah,
+Jonathan Assayag: "Oh, you have this problem here.
+Nazima Piracha: let me fix
+Jonathan Assayag: Go over here." Not only is it fixing the video, but try to fix the root of the problem.
+Nazima Piracha: it.
+Clamencia Vergin: Yeah. So I think we just need to revisit the uh previous old scripts and see how we can revise those thing and then we can do the video then like we can upload it on the help center. We already have lot of most of the videos on the help center. Now we just
+Nazima Piracha: So we went through the videos on the help center actually right now before our call with with the support team. Um and we verified which video was there and which video wasn't there.
+ 
+ 
+00:43:49
+ 
+Nazima Piracha: But yeah we can I think maybe we should go over the content of the videos as well to make sure there is no overlap. So Clement
+Clamencia Vergin: So like I can see like there are contents that that you have mentioned here is not in those videos. So what I'm suggesting is like we can add those part in the existing videos and then then re-upload it
+Nazima Piracha: So
+Clamencia Vergin: instead of like going through the entire uh uh process again
+Nazima Piracha: they edit the existing videos that are
+Clamencia Vergin: or
+Nazima Piracha: there.
+Clamencia Vergin: yeah
+Nazima Piracha: I think let's then go through the list of videos that exist right now. We map them and then we see what needs to be edited. It's okay.
+Clamencia Vergin: we already have video number eight debugging workflows and we have to see what is missing in that uh
+Nazima Piracha: Mhm.
+Clamencia Vergin: exist in the help center and then that can be covered with a revised script.
+Nazima Piracha: So row number nine, right? So Clementia this is the sheet that uh I shared on Friday.
+ 
+ 
+00:44:38
+ 
+Clamencia Vergin: Yeah.
+Nazima Piracha: So let's go through once again then. I think you're marked there and uh we'll see what's there and what's not there so that we don't repeat our uh efforts here. Yeah.
+Clamencia Vergin: Yeah.
+Jonathan Assayag: We're all a team, right? And so if you if you think that the current solutions to these video for I love that you put this together, by the way. I think this is, you know, I love that you're thinking it from a, you know, h how do we help troubleshoot these folks? That's great. But as as a team, I think if you're not seeing that the current solution that we have live on opus.com is helping solve these problems, like help the Commensia and team up level and and get it right.
+Nazima Piracha: Yes.
+Jonathan Assayag: And then you know some of the stuff that we have to that are just bugs or issues we have to go fix. I think the answer to your what you're hinting at Nasmo around what do we do if we can't if we can't fix these things if we can't this is why we checkpoint.
+ 
+ 
+00:45:40
+ 
+Jonathan Assayag: This is why I said, you know, we don't start the next group until we checkpoint on where we're at. Because if not, we may have to pause until we fix stuff because what I don't want to do is I don't want to
+Nazima Piracha: Yeah. And
+Jonathan Assayag: burn through five, 10, 20, 30, 40, 50 more, showing a bad experience and not learning anything new that we'd already know.
+Nazima Piracha: yes.
+Jonathan Assayag: Every time we we showcase to somebody else,
+Nazima Piracha: Yes,
+Jonathan Assayag: we're we're giving them an opinion about Opus. Like those three people already have an opinion about Opus.
+Nazima Piracha: that's correct. Yes.
+Jonathan Assayag: it this it's hard this is hard right because we're trying to do PLG there's a lot of work coming at sort of from enterprise I think when I look at the road map there's a lot of work that we are still going at offense in order to increase our offering as opposed to defense which is just like polishing and making it you know super tight and great and this is done by design because we need to get on the board and start But right because we're behind N on a lot of the functionality,
+ 
+ 
+00:46:37
+ 
+Nazima Piracha: Yes.
+Jonathan Assayag: but if we just try to meet N where they're at, we're not going to do that. We're going to we're going to just be trailing them the whole time as opposed to trying to increase breath about offerings that now customers can look at us a little bit differently and then in time we continue to polish.
+Nazima Piracha: What?
+Jonathan Assayag: Okay. So, is it clear on the videos? work through the ones that you can to see if we make changes and then track,
+Nazima Piracha: Yes.
+Jonathan Assayag: if you don't mind, track it here on the spreadsheet about which ones we think we can rev and once they're up and running and then we keep checking in on these videos.
+Nazima Piracha: Perfect. Sure. Okay. Um the last three which is basically triggers,
+Jonathan Assayag: Okay.
+Nazima Piracha: loops and iterations and then creating a front end. This will all just be part of one video that we already discussed earlier to have like a live demo um of an end to-end workflow that should be built.
+ 
+ 
+00:47:36
+ 
+Nazima Piracha: uh Anas and Adita are working on it and this is also bases the feedback that we received from the
+Jonathan Assayag: Yeah,
+Nazima Piracha: consultants of having a practical implementation of the videos within the foundational course
+Jonathan Assayag: video 11 and 10 are bugs or issues that you called out in the other spreadsheet, right?
+Nazima Piracha: that's correct.
+Jonathan Assayag: The lack of loops and the front app front end app using um No,
+Nazima Piracha: Yes.
+Jonathan Assayag: maybe the 11 is not.
+Nazima Piracha: uh 11 row 11 which is loops and iterations.
+Jonathan Assayag: Yes, that one is but but row 10 and 12 are not
+Nazima Piracha: Last the last one is not a bug. No,
+Jonathan Assayag: right.
+Nazima Piracha: they're not bugs. So row 10 is a jobs API. That's a functionality that Opus offers. We just want to better educate the people on how to use this functionality. Row 12 is um just creating a front end.
+Jonathan Assayag: Okay.
+Nazima Piracha: Again, a functionality that Opus has. A lot of people have questions about okay, how can we trigger something outside of the application outside of Opus?
+ 
+ 
+00:48:32
+ 
+Nazima Piracha: So that again is an explanation. These are both in terms of improving their education on how they can create frontends um for having a workflow that's being triggered inside opus.
+Jonathan Assayag: And there's some limitations current currently on what triggers right we can't do time based or you know um can't do like email based
+Nazima Piracha: So you need to have an external code to do that. But yeah,
+Jonathan Assayag: trigger.
+Nazima Piracha: just just by using Opus, you can't do them. The scheduling triggers like how the other tools do like with jobs, you cannot do that. You need to create a separate code on that.
+Jonathan Assayag: Yeah.
+Nazima Piracha: But um that is the update on content. Um and then the last part is uh incentives. So pricing. Uh so uh John, were you able to go through that email that we shared on Friday?
+Jonathan Assayag: I did.
+Nazima Piracha: Yeah. You have any points
+Jonathan Assayag: Yeah.
+Nazima Piracha: there?
+Jonathan Assayag: Let me look at it in the in the Figma that you linked.
+ 
+ 
+00:49:31
+ 
+Nazima Piracha: Mhm.
+Jonathan Assayag: What's the Where should I look? Guess it's Yeah,
+Nazima Piracha: Should I just share my screen or actually you can follow me?
+Jonathan Assayag: I can follow you.
+Nazima Piracha: Yeah, this is the one I built
+Jonathan Assayag: Just tell me where to look because you you had built a a mockup, right?
+Nazima Piracha: a mockup. It's uh it's in the email
+Jonathan Assayag: Yeah. Yeah,
+Nazima Piracha: itself.
+Jonathan Assayag: I read through that. Okay. Um let me look at it one more refresh my memory. So great for individuals and consultants. One organization people in the organization unlimited men credits uncapped jobs five per month,000 per month. Uh where do we get a thousand?
+Nazima Piracha: Sorry.
+Jonathan Assayag: Where did we get a thousand?
+Nazima Piracha: Why why did we choose thousand?
+Jonathan Assayag: Yes.
+Nazima Piracha: Uh the it actually came from the cost of the plan which is $30 which is compared to Zapier and NAT the uh the plans that they have and the
+Jonathan Assayag: Okay.
+Nazima Piracha: costing we took it with uh as per the current costing that we charge for a job which is 3 cents.
+ 
+ 
+00:50:39
+ 
+Nazima Piracha: So that's why we have this,000 per month as the basis.
+Jonathan Assayag: And how does it compare to what NNN charges or other charge?
+Nazima Piracha: If you see uh N8, they charge almost $25 in their basic plan uh versus Zapier is again it's it's um it has a it is $19 which is the basic plan but it you'll have zero execution. So once you move go through the slider you the cost increases. So you cannot actually compare the there but uh N8 starts with $25 $24.
+Jonathan Assayag: So for Zapier what's the besides the free the professional is 133.5 per
+Nazima Piracha: Uh so John it is because of the 5,000 tasks that we had.
+Jonathan Assayag: month.
+Nazima Piracha: If we have zero task, it's $19. So for
+Jonathan Assayag: Yeah. So, what I'm worried about is one is 19,
+Nazima Piracha: the
+Jonathan Assayag: the other one's 24, and we're at 30. It just reads like we're more expensive. I know that they have different things underneath, but I think it's something to think
+Nazima Piracha: Got it.
+ 
+ 
+00:51:55
+ 
+Jonathan Assayag: about.
+Nazima Piracha: So are we uh then then my question is like are we okay to change our markups right now? So the if we look at the cost structure right like we had um we said that each job will be costing 3 cents right now as for the cost
+Jonathan Assayag: I don't know if you need to change your markup, but you maybe just need to package less jobs.
+Nazima Piracha: structure.
+Jonathan Assayag: So maybe it's not a thousand because I go from zero to a thousand. Maybe that's a lot. Maybe I go to zero to 500 and now you charge me $9.99.
+Nazima Piracha: You can reduce the number of
+Jonathan Assayag: You know what I'm saying?
+Nazima Piracha: jobs.
+Jonathan Assayag: You have to be careful with what the what the dollar offering is because you're saying that between zero there's nothing to get to $30. Like I either have to pay zero or pay $30. Whereas in the other options, I pay zero or I pay less.
+Nazima Piracha: Nice.
+Jonathan Assayag: So I just worry about that dollar.
+ 
+ 
+00:52:49
+ 
+Jonathan Assayag: Yeah, that recurring dollar
+Nazima Piracha: So let me actually share my screen uh
+Jonathan Assayag: figure.
+Nazima Piracha: to uh see this. This is the mockup that we had created. So here we are saying that we can add jobs in all the plans. So this is the starter plan. You get five jobs per month. But if you want more jobs, you can add 100 and you can pay extra $10. Now your point is that u let's not start with $30. Let's maybe start with $20. Yes, we can do this. But it's not that it's either five jobs, 2,000 jobs, but like people can add jobs in their own uh plans.
+Jonathan Assayag: Isn't this more complex?
+Nazima Piracha: Yeah, this is really complex.
+Jonathan Assayag: I'm just even thinking they go ask engineering to build this.
+Nazima Piracha: How do you
+Jonathan Assayag: Like I like the idea. I like how your head's at. I'm just worried that we're going to ask engineering to build something that the reality is most people are going to be in starter and once they switch to pro, we want to, you know, give them some some lower.
+ 
+ 
+00:53:48
+ 
+Jonathan Assayag: I don't know. I'm trying to come at this really with simplicity until we see we have a problem like a quality problem, right? quality problem is people are wanting more, right? And so, okay, great. They're using it and it's, you know, great a great problem to have.
+Nazima Piracha: Got it. So we need to have slider at some point John because we cannot limit the jobs at 750 or 500 or whatever we say. And then next thing is enterprise sales. Mhm. Uh then
+Jonathan Assayag: Can we can we not use something of what we have today? We have that slider. I'm again just trying to keep it really really simple.
+Nazima Piracha: yeah.
+Jonathan Assayag: I think the the biggest one we have to fix is the starter or whatever we called it starter free whatever it is plan. That's that's the that's the main fix,
+Nazima Piracha: Got
+Jonathan Assayag: right? Because that's the majority of people to get going on this thing is that because we don't have that really.
+ 
+ 
+00:54:43
+ 
+Nazima Piracha: got it.
+Jonathan Assayag: We have We have a
+Nazima Piracha: Got it. Right. So then we will remove this uh variable jobs thing and essentially what we'll be changing is the uh the basic plan or starter plan that we are calling. And here we will have unlimited workflows and unlimited integrations that we are talking here essentially what we seeing
+Jonathan Assayag: Yeah, I think I think what you're doing,
+Nazima Piracha: here.
+Jonathan Assayag: correct me here, but you're creating the starter plan,
+Nazima Piracha: Mhm.
+Jonathan Assayag: which is brand new way to build prompt the process becomes free basically and
+Nazima Piracha: That's right. Yeah.
+Jonathan Assayag: then and then you're taking the current plan that exists on opus.com that has a slider to it and that just becomes the pro with nothing up front only focused on the jobs.
+Nazima Piracha: Right. So that is what we should be doing right now. What I am doing is slightly different wherein we are uh adding jobs in the starter plan as well. That is uh if somebody comes and uh actually the way the reason why we came to this particular uh functionality is that if a consultant wants to build workflows and share with their uh clients uh five jobs might be less for them and a pro plan with 100 1,000 jobs should could be more.
+ 
+ 
+00:56:12
+ 
+Nazima Piracha: So if they want to add a few jobs like 10, 20, 30 jobs just so that they can demo their clients, we can have uh additional jobs in this particular plan without the additional functionalities of jobs API or hit and uh they can just demo.
+Jonathan Assayag: Got it.
+Nazima Piracha: If they like it, then they can go to the next plan or the client can go to the next
+Jonathan Assayag: Okay.
+Nazima Piracha: plan.
+Jonathan Assayag: Let me two big points of feedback from me. One is we don't want consultants who have adopted this to live in starter. That's a fail right the whole point of starter is to start not to you know if if I am we don't want people who are using this thing with clients and are ready to go we don't want them to be in starter we want them to be in pro we want them to be paying some monthly subscription cost starter is I'm starting I'm just showing I'm trying to understand the functionality I'm trying to showcase somebody do if you want to run it and you can showcase it to a client today using five jobs, right?
+ 
+ 
+00:57:21
+ 
+Jonathan Assayag: So, so that's one. Two is I'm trying to also minimize the up the the the amount of work that engineering has to do in order to make this change. I don't want to create these little boxes that add a bunch of other stuff where one does not need it. So, let's keep it to simplicity. try to leverage for the pro what they have already in terms of that slider that allows me to go, you know, as low as whatever dollars up and that gives me more jobs, right? Give me more more man hours.
+Nazima Piracha: Fair. Cool. Uh, I agree with you on the engineering effort.
+Jonathan Assayag: Yeah,
+Nazima Piracha: Yes.
+Jonathan Assayag: I I I get where you're going and I and I appreciate the thinking around, you know, how to I think the way I'm reading the the room is that you're already considering optimis optimizing like I don't want to leave a dollar on the table and you know if somebody gets the starter plan like how can I just immediately like ek $10 out of them and I'm thinking about like we don't even know if people are going to put money.
+ 
+ 
+00:58:29
+ 
+Nazima Piracha: Yeah.
+Jonathan Assayag: So, let's make it super basic and simple. And if we're finding there's traction in usage, then let's rethink this plan all together. But I'm just starting, let's just start simple. Um,
+Nazima Piracha: Got it.
+Jonathan Assayag: and so as much as we can just mi mirror what we currently have on the website to be the pro, I do think there's a there's value in trying to keep the dollar per month to be in the range of the competitors as a minimum.
+Nazima Piracha: Yeah. All
+Jonathan Assayag: I I would I would be careful with like it's $50 a month now and we give you 5,000 jobs,
+Nazima Piracha: right.
+Jonathan Assayag: but that may not be what people want anyway. Uh and then don't forget on when you propose the dollar figure there is going to be some usage of workflow generation right it's going to consume manh hours like right now our whatever we do currently I think it's like 30 bucks but that has man hours are getting consumed beforehand so just be careful it doesn't run the same number of jobs without considering some buffer for what we believe people are going to be
+ 
+ 
+00:59:36
+ 
+Nazima Piracha: Got it. So we basically still don't make generation free. We kind of bake it into the a little bit of
+Jonathan Assayag: a little bit because they're not going to use it 100%,
+Nazima Piracha: Yeah.
+Jonathan Assayag: right? They're going to use some of it. Um,
+Nazima Piracha: Okay.
+Jonathan Assayag: mostly my guess is that the the reaction people will have is what the dollar figure reads under pro. If it reads 30 is the minimum, you know, if I don't want to pay that much, like maybe I'm willing to pay $9.99 a month, but I may not be willing to pay $30 a month. That's why that's why when you see the competitors,
+Nazima Piracha: Yeah.
+Jonathan Assayag: one was 25, one was 19. Why would they put 19? Because it's less than 20. So for less than $20 a month, you can get going, right? $19.99.
+Nazima Piracha: Z is actually funny like they have zero tasks here which is like jobs and still they're charging $20 and then you increase this this increases but
+Jonathan Assayag: Right.
+ 
+ 
+01:00:37
+ 
+Jonathan Assayag: So, so yeah,
+Nazima Piracha: Yeah,
+Jonathan Assayag: I mean zero jobs for us would be the starter plan because you actually get five.
+Nazima Piracha: fair. Yeah,
+Jonathan Assayag: So, what's the difference in their free? What are they giving away in their free?
+Nazima Piracha: let me just share my screen.
+Jonathan Assayag: Nothing.
+Nazima Piracha: So they are basically they're charging the uh okay in the free plan you have uh 100 task per month like which is if you ask the outcome then they're giving 100 task per month and they have task is a job it's a
+Jonathan Assayag: What's a task again? Task is
+Nazima Piracha: job in their uh uh terminology. Yes.
+Jonathan Assayag: okay.
+Nazima Piracha: So they're giving 100 task per month and they're giving uh unlimited zaps. Zaps are like individual notes that you uh build and they have other products like tables and forms like uh uh for data. Yeah. Another something. Yes. Actually, could you go on the monthly billing because we're not charging annual. We will be charging annual.
+ 
+ 
+01:01:40
+ 
+Nazima Piracha: No, we'll be we'll have both monthly and annual plans. So, whatever we are mentioning right now is will be monthly. It's monthly, right? Because on monthly we do compete with them cuz they're charging $30 per month.
+Jonathan Assayag: How many tasks?
+Nazima Piracha: It's and they're still charging
+Jonathan Assayag: Zero.
+Nazima Piracha: 30. It only changes if you pay yearly for per
+Jonathan Assayag: You can't run any jobs on 30.
+Nazima Piracha: month.
+Jonathan Assayag: Why would What's the difference between that and free?
+Nazima Piracha: I don't understand this.
+Jonathan Assayag: If free is a hundred job tasks,
+Nazima Piracha: Mhm.
+Jonathan Assayag: why is professional right now at zero tasks and I paid $30?
+Nazima Piracha: because here they're charging $30 for you to just build with this uh multi-ubs apps or multiple apps. So here uh in in the free plan you have most of the integrations paid or not available but in the professional you will have all the uh premium integrations available to you. You'll have web hooks, you have chat support. So you have more product features, building features and for jobs you have to start using the slider so
+ 
+ 
+01:02:54
+ 
+Jonathan Assayag: And N remind me N.
+Nazima Piracha: I can have a free
+Jonathan Assayag: How is it different on the on the planet?
+Nazima Piracha: plan as such. So they have a free trial period. So for the first two weeks you uh can use the product uh fully and then the starter plan starts with $24 per month and you get execution.
+Jonathan Assayag: Yeah, by time.
+Nazima Piracha: Yeah.
+Jonathan Assayag: And then they have 10,000 oh 2.5,000 workflow executions. So, how does that compare to us on our pro plan if it's $30 for a
+Nazima Piracha: That's correct.
+Jonathan Assayag: thousand?
+Nazima Piracha: So they are actually very cheap in their uh if you if you just look at like to like execution their execution is almost uh8 cents for one execution. 1 1 8 sorry one I I think it was yeah it's almost 1 cent you can say uh per execution whereas for us if it is a monthly plan we charge almost 3 cents which is we are like 3x expensive See, but they have some limitations cuz they allow one shared project.
+ 
+ 
+01:04:13
+ 
+Nazima Piracha: They have a lot of We have no limitation on the number of projects like you can have multiple organizations and you can invite multiple people even like we have limitation on the builder credits like AI builder credits as well. Yeah. Which again we don't have any we don't have any limits on the AI the man credits. Yeah.
+Jonathan Assayag: We don't h don't we have a limitation? Sorry. The builder credits is like our manh hours to do the workflow building, right?
+Nazima Piracha: That's right. Yeah,
+Jonathan Assayag: Don't we have limitation on
+Nazima Piracha: I agree.
+Jonathan Assayag: abuse?
+Nazima Piracha: We have a limitation on abuse, but that those are outliers. They're that is not a normal use
+Jonathan Assayag: But what is I don't know.
+Nazima Piracha: case.
+Jonathan Assayag: It's hard to for me to read in N& like 50 AI workflow builder credits. Is that like am I likely to use 50 or not or is that is that sort of their abuse
+Nazima Piracha: No the 50 uh one can burn out
+ 
+ 
+01:05:06
+ 
+Jonathan Assayag: case?
+Nazima Piracha: 50 AI like I have used their AI credits I think almost a month back I don't know if things have improved but their AI is not good at all like uh if if you ask the AI to in order to build a node or create a process the output is is not up to not on par uh I haven't checked it recently so I assume that people would deplete their 50i workflow credits pretty soon when they're building with Enitton.
+Jonathan Assayag: Are we going to list our abuse maximum?
+Nazima Piracha: Uh I don't think we should because these will be uh one of cases against when when we use the word abuse it means it is like a fraud or it is one-off cases. I don't think we should list it up front. We could say unlimited uh AI credits for building workflows.
+Jonathan Assayag: Okay. And do you have a number already for what the maximum is?
+Nazima Piracha: Uh no I don't have that.
+Jonathan Assayag: Okay. Can we count that for
+Nazima Piracha: Uh sure there's also another thing.
+ 
+ 
+01:06:16
+ 
+Nazima Piracha: So they're not even offering like the different roles in starter which we
+Jonathan Assayag: tomorrow?
+Nazima Piracha: do and workflow history. I mean so we have job history or the execution log but we don't have the version control but it is supposed to so there are a lot of differences as to what they offer.
+Jonathan Assayag: Yeah.
+Nazima Piracha: So yeah in place only on the execution part from with respect to building we I think that is what I think I was also telling the other day like we are like workflow building is the delight for opus versus n focuses mainly on the execution part whereas we incentivize or we say that building is best with opus lots of things insights like basically dashboard metrics they're not offering if you're in the starter plan.
+Jonathan Assayag: Let me look up something real
+Nazima Piracha: Maybe we should have like basically this stuff locked in free as well.
+Jonathan Assayag: quick.
+Nazima Piracha: Like dashboard metrics locked. If you're in free, you don't get access. But most of the dashboard metrics are related to jobs. If you don't have jobs running, they won't work.
+ 
+ 
+01:07:28
+ 
+Nazima Piracha: Mhm. But their pro only has three shared projects. Basically, you can have three different workflows where multiple people are working. Yeah. Practically no limit. We have no limit. Now, didn't we say one organization? One organization. But it can be any number of people. So any number of people is like you can create multiple workspaces and add people there.
+Jonathan Assayag: I
+Nazima Piracha: Cuz they've said unlimited users but only one project can be shared by Yeah.
+Jonathan Assayag: had um prior SVP at Amazon who who he used he his perspective on pricing was you're either first or cheaper meaning like you're either coming out with a first brand new product that's completely innovative and you get to set the price or if you're coming in behind you got to be cheaper and I don't know if that's a consumer electronics thing
+Nazima Piracha: cheaper.
+Jonathan Assayag: or how he looked at other services in in his space. But I was I was just going back and forth with Gemini about how to think about pricing for this type of product.
+ 
+ 
+01:09:09
+ 
+Jonathan Assayag: Um so maybe think about what the maximum should be. And I do I I think it's I think it is important for us to show a dollar figure that is not higher than everybody else on the pro.
+Nazima Piracha: Yep. Yep. So uh what do you think of the Zapier's way of doing it wherein they up front show you the cost for their building experience and then you choose jobs and the pricing increases versus all of that in our free
+Jonathan Assayag: Go back. Can you go back to zap so we look at it while you're
+Nazima Piracha: plan. Yeah. Then we like we have to limit some in the free plan like in the pro plan we are adding
+Jonathan Assayag: talking
+Nazima Piracha: jobs API human in the loop unlimited organizations as additional features. I get it but it's the same as the free plan because in the free plan we're saying we're we're limiting you on five jobs. Mhm. So if you want more jobs then you pay. I didn't get you.
+ 
+ 
+01:10:21
+ 
+Nazima Piracha: Yeah. If you need more jobs you have to pay. But what Zapir is doing is your free plan is for you to actually try and also giving you 100 jobs for you to
+Jonathan Assayag: Yeah, it's different though just just to explain something.
+Nazima Piracha: explore.
+Jonathan Assayag: Zapier is targeting a different market than us because if if you want personal this is Nazma back to the document that you're helping write which is you know there's a question in there about what things do we not do well we are not designed for personal automation. Zapier is designed for personal automation,
+Nazima Piracha: H.
+Jonathan Assayag: right?
+Nazima Piracha: Yes.
+Jonathan Assayag: So, so then it's it, you know, that is where like I just have three things I need to get done. I'm going to use Zapier and I'm going to be plugged in and once every year, you know, it's I'm going to run a handful of automations and then maybe at some point when I go somewhere and I need more automation, you'll remember that you have Zapier plugged into your life and you'll upgrade to the professional plan.
+ 
+ 
+01:11:19
+ 
+Jonathan Assayag: That's not our That's not our play here. Our play is you're plugging this into a company. So the visi call it trial starter visitor plan, but the visitor plan is we need you to try this thing and see if you like it. If you like it, we need you to move to the professional plan where you're using it.
+Nazima Piracha: Yes.
+Jonathan Assayag: And if you're a crazy amount of, you know, power user, then you need to be in the enterprise plan. But they're all enterprise,
+Nazima Piracha: Yes.
+Jonathan Assayag: right? They're all they're all meant to be for companies, not for personal use.
+Nazima Piracha: Organizations
+Jonathan Assayag: And and the consultant, I think, you know, the idea is that they they kick it off in the free plan, the the the trial plan. They learn the tool. They're doing the crawl. Basically, somebody in is is, you know, whoever is next one on on the list, they're starting on the free plan for the crawl. Once they clear crawl and they say,
+Nazima Piracha: Yeah.
+ 
+ 
+01:12:14
+ 
+Jonathan Assayag: you know what, I like this. I'm gonna go implement this with my client. Then they need to be in the pro plan.
+Nazima Piracha: Yes.
+Jonathan Assayag: If not,
+Nazima Piracha: Correct.
+Jonathan Assayag: we face.
+Nazima Piracha: Correct. Yes.
+Jonathan Assayag: So that's why I don't mind going a little bit different than everybody else because we are not Zapier and we have some advantages or uniquenesses compared to NAN and right now given where we are in the market like let's just get them
+Nazima Piracha: Yes.
+Jonathan Assayag: to try but make sure we don't we don't suffer from abuse.
+Nazima Piracha: Yeah.
+Jonathan Assayag: I worry very much that, you know, Phil turned to us, we got a a ginormous bill from AWS because somebody went at the free plan and did this thing in a completely uh you know malicious way and then we right so we should just avoid that and then go into the professional plan. So there should be limitations for abuse across both
+Nazima Piracha: Got it. So yeah, I think next steps we will uh uh get a dollar number which is competitive like competitive which is lower than like zapier and n and second thing find that abuse number for uh like use for uh AI credits.
+ 
+ 
+01:13:29
+ 
+Nazima Piracha: So that from the back end we have a cap that if somebody is hitting certain limits we should get an alert or they should be blocked. And the third thing when we package the pro plan uh how do we justify the number that we are uh mentioning like if at all we are going by 3 cents per job of cost and we creating the final price the additional features that they're getting in addition uh than job should be justifiable enough for them to say that okay like this is fine let me go ahead with this. So these are the three steps that uh we'll use to to uh revisit on the pricing once again.
+Jonathan Assayag: Yeah, this whole manhour thing we need to really think through. Um,
+Nazima Piracha: Yeah.
+Jonathan Assayag: yeah, there's no middle ground between $30 and zero. And you know, you can make the case back to me $30 is fine because this is company related and company should be fine paying it. I just think consultants is probably a toll order if they pay nothing right now or they pay
+ 
+ 
+01:14:37
+ 
+Nazima Piracha: I I I think this is a call we should take in the sense
+Jonathan Assayag: Yeah.
+Nazima Piracha: that um should we go cost first route and then decide the dollar amount or should we uh decide on the dollar amount per pro plan but we still offer the same amount of jobs that is like are we are we okay to take a hit on the jobs cost uh which is agree
+Jonathan Assayag: I think you need I think you need to go at it customer friendly meaning what's the mindset of the customer coming into this as they think about their choices and then we work backwards to the cost to make sure we don't lose money. Um there is a there is a reason companies do $29.99 as opposed to $30. it's like a proven like it or not sort of scientific thing. Um but you know to to be iterated on I think you know and again I worry that this discussion is more around like the polishing than just getting on the board. I think the free piece is is really where we're getting stuck.
+ 
+ 
+01:15:38
+ 
+Jonathan Assayag: Um, so maybe, you know, in an ideal world, maybe there's an opportunity to go like 14.99 pro, but give me even less jobs, right? 500 jobs. 500 jobs sounds like a lot of jobs.
+Nazima Piracha: Um, depends depends on if it is a small SMB and if they're doing lead qualifications, maybe 500 could be less, but if it is like oneoff task, it can be more. So, not sure.
+Jonathan Assayag: Yeah. What do we say about the the length the the like if it's a complex workflow versus versus simple workflow and what that means in terms of jobs,
+Nazima Piracha: The job doesn't uh differentiate between the number of the complexity of the workflow.
+Jonathan Assayag: right? So, but but the cost is going to be very different,
+Nazima Piracha: Yeah.
+Jonathan Assayag: right? If I'm running a ginormous workflow as a job versus a very small workflow as a job.
+Nazima Piracha: Ideally, yes.
+Jonathan Assayag: So, what does that mean for us in terms of our cost basis?
+Nazima Piracha: Cuz right now have we optimized for like the most complex workflow and we charge 3.7 for 67 for building or is it uh so actually we have this um like we have we don't have a separate costing for the number of nodes that we have in a workflow.
+ 
+ 
+01:16:54
+ 
+Nazima Piracha: Yes, we have costing whenever AI is using to build a workflow or AI using to run a node or AI using to review the workflow or input variables and all of them but we haven't I have to check on this mostly average because uh this also came up today in a discussion with Ash because he was like I've also tried to ask or understand this like how do I justify manh hours because clients do ask and I have no idea How to explain this generic 3.67 man hours for a simple or a complex workflow. So is there like an averaging that was done like my workflow could be 100 nodes and it costs this much or it's 15 nodes and it costs this much that's why we landed on the 3.67 number. We don't know that right now. So all this will be we will add it as an underlying cost when we are creating this plan and uh on top of it we will account for the cost of individual job and then we'll come to the price amount. Yeah.
+ 
+ 
+01:17:58
+ 
+Nazima Piracha: And maybe the additional features but I mean like today in the current product that's not a lot. H but John are you fundamentally aligned with this part that for a starter plan we will be giving unlimited workflows and uh 300 plus like all the integrations and AI native building experiences experience. So these are the things that we are giving to the free plan for them to actually build freely without any um uh hindrance and if they really like uh the platform they can go to the popular the pro plan in order to start uh executing
+Jonathan Assayag: Yes,
+Nazima Piracha: jobs.
+Jonathan Assayag: I just need more thought leadership around all these other points that we talked about. So the basis were aligned. I gave you some of the restrictions that I think are important. I just want more thinking around we're pivoting from manh hours to jobs. What's the implication on that? What are the guard rails we're putting in here? How do we keep this the most simple based on um you know what we're going to ask of engineering? How do we charge a number that reads competitive to the rest of the market?
+Nazima Piracha: Cool.
+Jonathan Assayag: So come back if you don't mind come back tomorrow with like more logic around these points specifically also you know very important this this jobs versus manh hours bit very large complex workflows very small don't just take an average because the average may not be the median or the average may not be like you know percentile 80 it may just be a very small number because I don't know what the pool is of people making workflows today that are not us but just I want some thinking around
+ 
+ 
+Transcription ended after 01:20:05
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

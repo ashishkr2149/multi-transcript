@@ -18,13 +18,21 @@ from typing import Any
 
 from src.config import PROCESSED_DIR, RAW_DIR
 from src.ingestion.chunker import Chunk, chunk_transcript
+from src.ingestion.formats import TranscriptFormat, detect_format_with_confidence, format_label
 from src.ingestion.parser import (
     ParsedTranscript,
     parse_transcript_file,
     parse_transcript_text,
     save_parsed_transcript,
 )
+from src.retrieval.catalog import title_looks_like_date_only
 from src.retrieval.vector_store import TranscriptVectorStore
+
+_GEMINI_DURATION_FOOTER_RE = re.compile(
+    r"Transcription ended after\s+\d{1,2}:\d{2}:\d{2}",
+    re.IGNORECASE,
+)
+_SUSPICIOUS_SPEAKER_RE = re.compile(r"^[A-Z]{2,}$")
 
 
 @dataclass
@@ -41,6 +49,7 @@ class IngestResult:
     action_item_count: int
     raw_path: str
     json_path: str
+    detected_format: str = "unknown"
 
     def to_dict(self) -> dict[str, Any]:
         return {
@@ -54,6 +63,7 @@ class IngestResult:
             "action_item_count": self.action_item_count,
             "raw_path": self.raw_path,
             "json_path": self.json_path,
+            "detected_format": self.detected_format,
         }
 
 
@@ -71,6 +81,10 @@ class PreviewResult:
     estimated_chunks: int
     sample_utterances: list[dict[str, str]] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
+    detected_format: str = "unknown"
+    format_confidence: str = "low"
+    normalization_applied: bool = False
+    metadata_source: str = "none"
 
 
 def _slugify(text: str) -> str:
@@ -98,6 +112,34 @@ def list_indexed_transcripts(
     return store.list_transcripts()
 
 
+def list_catalog_records(
+    store: TranscriptVectorStore | None = None,
+) -> list[dict[str, Any]]:
+    """Return catalog records with display titles and quality hints."""
+    from src.retrieval.catalog import TranscriptCatalog
+
+    catalog = TranscriptCatalog(store=store or TranscriptVectorStore())
+    records = catalog.list_all()
+    out: list[dict[str, Any]] = []
+    for rec in records:
+        out.append(
+            {
+                "transcript_id": rec.transcript_id,
+                "meeting_title": rec.meeting_title,
+                "meeting_date": rec.meeting_date,
+                "display_title": rec.display_title,
+                "duration_minutes": rec.duration_minutes,
+                "participants": rec.participants,
+                "chunk_count": rec.chunk_count,
+                "utterance_count": rec.utterance_count,
+                "title_is_date_only": title_looks_like_date_only(
+                    rec.meeting_title, rec.meeting_date
+                ),
+            }
+        )
+    return out
+
+
 def list_raw_files() -> list[dict[str, Any]]:
     """Return one entry per .txt in data/raw/ with file metadata."""
     entries: list[dict[str, Any]] = []
@@ -120,12 +162,59 @@ def list_processed_files() -> set[str]:
     return {p.stem for p in PROCESSED_DIR.glob("*.json")}
 
 
+def metadata_quality_warnings(
+    parsed: ParsedTranscript,
+    raw_text: str = "",
+) -> list[str]:
+    """Flag likely metadata issues before indexing."""
+    warnings: list[str] = []
+
+    if title_looks_like_date_only(parsed.meeting_title, parsed.meeting_date):
+        warnings.append(
+            "Meeting title looks like a date only (e.g. 'Feb 10, 2026'). "
+            "Re-paste or re-upload so the real title is captured, then re-index."
+        )
+
+    suspicious = [
+        p
+        for p in parsed.participants
+        if _SUSPICIOUS_SPEAKER_RE.match(p.strip()) or p.strip().upper() == "DAILY"
+    ]
+    if suspicious:
+        warnings.append(
+            f"Suspicious speaker name(s) detected: {', '.join(suspicious)}. "
+            "This often means the meeting title line was parsed as dialogue."
+        )
+
+    if (
+        raw_text
+        and _GEMINI_DURATION_FOOTER_RE.search(raw_text)
+        and parsed.duration_minutes is None
+    ):
+        warnings.append(
+            "Gemini duration footer found but duration was not parsed. "
+            "Check format detection before indexing."
+        )
+
+    if parsed.detected_format == TranscriptFormat.PLAIN_DIALOGUE.value and (
+        _GEMINI_DURATION_FOOTER_RE.search(raw_text) or "00:00:00" in raw_text
+    ):
+        warnings.append(
+            "Transcript looks like Gemini/Google Meet but was detected as plain dialogue. "
+            "Preview carefully before indexing."
+        )
+
+    return warnings
+
+
 def preview_parse(raw_text: str) -> PreviewResult:
     """Parse without writing anything to disk. For the 'Preview' button."""
+    fmt, confidence = detect_format_with_confidence(raw_text)
     parsed = parse_transcript_text(
         raw=raw_text,
         transcript_id="__preview__",
         source_file="__preview__.txt",
+        format_hint=fmt,
     )
     chunks = chunk_transcript(parsed)
 
@@ -138,16 +227,39 @@ def preview_parse(raw_text: str) -> PreviewResult:
         for u in parsed.utterances[:5]
     ]
 
+    fmt_label = format_label(TranscriptFormat(parsed.detected_format))
     warnings: list[str] = []
+    if parsed.detected_format == TranscriptFormat.UNKNOWN.value:
+        warnings.append(
+            "Could not detect transcript format. Tried best-effort parsing across "
+            "all supported formats."
+        )
+    elif confidence == "low":
+        warnings.append(
+            f"Low confidence format detection ({fmt_label}). "
+            "Verify the preview sample looks correct before indexing."
+        )
     if not parsed.utterances:
         warnings.append(
-            "No utterances detected. Make sure the transcript uses the "
-            "expected speaker line format: '0:00 - Speaker Name (org)'."
+            f"No utterances detected (detected format: {fmt_label}). "
+            "Check that your transcript matches one of the supported formats "
+            "(Fathom, Gemini/Google Meet, Zoom VTT, Otter, or plain dialogue)."
         )
     if not parsed.meeting_title:
-        warnings.append("No meeting title detected (the first non-empty line).")
+        warnings.append(
+            "No meeting title detected. The transcript will be stored as untitled."
+        )
+    elif parsed.metadata_source and "title" in parsed.metadata_source:
+        pass  # title found
     if parsed.utterances and not parsed.meeting_date:
-        warnings.append("Meeting date could not be parsed from the title.")
+        warnings.append(
+            "Meeting date could not be parsed. Date-based filtering will not be available."
+        )
+    elif parsed.metadata_source and "date" in parsed.metadata_source:
+        if "title_date" in parsed.metadata_source:
+            warnings.append("Meeting date was inferred from the title line.")
+
+    warnings.extend(metadata_quality_warnings(parsed, raw_text))
 
     return PreviewResult(
         meeting_title=parsed.meeting_title,
@@ -160,6 +272,10 @@ def preview_parse(raw_text: str) -> PreviewResult:
         estimated_chunks=len(chunks),
         sample_utterances=sample,
         warnings=warnings,
+        detected_format=parsed.detected_format,
+        format_confidence=confidence,
+        normalization_applied=parsed.normalization_applied,
+        metadata_source=parsed.metadata_source,
     )
 
 
@@ -204,9 +320,11 @@ def ingest_single_transcript(
         source_file=f"{tid}.txt",
     )
     if not parsed.utterances:
+        fmt_label = format_label(TranscriptFormat(parsed.detected_format))
         raise ValueError(
-            "No utterances were parsed. The text does not look like the "
-            "expected speaker-line format ('0:00 - Speaker Name')."
+            f"No utterances were parsed. Detected format: {fmt_label}. "
+            "Please check that your transcript matches one of the supported "
+            "formats (Fathom, Gemini/Google Meet, Zoom VTT, Otter, or plain dialogue)."
         )
 
     raw_path, json_path = _persist_inputs(parsed, raw_text)
@@ -224,6 +342,7 @@ def ingest_single_transcript(
         action_item_count=len(parsed.action_items),
         raw_path=str(raw_path),
         json_path=str(json_path),
+        detected_format=parsed.detected_format,
     )
 
 
@@ -266,6 +385,7 @@ def ingest_from_file(
         action_item_count=len(parsed.action_items),
         raw_path=str(path),
         json_path=str(json_path),
+        detected_format=parsed.detected_format,
     )
 
 

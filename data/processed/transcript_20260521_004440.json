@@ -1,0 +1,4943 @@
+{
+  "transcript_id": "transcript_20260521_004440",
+  "source_file": "transcript_20260521_004440.txt",
+  "meeting_title": "DAILY: PLG, Website, Content, Academy, etc - Transcript",
+  "meeting_date": "2026-02-10",
+  "duration_minutes": 60,
+  "participants": [
+    "Jonathan Assayag",
+    "Nazima Piracha",
+    "Nabil Mansouri",
+    "Shaurya Singh"
+  ],
+  "utterances": [
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Hey folks,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Say hi John.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "how's it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I think good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "going?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "No, there's there's no echo in our voice now, right? Can you hear me? Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "good. Good.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "All right,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh D.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "let's rock and roll.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:00:00",
+      "timestamp_seconds": 0,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay, so um just a quick update from yesterday on PLG. We have our feedback session today with Diana in the evening. Um it's around 7:30 and we expect uh to go in detail over the survey responses that she's given. Um we can either go over the responses right now or I'm happy to share the sheet where we're like collecting all the survey responses. But primarily her concern was um about like prompt to workflow because that's the way that she used in order to build her workflow. Um and she was one of the things that she mentioned was that um things that would be counted as one or two steps at max in other platforms um like make or n which are the two that she mentioned are like six or seven steps um in opus.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:02:15",
+      "timestamp_seconds": 135,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So it's just that too many steps are there which makes it confusing and you have to go back in every single note to even understand which was a really simple workflow and that she intended to do a lot with opus bases what we had initially pitched to her um the idea that opus is being used across enterprises and regulated industries um the idea of auditing the idea of compliance so she said that she was really excited to use opus but the fact that she couldn't build a very simple workflow um has made her realize that she would not want to use opus at least for her clients right now. So she does see the value proposition but she also feels that the simple things the more minute things need to be resolved before that value proposition starts showing. She couldn't she said explicitly she couldn't even use some of the nodes or functionality that she actually wanted to explore because the basics were not right for her. Um, one of the things that she highlighted uh specifically for education as well in the foundational course, she said that the foundational course really goes over the perfect or the most ideal version of what's going to happen when you build a workflow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:03:26",
+      "timestamp_seconds": 206,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "It doesn't touch anything related to troubleshooting and she wished the reality was like this but as soon as she started building the workflow the reality was quite the opposite. Um and then her feedback about the instructorled training session was also that she felt it was very repetitive after she had already gone through the foundational training course but because we've changed that with Igor so we are looking to see what is the feedback that we received from him because what she suggested is actually what we did with Igor um in terms of the instructorled training session. Um so we have a call with her. we will go over um the details but one thing and I wanted like we were discussing earlier as well she so clearly mentioned that she does not want to use opus right now and also in the um test question that we'd asked her bases like how disappointed she would be if opus was taken away from her right now and she said not disappointed so we were just wondering if it even makes sense to go and be like okay you know what we're going to offer you a discount right now and would you be interested to stay on the platform it should rather be like hey we would love",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "to stay engag engaged with you and once we have these improvements we would love to engage back with you and see where we can take it forward from",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "there.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "We talked about in the beginning which is if they already for the Sean Ellis test is is a is a negative then don't even Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Exactly. Um a question on that in terms of her",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "um in terms of her it'd be good to understand if she didn't do prompt to process if that would actually change her perspective.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So we",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:04:26",
+      "timestamp_seconds": 266,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'm kind of I'm seeing it even from the document you're writing on the product marketing is that nobody's taking problem to pro process. It's and it's overly complicated. I don't even know if that slider that we have to make it more simplistic could help but nobody's enjoying prompt to process. So, and the way that the sales team is pitching in enterprise is they they they pitch it as prompt to sol prompt to prototype or what is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:27",
+      "timestamp_seconds": 327,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh yes it's prompt to generation and then speed of iteration.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:27",
+      "timestamp_seconds": 327,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "it?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:27",
+      "timestamp_seconds": 327,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So they make it a two-step like prompted design and then speed of iteration.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:27",
+      "timestamp_seconds": 327,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. I'm wondering do you have a perspective on that? If if we stopped telling folks to use prompt the pro process or if we just pulled it down from the website like it would that or you know hid it a little bit would that make a difference?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:05:27",
+      "timestamp_seconds": 327,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Um so one thing uh uh what I think John is like promptive workflow generation is just one part of the problem that she was talking about uh uh I think if if we are able to make the prompt to generation part better that is if you're able to add integrations uh I think we were actually talking about this briefly some time back that when some somebody prompts we ask them a couple of questions so that we can give a better answer or the first from that is generated is better. I think that would be a better experience uh for a user uh because right now I think the concept of prompt process actually interested all almost all all our consultants when we talked about it initially but only thing is when they actually see the result is when there is a mismatch between what they're expecting and what they're seeing and in in the case so we this is something that we can discuss with Diana in our meeting as well today just to understand her perspective of h how like had she not use prompt to process would her experience vary.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:55",
+      "timestamp_seconds": 415,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "But for example with Ashish he started with prompt to process initially and then he explicitly said you know what it was so complicated for me that I decided to build the workflow from scratch. So he deleted everything and then he started from scratch again and he was able to deliver a workflow but there are two things that we have to take into perspective here. Um Ashish is way more experienced. He has like 20 years of experience and still like he also shared a lot of detailed feedback um which we still have to kind of compile in terms of his experience in terms of successfully building the workflow. So building from scratch um actually Igor also um ended up building from scratch and Diana did not build the workflow from scratch.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:06:55",
+      "timestamp_seconds": 415,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, um I think we should put an action item on on your on your sheet about we have a gap. I mean, we have a clear gap on prompt process. I'm I am wondering if this idea of simplifying the result with a slider or so could help because my my read is that everyone is saying it's coming out overly",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:08:15",
+      "timestamp_seconds": 495,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So I mean obviously there are like multiple layers to it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:08:15",
+      "timestamp_seconds": 495,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "complex.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:08:15",
+      "timestamp_seconds": 495,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "One part of the solution is to simplify it but then there are also other parts right for example making sure there are the integration actions that are added or embedded within the workflow because in reality um it's not like a a workflow cannot just be on paper like there are multiple systems involved. there are multiple different tools involved. So I think it should account for that as well. So of course and obviously we can't have the most ideal experience in one go but we can start building like from the building blocks and one of them is simplifying it. So it could possibly eliminate some of their pain. Like if they let's say if they see you know four steps instead of 11 steps as they add a prompt then there's still some direction as to where they're supposed to go and then they can add adding nodes. So what we've always heard is hey there are so many nodes we don't know what to do like go on each node delete them.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:16",
+      "timestamp_seconds": 556,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So adding nodes rather than deleting them actually like there's a difference even internally. This is what at least I've been hearing from the different people here. So everyone's just like there are so many nodes and we have to go and edit and change every single node that exists.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:16",
+      "timestamp_seconds": 556,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But but in terms of so so the complexity of of the the node uh output is one. Uh, was there another point you were trying to raise?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:16",
+      "timestamp_seconds": 556,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So I think it's actually two points uh John one is the temperature control where we um uh increase or uh decrease the number of opus agents or review agents that uh the workflow generates by itself and the second one is the sheer number of nodes for uh one particular action. So like quote unquote Diana's uh point point was that I found it confusing that it generated separate steps for connecting to the sheet extracting the rows unnecessary review agent locating the email column and then finding the email row in in make. This is all in the same",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:09:16",
+      "timestamp_seconds": 556,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "node.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "so there's an aspect of simplicity here. The integration gap that exists, can you just explain what that is specifically?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So the integration gap is right now if uh I prompt uh that I",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Do the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "want to yeah if I prompt that I want to extract a row from Google sheets and",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "prompt",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "then build a message and send it on Slack. So the the worker that generates doesn't have Google Sheets and Slack already in the Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "integration.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "we have to add them separately.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. Can you let's take the action on the that is a direct one that we can do. Can we write that ticket and let's put it for engineering. Uh Nasma, can you take that one? And then the second one is Nibil unless you think differently I do recommend we",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:10:24",
+      "timestamp_seconds": 624,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "try to so there's two directions here for us right either we tell people to stop using prompt to process or we try to simplify the output of prompt to process and see if that actually helps solve some of the painoint and it could be a slider that presets at less complex and then someone has to make it more complex Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:11:46",
+      "timestamp_seconds": 706,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh, Nut is saying something,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:11:46",
+      "timestamp_seconds": 706,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah. Yeah. I'm in the car.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:11:46",
+      "timestamp_seconds": 706,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I think.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:11:46",
+      "timestamp_seconds": 706,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "RS having a call on the other side. I need to think about this one. Not not sure. But I think the easiest one will be to start not using frontal process because even if we put a slider, it will take engineering time and whatnot and then it will it will delay us. So just for simplicity sake, let's go for the don't start on frontal process. start them on, show them as a opportunity, but then have them build like our like our workflow engineers built from scratch and see how that how that goes. What do you guys think?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:11:46",
+      "timestamp_seconds": 706,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I just worry if we pull away from prompt to process altogether, we're really sliding slicing through our own value proposition in the market, right? Because we're we we're all about the knowledge graph which then pulls from prompt to process. We're we're really starting to take away from how we differentiate. I would I would actually try to see if we could put something there to default simplify the output.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I wonder if that would even if we just tried that internally if that's going to be of good value add to the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I agree.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I I have",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "team.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I agree. I one second.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "a",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:12:43",
+      "timestamp_seconds": 763,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Sorry. One second. I agree. But I want to test the other side of the angle. So buildings from scratch must have some pains, right? I I would like to know what they are. So you see what I mean? because I think it can it can add to the it could add to the experience that I'm I'm not saying this is our ultimate solution but it would be good to to have some people even if it's one to start from scratch and say hey this sucks and why it sucks and what not and then take them to frontal process the other way to see if they if there if the experience is better I'm just wondering where they're where they're starting the experience whether that changes at all that again challenge me if you guys don't want to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:27",
+      "timestamp_seconds": 807,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, one of the design changes that Metalab proposed in their uplift is you prompt a node, not prompt the whole process, right? So, you could start with one node and then you prompt the next node. I thought that was like brilliant and could be very helpful. Um, but until we get that uplift, we may want to I would I would I would shoot for that one. I'm not sure it's going to be a crazy engineering lift to just be able to put a a drop down when you when you prompt your process to say start, you know, it defaults to simple and they can add it to more complex. So you basically can get the same output if you want. Uh and then worst case we start doing away with prompted process which is what you're pushing us. Go ahead Nasma.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:13:27",
+      "timestamp_seconds": 807,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So if it is engineering effort which again we can confirm um and currently if the unanimous feedback is that prompt to process actually increases uh like the difficulty rather than simplifying it why can't we is it possible to just internally like manually have it set to the simplified version and see how that does.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So we don't give users the option of choosing from simple to complex. We see if we ourselves settled internally to having the u process that's generated simple how do users react to that at least in in the time that we have.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You check internally with the sales team if as they're building an internal team to see if a a simpler prompted process would be",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "helpful.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So we don't even give users the option of doing complex. We just do prompt to process but it's the simple",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I would just I would keep it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "version.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "We don't know if people like it. We don't have metrics to tell us right now so far of of the complexity. I would just you can just create a default you level complexity between less complex",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "simp.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:14:32",
+      "timestamp_seconds": 872,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "more complex and default it to less complex and then if somebody comes in and says I don't like the output I want it more complex then or more thorough then they add it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "um okay let's work through that and figure out what we want to do there the options there then become do this more complex less complex level two is do away with prompt to process all together or you know hide it or level three is prompt a node which is coming when they do the uplift.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. So that's going to come after April",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "15th",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think the challenge right now is prompt the process. We have to fix that. Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "and within that we also discuss two things.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "let's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So so if we are keeping prompt to process then obviously one thing is less complex to more complex. Second is introducing integrations within the prompt process and then the third one is having the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "agent review slider control also within the prompt to process and not under organization settings. So we have three different things that are happening if we do decide to keep prompt to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:15:20",
+      "timestamp_seconds": 920,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "process.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "the integration in uh needs to be done regardless of what you do with anything. If I say Google Sheets in my prompt,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "it needs to have a Google Sheets integration in there.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Um yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "it's not it's not an optional advanced kind of thing. Yeah, I can get we can get um I would actually have IDR mock this up.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Let's get um clear on the design and then let's push it to engineering.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "perfect. Okay. Um so those are the main things we have from PLG and then this is yesterday's discussion. Um I've made some updates to this sheet. So just added a few more statuses and then um I needed some followup with the engineering on",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:16:24",
+      "timestamp_seconds": 984,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "a few ticket items. So I've escalated them to Akash but I haven't heard back so I'll follow up with him again. I think he's a bit busy today with meetings.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "they're in KO.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So I just need to follow up with him again. Maybe I'll touch base with him in the evening to see like what's the progress because I had three queries for him. Uh those are the updates that we have as of now on PLG. M do you want to take over for content? Yeah. So, uh there are two",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Just before we switch,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "things.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "um I just want to make sure we're super crisp on the actions. So, uh one ticket is going straight to engineering to say if somebody prompts integrations, the integrations need to come up that you can put into is board and we can flag that already.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "two is it's going to the design team saying let's design a sort of advanced tab or so you ability to and then that tab have two edits for the prompt. One is complexity of the prompt and two is um number of agents.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "reviews.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:17:16",
+      "timestamp_seconds": 1036,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. Reviews and the default for complexity is simple.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes. So I'll pass it um to Edar.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And then from then it will go to engineering.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh so there are two other points that we want to discuss today John. So one is on the pricing continuing from yesterday and uh the second one is on the content uh structure strategy. So on the pricing I uh I just want I'll just share my",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "screen. Uh so I had dropped a note uh to you yesterday, right? So the thing is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. Can you explain please explain to Nibil as well because he wasn't on the note and so I want to make sure he's caught",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "uh sure sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "up.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:18:11",
+      "timestamp_seconds": 1091,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So uh what our understanding was that uh running a job is is a uh the cost of running a job is constant. That was the understanding and that's why in the initial pricing model that uh we had proposed we had a constant uh subscription cost uh and a uh fixed number of jobs that we run under that plan.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:17",
+      "timestamp_seconds": 1157,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "But actually it's not the case because the cost of running a job depends on the number of nodes that the workflow has and uh depending on the nodes the cost of workflow uh cost of job might go up to 1.2 man hours to 1.8 or two manovers like there is no u fixed number of manovers or dollars that you can attribute to one job. It all depends on the complexity of that uh of that workflow. And uh here are the unit costs that we already have. Uh but just to simplify like if if our assumption is that workflow building involves generation plus using two opuss features plus using all node one time, the cost of actually building a workflow would be $1.4 without any markup. and actually running a job would almost be like $.5.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:17",
+      "timestamp_seconds": 1157,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Sorry. All nodes is number of nodes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:19:17",
+      "timestamp_seconds": 1157,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh so here are the different kinds of nodes that we have. Opus agent, custom agent, decision node, execute workflow, reviews, uh text extraction, external services. So if we assume that we are using this is this is again an assumption.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:34",
+      "timestamp_seconds": 1234,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I've asked Dragon in order to give me a better data that is average number of workflows, average number of nodes that each workflow has and what kind of note do people use uh more in order to get an accurate picture here. But uh long thing short the thing is if if we are since since all of our uh nodes are AI powered or backed by AI the cost of running a job is significantly high compared to uh nonI native apps like inate and zapier or make and um like we we can definitely not charge based on uh like have a constant cost for each job. Uh but we have to identify what is the next best step in order to like fix a price or charge",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:34",
+      "timestamp_seconds": 1234,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay, let me separate out the two issues I'm seeing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:34",
+      "timestamp_seconds": 1234,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "users.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:34",
+      "timestamp_seconds": 1234,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, um, on the table that you have on the left, is that the cost to generate the node or to run the node?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:20:34",
+      "timestamp_seconds": 1234,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "This is the cost of uh running a node. Uh it can happen in the builder and it can happen in the job as well.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So for example, there is an opus agent. Uh you will uh the the user will spend or or we will incur $.1.1 when they're either reviewing that node or running a job on this.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Can we can we just focus for given our plans are more focused on uh charging for running the job? Can we just break it out so that we start with just talking about running the job and how we think about cost? Because the big the big delta that we're proposing here with the updated pricing is it's on a per job basis as opposed to being per manhour. And every workflow would have a different level number of manh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "That's correct.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "hours.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So uh if you look at here the uh 11 columns that uh I have highlighted row number 10 to row number 20.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:21:43",
+      "timestamp_seconds": 1303,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "These are the different nodes that can be part of a job depending on the workflow that users have created. They might be having multiple agents or they might not be having any agent at all.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You're right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "But uh this is these are all the nodes that can be part of a job and these are the unit costs of each of these uh nodes like opus agent cost like $.1.1 and custom agent is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "pause",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "005 so",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "for a second because I had a meeting with Omar this morning about custom agents versus opus agents.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "on",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So, our agents cost more than the custom",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "mhm that's correct because in the custom",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "agent.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "uh I think in in opus agent uh we also choose the right kind of model for them.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah, I think Syria raised raise his hand. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "thing I can explain this uh uh the reason our agent costs more is because um our agent",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Peace.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:22:42",
+      "timestamp_seconds": 1362,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "can do uh multi-step processes. So custom agent is just one call to open AAI and you get it back and that's it. So uh it's always single shot. It can be a very large prompt but it's always you send it once you get one response back.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh for us for Opus agent it can be multi-shot. It can plan and have like you know okay I have these five tasks and then each of those tasks could be like one LLM call. Uh so it can handle more complex stuff but because it's multi-shot it's more expensive.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "that the main",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yep. That is the main difference.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "difference?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh they are somewhat um counterintuitively named.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay, this is a different problem. Can let's you and I Sha chat on this afterwards because Omar has lots of questions about it and he's complaining about the use of opus agent.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So I don't want to take the time here but this is an area to dig into.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay, sorry.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Uh really continue.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:23:36",
+      "timestamp_seconds": 1416,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So, u yeah, these are these are the different nodes that can be part of a workflow and these are the unit cost of all of these agents individually. And if a user builds a workflow with you using one of each of these agents, the cost would be almost $.5 and um and and so on so forth.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:50",
+      "timestamp_seconds": 1490,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "And the reason why we uh are incurring so much cost like this is not even like including markup. So if we when we price we uh of course need to include markup unless we don't we want to burn money. But the reason is that we are using AI in almost all our nodes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:50",
+      "timestamp_seconds": 1490,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So what was the reason again? Remind us of why we are going away from manh hours on running the job. So we had those two that you know that the the two rows one is workflow building. We're going to talk about that separate but the one about running. Why are we steering clear for manh hours?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:24:50",
+      "timestamp_seconds": 1490,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So one the concept of manows is confusing. So uh I'm assuming that we're not talking about the terminology here. Uh the second part is the the uh initial understanding was that uh the cost of running a job is constant and user would understand uh when we say you pay us x amount of dollars and you get uh y amount of jobs.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "It's easier for them to understand and compare platforms versus what like for example make does. Make says that for $10 you get 10,000 credits. But the way we calculate credits is different. So user has to go three steps, four steps to understand what does how does the credit is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Oh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "calculated.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "because we did receive feedback that people were saying, I don't know how you are measuring your manh hour,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "That's right. That's correct.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:25:54",
+      "timestamp_seconds": 1554,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "How's how's every workflow that's generated 3.67 six seven man hours. I don't know how you decided this is how many man hours you're going to charge me when I try to run a job and how do I explain that to a client then and this is what we received even yesterday actually from um the interviews. So Ash mentioned the exact same thing when he goes for pricing he does not know how to explain the entire concept of manhour. So he just tries to stay as far as possible that he can from this.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:54",
+      "timestamp_seconds": 1614,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Nibil, any comments on there? I'm I'm more just trying to think about do we go to running a job or is there a third option here that is that gives us the flexibility of depending on the complexity of the some of these things are tying together, right? Because depending on the complexity of the job, we're also heard that prompt of process is generating too complex and that actually just makes the workflow more expensive. So, it's all sort of coming together.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:54",
+      "timestamp_seconds": 1614,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah, but I don't know how you're going to move to run a job because it will vary according to the complexity of the job. So un so so I I see the consumption piece but I don't know why it could be a job and not AI credits or or do we make a call that we want to move away that for to be job executions.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:26:54",
+      "timestamp_seconds": 1614,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So uh uh so the thing is why we are not or why we should not be doing per job is because we don't know how many nodes will people use in a workflow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "If some if",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I understand that's not the question.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "if",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "The question is have we made a decision to move from the current execution that is based on AI credits to executions or or or not because I I don't based on our model that it's each execution can vary according to the size of the workflow, the size of the file that it's putting out there. How we're going to like normalize that? That's what I'm asking.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I I guess the the the answer to your question to me is that uh we know where we are is not you know not being well embraced by users. uh we see that this buy jobs model is risky uh from a you know we're charging some number some dollar depending on the workflow could be more or less so so it puts us at risk. I'm wondering if there's a third option here or you know what else others are doing that allows them to kind of be not you know having the best of both worlds.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:27:55",
+      "timestamp_seconds": 1675,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So it is in In our case, in our scenario, I think the best thing would be to charge per node.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:29:06",
+      "timestamp_seconds": 1746,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh that is uh identify one simple uh a unique cost or unit cost value for all the nodes. Uh average it out and give users um say uh a thousand a credits and we say that each a credit is equal to each node that they're executing. Uh that I can work that out. But the uh underlying question is the cost of each node is so expensive. It's like $.1 or 005. We cannot pass all this cost to the users.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:29:06",
+      "timestamp_seconds": 1746,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Wait, the question is what what's wrong? Okay, so I see that I agreed. I don't think we can uh charge per note. The question is what's wrong with charging for like man hours in execution?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:29:06",
+      "timestamp_seconds": 1746,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:29:06",
+      "timestamp_seconds": 1746,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Have we Why has that been discarded? Has that been discussed? Because I'm missing that piece. That's why I keep I keep coming back to it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:29:06",
+      "timestamp_seconds": 1746,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Nil the uh uh discussion was that uh the the cost of a job varies. So so initial plan proposal when uh we",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "No,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I understand that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "no, no, no, no, no, no.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I understand",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "share",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The answer the deal. The answer is people are confused on knowing how much man-hour they have to buy because they don't know how much",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "any particular wolf will consume. If it's on a per job basis, just as an example, it's like, okay, I know how many jobs I need. I know how many I need to buy. But especially when we put our product in comparison to others and we say we're charging for a certain number of say",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "manh hours they're like is that a lot is that a little I don't know",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "And that's and that's where the difficulty comes. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right that's the feedback that they're they've given the PLG team around we're not",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I see that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:30:12",
+      "timestamp_seconds": 1812,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "sure we're not we don't understand manh hours it's a concept you all created and she was trying to understand is this the number of hours that it it would take for someone to go through it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I I I do wonder for that one if if we remove the the workflow creation piece because that was how people were thinking, right? Is that the number of hours it would take for someone to create this thing and we just did away with that. Is there does this just become more acceptable or pal palatable for running a",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "So let me ask you another question because ideal if we're the last where I I understood is that",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "workflow?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "for workflow creation you were thinking of a flat fee that kind of gives you to a studio license. Yeah. Um and then once you finalize the workflow but ideally you should have once you have the workflow final you should have an idea of how much how many credits you're going to use. Because now the workflow the workflow is final. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "You should be able to run the workflow once and then you'll see how many credits you're about to get",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:02",
+      "timestamp_seconds": 1862,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Right. And it's it's right and then hey when you run this this is going to charge",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:57",
+      "timestamp_seconds": 1917,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "charged.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:31:57",
+      "timestamp_seconds": 1917,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "you this much. So it will help you size the number of of credits that that you need. and we can bundle like a flat fee with like, hey, it'll come with a thousand execution credits and if you need more, here's the rate for buying more, you know, and then you can start like bundling that way. So then they do have some execution in there to each of the flat rates that that we give, you know. So like each like let's say buy the $39.99 and and without that bundle, you come with a,000 execution credits, well man hours if you still want to call them, you know, with a,000 man hour execution credits. You build your workflow unlimited workflow creation and then at the end of you build that workflow. I and I know that before we used to have a we we hit the way in which you can consume workflows or you can man hours on the on the builder, right? So the only way right now to see man hours is on the on the job section.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I think that's where we kind of need to find out where's the best way for the builder. Ideally, I have a full build experience and I know, oh, if I run this workflow, it would cost me five man hours. Then, you see what I mean? I think it should be brought back to the builder experience and then you have a full end to end build experience with cost and then it'll be very simple. We we go away with all the like all the things that we're talking about. That's what I think",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So you're saying be the requirement should be able to I should be able to see how many whatever's on my canvas I should be able to",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "there. So, what's going on,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "see what is the cost in man hours of running this",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "guys?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "canvas.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah. Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "And right now we've basically set it at the standard the 3.67",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:32:55",
+      "timestamp_seconds": 1975,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "correct that is for that that's for generation. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "That's regeneration, right? That's regeneration.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "But but for execution, that's variable, right? So then at the moment and say, hey, when you run this, it's going to confuse five. It's consume 1.2 my hours, 3.2, whatever that is. But it gives you already an idea. Okay, great. it the to me finishing to build a workflow. You should have an idea how much it's going to cost. And then from there you can",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, it's interesting though with what Troy was saying around the Opus agent versus the custom agent.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:33:41",
+      "timestamp_seconds": 2021,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "It seems like probably there's some gaming here where the the more you can get the node to do all together probably the less expensive running the workflow will be. It's an optimization problem, but it's something to think about, right? Like if you can get the node to do 10 10 actions as opposed to one, then you probably you'll pay the you'll pay you'll pay less but we'll focus on that later as a okay so so if we if we land on where Nabil is saying for now and then uh you know can can you guys just chat a little bit about um how people are comparing our costs versus competitor",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "costs",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So uh what Nabil said I think it's definitely one of the feedback that people have addressed about the usage and transparency part. Uh but but the second question uh also is on the actual cost of that execution. So of the of the job. So for example even like one is definitely will be transparent but secondly if running a job is costing almost $.5 for on opus uh versus like less than",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Where are you getting that?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "like uh this is based",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Where where are you getting Where are you getting $2.5 from?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "on assumption that one workflow will contain all the nodes uh that there are",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, but that's a that's a faulty assumption,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "That's that's not a exactly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes, sure. There is a quality assumption. Uh uh like for example yesterday uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "So if it's supposed to assumption, why are we talking about it?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:34:52",
+      "timestamp_seconds": 2092,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "so NA the cost would be definitely more than $.5 like it cannot reach a point of",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "No, you're wrong. You're wrong.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "0.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "You're wrong. You're wrong. You're wrong. You're wrong.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh so uh data I'll share the data and maybe we can have the discussion",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I don't think he was close.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "tomorrow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But the the concern you have is we are we're it looks like our manh hours are charging",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I'm trying to push push it back because it's from the general",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "more than",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "agenda.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "competitors.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "the yesterday",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So if you are running each node in a workflow during a",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "was in the office.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "job will be higher than the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "They they asked us if it's okay for them to increase their size in the same",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Niel,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "elevation.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'm gonna mute you for a second just because it's hard to hear me. Okay. Sorry, Merie. Go ahead. Go ahead. Say it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:35:55",
+      "timestamp_seconds": 2155,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So what I was saying is if we are running a job on Opus and if each job is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "again.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "costing a dollar value inevitably we will be more expensive than any other competitor.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Why?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Like if you're if you're looking at individual node cost here for example opus agent is $1.1 and customer agent is 005 uh zaper and nan are charging the entire workflow at this cost at the cost of that's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "They charge a fixed cost per job.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "is going to drag on you. Where are you getting the costs of of running?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Go ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Because the cost of running a workflow based on what I gave is 04 my numbers. Where are you getting this uh $1 cost from? Then you have",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "This is there in the in the IR sheet only where uh opus agent is costing $.1 and customer agent is costing 005 and uh let me",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:36:39",
+      "timestamp_seconds": 2199,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um, I had a question. Hopefully that can try and maybe we can get to a more clear picture.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "um on the spreadsheet um yeah so some of these uh agents um have in the parenthesis regardless of input type and size um is this in the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "sheet that's a bit weird because uh actual cost will always be affected",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "by token count right so I I want to challenge this assumption uh our actual cost cannot be detached from input type and size at all like it's just not possible because we are paying the AI companies based on the input type and size. Um, and that is what Zapier and N10 are not charging you for, right? Because you bring your own AI, so you're paying for that, which is why their costs look much cheaper because well, the vast majority of the cost is AI. Um, so I think you need to talk to Ya and challenge this assumption or like at least get her thinking on why this says because I'm sure she thought something because this does not uh pass the like the smell test to me.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:37:44",
+      "timestamp_seconds": 2264,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So you're uh saying that the cost will be cheaper than what we are saying here like this this",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "this must have been averaged",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I'm saying that yes, it is averaged out.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "out.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "the actual execution can be much cheaper or much more expensive depending on uh uh what the user has configured u because",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "He's challenging the assumption that it's saying regardless of the input type and size. He's saying it should change based on the input type and",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "yeah so uh I assume that the true cost",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "size.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "here is an average this doesn't mean that every run of opus agent costs us 10 cents it means that on average a run costs us 10 cents some of them could be much",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "But so this only applies to the opus agent node or does it also apply to the other nodes that we",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um from uh what I can see here anything with AI really is fully",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "have?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:38:53",
+      "timestamp_seconds": 2333,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "variable pricing right. So uh decision is also AI. Opus code is not AI. Um execute workflow is not AI. Um human and human review of course is not AI.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Agentic review is. So anything that has token based pricing is these are going to have to be averages.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "so maybe um if I take a step back here so we can conclude what I'm hearing is like three things. The first one is I'm hearing um that different than NN and Zapier, we put the AI in there and so our the way we cost is just more expensive if you if you don't because you're comparing apples to oranges and it's unclear",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "if the user if users understand that point. I think that would be a really interesting clarification to get from your interview later tonight",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes. Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "to understand how she thinks about pricing and then this point from Shia like how do you put that for her and see what she thinks like hey you can build it within but you're bringing your own agent so why is our pricing more expensive or",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "less",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:39:54",
+      "timestamp_seconds": 2394,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So I mean it could still be more expensive but the experiment you will have to run as a consultant is like you use Opus versus you use NA10 for a month and then you compare your NA10 bill plus OpenAI bill versus just the Opus bill and then you have the true picture.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "It could still be higher but I'm saying that that's the correct way to run the experiment.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Is that are you guys clear on this so that you can pitch it to her and ask",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "her?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes. Yes. My my only concern here is that while we will pitch it to her,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "we're not even sure if she took into consideration pricing at all during her experience of building",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "No, but but you're asking less about her experience and you're asking more like,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "hey, we also wanted to get your perspective on pricing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "pricing. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The way we've been pricing is the way we're planning to actually update our pricing is like this. What do you think about that? We're going to make it, you know, unlimit right so that you can pitch her with a future pricing and ask her what she thinks about that as",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:05",
+      "timestamp_seconds": 2465,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "a consultant. Is that is that something that is clear for her or not?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Perfect. Yes, we'll do that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. And then um the second thing I think we're discussing is we are char so because we have more included in our price um in our manh hour price um how what is the way that others are charging they're charging on a per job independent of node or they're charging on a per how heavy the the job",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Also, I'm I'm not sure where this sheet came from, but I have put together a basket size door and then there's a basket",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "um",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "size consumption based on averages both for workflow creation and workflow generation. Is that where this data is coming from?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "yes. So here uh when I had created basket where like one basket contains like",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Because this this she did Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "one generation and sit and open stuff and so on so forth I just taken the",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I think I think uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "unit cost of uh the nodes that's all of each",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "started",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:41:50",
+      "timestamp_seconds": 2510,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "action.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "because something doesn't make sense here to me because those prices you have for generations don't add up to what the number I was taking because the number I was that I remember very clearly was 06 right",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "point. Uh, couldn't hear you. Couldn't hear you. Your voice is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "069 hours for execution.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "breaking.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "What's the average communicator?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Let me ping ya on this. Maybe like she will like she has done this so she'll have a better understand.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I'll I'll do that. uh but in parallel I'm also getting the data of the past uh executions. So how many man hours are people actually consuming while running jobs or building workflows? So we get an idea there and um yeah the next steps are clear.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "so N charges per concurrent execution.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "that's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Can you explain a little bit more on that?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:43:00",
+      "timestamp_seconds": 2580,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Is that's is that the same as will we discuss in terms of jobs?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "That's right. So for example, N8 here uh on the starter plan they say for $24 every month they give you 2.5K executions with unlimited steps.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So once every time when you build a workflow uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "that because for them it doesn't matter because their batteries are not included so they don't care how many steps",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "they have it should be that because like they",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Tra",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "don't whenever they uh use AI uh agent they ask you to put your own credentials and rest of them are just either uh web hooks or integrations uh where again you need to have a separate um uh like year round credentials. So it is just that NAN is bringing all of them together onto into one canvas and making you kind",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yes. No, I get it. My question's specific.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "of",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:44:07",
+      "timestamp_seconds": 2647,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Do is it because for their cost structure it doesn't matter since batteries are not included? Meaning since the agent is not included, they don't care how many steps.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "that's the problem.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "exactly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "We got to get rid of it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay, now we get it. So that's why they can charge for the number of executions because they don't care. It's is of no cost to them to make a workflow have one step or three steps. But for us, it is of cost because our batteries are included.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So, so their marginal cost per node is like approaching zero.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "It's whatever I don't know the cost of electricity that for the server that's it. Uh, but for us like we have to pay OpenAI for every step.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I I want to understand something and this is just from a pure like understanding perspective. If I'm already paying for the LLM separately, like if I'm already paying OpenAI, if I'm already doing that, regardless of whether I'm doing an automation or not,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:45:12",
+      "timestamp_seconds": 2712,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "and then I come on Opus and then I find out I have to pay for built-in AI versus I go on NA10 and I because I'm already paying for an AI tool and then I'm building my automation here and I don't mind sharing my credentials like",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh, no, no,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "what to add for me then.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "no. So, so no, no, no. That assumes that uh AI is uh like you pay $20 and you're done. You're assuming a fixed cost.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "That's my understanding. Yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah. No. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "that's exactly I was okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "on the API, it's always pay as you go. You're paying for every call, right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Got",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Which means that uh yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "if you have if you stopped using any the other day, your open will would go to zero. Open would charge you nothing for that month.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay. Okay. Because I think this this is what I was trying to understand.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So there is no fixed cost. You always have to pay as you go. If you're using the credentials of Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Exactly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "got it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Exactly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:10",
+      "timestamp_seconds": 2770,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Exactly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:42",
+      "timestamp_seconds": 2802,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "my recommendation now given that we got to sort of the root of it is because we are batteries included, I think it's okay for us to have a separate way of calling out our billing. And I think that Bill's point about showcasing within the within the builder the number of manh hours that the current design is about to charge you if you run it that sort of solves the problem. Um if we try to go by number of jobs people are going to map it to this and they're still going to see that we're more expensive.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:42",
+      "timestamp_seconds": 2802,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "You're welcome.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:42",
+      "timestamp_seconds": 2802,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Um I just have one comment on this. I completely agree that we should show them how much how many credits they're consuming let's say by including x amount of nodes but we should still steer away from the terminology of manh hours just because of the amount of confusion it creates. So the word the term manars do we need to include that or not is a separate discussion.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:42",
+      "timestamp_seconds": 2802,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So what is a better terminology?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:46:42",
+      "timestamp_seconds": 2802,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Why don't Why aren't we just sticking to credits or AI credits?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "that that's a fair question. I think uh we we create this cognitive load of having to learn a new concept that exists only on this platform and nowhere else. Uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But just I want to be specific to your feedback because I I think I get where you're coming from which is AR credits is also like a what is AI credits? But the pro the problem with man-hour is that I'm trying to then map it to somebody's job as a manh hour and I can make that leap.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Is that it?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes. Yes. Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And and is the is the logic I know we have an explanation and in documentation of what a manh hour is supposed to be. Is that logic not sound logic worth advertising?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:47:46",
+      "timestamp_seconds": 2866,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "um like if if I if I have to answer this, it looks good with when you're talking to uh CEOs on a or or on a top level vision kind of uh vision kind of level. But when you're talking to consultants who are day in day out working with multiple tools, they just don't buy it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "They don't uh understand as well. That's that's that's a different thing. like when we are having a call with partners as well during IoT sessions they just don't understand the concept even when we explain and and the second thing is uh consultants they are working with other tools so they understand more uh credits jobs these kind of terms more than manas",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "It's interesting because our own uh page for manh hours on the dev documentation doesn't actually explain what the concept means. I think the other page did, right? But",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yep.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "um",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Dev will not explain it because uh it's not strictly speaking relevant on that page. Uh",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "opus.com should have what a manh hour is.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah, it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "uh opus.com does have it.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "does.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh like there's some explanation of the concept. Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Manhour is explained.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:48:46",
+      "timestamp_seconds": 2926,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "A manhour is one hour of competent human work. Opus runs workflows into manhour, automates most of them with agent and it's one competent one hour of competent human work and go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So I can see sorry go ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Go ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "No, you go.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I was saying I can see why Merly's point stands right because like uh for CEOs who are like more detached from the unit productivity of like people lower down the value chain like this this makes sense but then automation consultants might look at it and you know uh view it with skepticism.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, I don't want to create divergent ways of creating AI credits or whatnot across the platform. If C Niel CEOs are taking in manh hours, is that a concept that has proven in sales that we want to continue supporting?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:49:59",
+      "timestamp_seconds": 2999,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I think we need to dissociate the the PLG with the with the enterprise because we're also experimenting a whole bunch of new things. I not particularly married to the main hour concept as long as it's some type of a AI credit, but more and more people are getting used to the idea of the AI credit by the way. And then when we So yeah, I'll leave it at that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:51:00",
+      "timestamp_seconds": 3060,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. So then my recommendation would be I would align with the team. Let's just switch to manhour credits. And that's what we run on our SAS platform is manhour credits",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:51:00",
+      "timestamp_seconds": 3060,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:51:00",
+      "timestamp_seconds": 3060,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "mostly to get out of this. What is a manh hour is an hour of competent human work. Well, I can do this with more competent less competent things. Start judging the hour itself. Right? That that's it's just a labeling problem. Okay. Um, can somebody write up then what we all concluded to me at least it's clear now but I think it seems like we need a few tickets coming out of this right for pricing is be great to get the final pricing columns for what we're looking for. The only area we haven't touched on is did you guys end up mapping out what is the maximum um what is abuse maximums",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:51:00",
+      "timestamp_seconds": 3060,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh so John that uh we haven't done yet. So uh I've asked again like dragging for some data. So once that is done we will know that where are the outliers what are the like power users using and based on that we can come uh agree to a number that beyond this is abuse.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Sorry. You're going to check on what power users are",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "using.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "So when we like once we get the data we see that uh the power users how many uh manavvers are they using uh to either build or run a job and then we add some delta to it and then uh come to a number that if somebody is using number of jobs or manavas per workflow then uh we we call call them",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "out.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I'm just wondering if that's the right way to consider it. Try go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "This is not what I remember from our discussion because uh rate limits apply to things where we don't charge",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "you. When we are charging you, we don't care what the rate limit is because you're being charged.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh for the free stuff.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Amen.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "This is for the workflow generation.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:52:22",
+      "timestamp_seconds": 3142,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes. In in the builder. Yeah. Um but yes, uh M your hunch is right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Go to the back end devs. They will have a good sense of how to rate limit these things uh against like programmatic abuse. This is less a I don't know like a sociological pricing question and more of a technical question. So they will have an idea of how to rate limit it",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "The concern I have though is that if you just go let's say you find some people who are power users and they're",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "correctly.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "blowing through it super high that doesn't and and we are losing money basically. I mean, we could get to a point where we start losing big time if we're just mapping to them or versus also us seeing what is the what is a number",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "then we can",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "that that is the right number for us to max at and not just based on what somebody's",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So, okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:53:10",
+      "timestamp_seconds": 3190,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "using. Because what what we're actually trying to prevent is is someone being so power user hungry that it's it's now generating a huge bill for us with no incremental revenue and they're just running on the trial plan.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:54:05",
+      "timestamp_seconds": 3245,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes, that is true. But uh uh the the the spirit of the plan is that if it's a person doing it, it's fine. The rate limits exist for for example somebody like building a browser automation and clicking on like play play I don't know like a 60 times a minute, right? That is the kind of thing that you want to uh prevent uh scripting and all those kinds of attacks. So, I don't know like if somebody's running like 20 previews in an hour, well, a person could reasonably do it. I don't see that rate limits need to catch it. It's a different question of whether you want to support that or not, but technical rate limits are like more like, you know, like hitting the preview button like 50 times in a minute. Uh there's a",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:54:05",
+      "timestamp_seconds": 3245,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah, but I don't know if the answer is just that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:54:05",
+      "timestamp_seconds": 3245,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "difference.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:54:05",
+      "timestamp_seconds": 3245,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "I think it could be below that. Uh it's probably an in between between so so I just I want to be mindful that it's not just preventing high abuse but like if someone is such a power user at what point is it do we need to say hey you're not paying anything zero we're getting zero dollars from you and if you're using it so so so much to build at some point you should probably move to a pro",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Mhm.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "plan because Again, the whole point of the first column is for you to try. And so, we're happy to have you try, but if you're trying like a power user, I'm almost just wondering like what how many workflows have you built there? None of them are running. Like, what's going",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "The the only issue that I see with that is that it's a little antithetical to the unlimited framing.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "on?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "That's all. Uh then it's not truly unlimited, is it? Um so so yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And I'm I'm I want to have that debate if that's okay or not. Um because unlimited again I think the way I look at the first column is the spirit is",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "for someone to be able to really try the product,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "So, so we can have like a generous free tier.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:55:09",
+      "timestamp_seconds": 3309,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I'm just saying don't call it unlimited. Then we can have like a very generous high rate limit so that anyone is able to try it without having to worry about the the the allocation.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "But if you call it unlimited then it needs to be unlimited for people. Maybe not APIs or systems or attacks but for people it really needs to be truly unlimited if you want to say that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Right. And so what N&NN puts up right now is 50 AI workflow builder",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "But",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "credits. So like 50 is already a bunch. Like for you to just try a product, 50 is a lot,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "right? So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "whatever that number is, I just don't want to go so so complex that all of a sudden we're,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Sorry.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "you know, somebody can run 5,000 and it's like 5,000 just seems over the top even if it's done in a long period of",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "time. Go ahead,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Um,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Morelli.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:56:10",
+      "timestamp_seconds": 3370,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "actually I have a point from from the marketing point of view or from uh just by the looks point of view. Unlimited looks good. unlimited looks more catchy.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh because again like if you say 50 AI credits first time I come I really don't know what does each a credit mean. It could be a lot or it could be nothing but on other flip side if you have unlimited",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "H",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "and uh we have some guardage like uh the kind of users that you're talking about John are mostly outliers and we can uh experiment with these uh uh abuse limits um say like if we take if we take uh a power user or if we if we can take a median number of workflow uh uh manovers that somebody is consuming and Can we uh cap somewhere there? That should definitely help us uh for again from a new user point of view like we from the point that reduce as much friction as possible. When you say unlimited great I don't have any uh anything to worry right",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. What I'm just trying to prevent is you saying who is the biggest power user today.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "now.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:57:08",
+      "timestamp_seconds": 3428,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Oh, it's somebody from First Source who's building thousands of these.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Well, that person should not be in the starter plan. They're not a starter. So there, so there's no point to benchmark to them, right?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Agreed.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "And that we're overly going at the abuse. Like that's at least a pro or business. So So what is the what is a number that is like relatively unlimited for someone who's starting?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay. So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "They'll never hit a wall basically.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "what?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "But it's also not so much that if they are actually building 100 workflows,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "they're never, you know, they should not be hitting this this amount.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Does that make sense?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "that makes sense.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "that makes sense.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So that's why that's why I'm worried. I just don't want us to benchmark on the biggest power user today because that person is not a visitor.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Okay. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Um John uh just a quick question.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:09",
+      "timestamp_seconds": 3489,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I have a uh competitive analysis session with McKenzie u right now but we I see that we also have the uh landing page run through. Can I send you the document this time? I do have a document that you can scroll through. So uh you can take a look at it and give me your thoughts. Uh because I think our time with Mackenzie is also limited. So it' be good like I I do want to prioritize that a little bit.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Okay,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Send it to me. If not,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "John,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "we'll just do that tomorrow.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "you should you should go to John,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "cool.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "if you're available,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Go",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "you should go to the Mackenzie call, too.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "ahead.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I think they're going a run through of like competitor of a competitive analysis.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I think it'll be it'll be useful.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:58:52",
+      "timestamp_seconds": 3532,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Yeah. I'm not in the meeting. Someone send me the invite.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh I will send you the link.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Yeah,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "I'll send you the link.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "sure.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yeah.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Can can you add them to the meeting?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I'm on my phone.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "I I can't add up.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh yes.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nabil Mansouri",
+      "speaker_org": null,
+      "text": "Thank you.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Shaurya Singh",
+      "speaker_org": null,
+      "text": "Uh okay.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. All right. Um, just to close,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Uh yes,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Nasma, can you send me notes on like everything we just aligned on?",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "I'll do that.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "Okay. And then we'll go from there. All right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Perfect.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "So,",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "All",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "tomorrow for closing, let's just close out on a on a proposal for the limit and then just give me the the final kind of layout",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "right.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Jonathan Assayag",
+      "speaker_org": null,
+      "text": "design of what we're thinking of sharing with users.",
+      "has_action_item": false,
+      "has_screen_share": false
+    },
+    {
+      "timestamp": "00:59:29",
+      "timestamp_seconds": 3569,
+      "speaker": "Nazima Piracha",
+      "speaker_org": null,
+      "text": "Yeah. Also, we wanted to discuss on the content bit, but we can maybe do that tomorrow. Uh I've shared uh the sheet on in the group.",
+      "has_action_item": false,
+      "has_screen_share": false
+    }
+  ],
+  "action_items": [],
+  "screen_shares": [],
+  "detected_format": "gemini",
+  "normalization_applied": true,
+  "metadata_source": "parser_title+parser_date+parser_duration"
+}

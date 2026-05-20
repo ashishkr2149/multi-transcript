@@ -9,7 +9,13 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any
 
-from src.config import TOP_K_RESULTS
+from src.config import (
+    PER_MEETING_CHUNKS,
+    RETRIEVAL_OVERSAMPLE,
+    TOP_K_RESULTS,
+)
+from src.retrieval.catalog import TranscriptCatalog
+from src.retrieval.query_router import QueryIntent, QueryPlan
 from src.retrieval.vector_store import TranscriptVectorStore
 
 
@@ -63,6 +69,87 @@ class Retriever:
         raw_results = self._store.query(question=question, top_k=top_k, where=where)
         return [_to_retrieved(r) for r in raw_results]
 
+    def retrieve_diversified(
+        self,
+        question: str,
+        plan: QueryPlan,
+    ) -> list[RetrievedChunk]:
+        """Semantic search with per-transcript caps for broader coverage."""
+        if plan.intent == QueryIntent.INVENTORY or plan.top_k <= 0:
+            return []
+
+        where: dict[str, Any] | None = None
+        if plan.filter_meeting_date:
+            where = {"meeting_date": plan.filter_meeting_date}
+
+        oversample = max(plan.top_k * 2, RETRIEVAL_OVERSAMPLE)
+        candidates = self.retrieve(question=question, top_k=oversample, where=where)
+
+        if not plan.max_chunks_per_transcript:
+            return candidates[: plan.top_k]
+
+        per_tid: dict[str, int] = {}
+        selected: list[RetrievedChunk] = []
+        for chunk in candidates:
+            tid = chunk.transcript_id
+            if not tid:
+                continue
+            count = per_tid.get(tid, 0)
+            if count >= plan.max_chunks_per_transcript:
+                continue
+            selected.append(chunk)
+            per_tid[tid] = count + 1
+            if len(selected) >= plan.top_k:
+                break
+
+        if plan.intent == QueryIntent.PER_MEETING_SUMMARY:
+            selected.sort(key=lambda c: c.meeting_date or c.transcript_id)
+        return selected
+
+    def retrieve_per_transcript(
+        self,
+        question: str,
+        catalog: TranscriptCatalog,
+        chunks_per_meeting: int = PER_MEETING_CHUNKS,
+        filter_meeting_date: str | None = None,
+    ) -> list[RetrievedChunk]:
+        """Fetch top chunks from every indexed transcript (guaranteed coverage)."""
+        all_chunks: list[RetrievedChunk] = []
+        for rec in catalog.list_all():
+            if filter_meeting_date and rec.meeting_date != filter_meeting_date:
+                continue
+            where = {"transcript_id": rec.transcript_id}
+            hits = self.retrieve(
+                question=question,
+                top_k=chunks_per_meeting,
+                where=where,
+            )
+            all_chunks.extend(hits)
+        all_chunks.sort(key=lambda c: (c.meeting_date or "", c.transcript_id))
+        return all_chunks
+
+    def retrieve_for_plan(
+        self,
+        question: str,
+        plan: QueryPlan,
+        catalog: TranscriptCatalog | None = None,
+    ) -> list[RetrievedChunk]:
+        """Dispatch retrieval based on query plan."""
+        catalog = catalog or TranscriptCatalog(store=self._store)
+
+        if plan.intent == QueryIntent.INVENTORY:
+            return []
+
+        if plan.use_per_transcript_retrieval:
+            return self.retrieve_per_transcript(
+                question=question,
+                catalog=catalog,
+                chunks_per_meeting=plan.per_meeting_chunks or PER_MEETING_CHUNKS,
+                filter_meeting_date=plan.filter_meeting_date,
+            )
+
+        return self.retrieve_diversified(question=question, plan=plan)
+
     @staticmethod
     def group_by_transcript(chunks: list[RetrievedChunk]) -> dict[str, list[RetrievedChunk]]:
         """Group retrieved chunks by transcript_id preserving rank order."""
@@ -72,32 +159,50 @@ class Retriever:
         return grouped
 
     @staticmethod
-    def format_context(chunks: list[RetrievedChunk]) -> str:
-        """Build a single context string passed to the LLM.
+    def format_context(
+        chunks: list[RetrievedChunk],
+        catalog_block: str | None = None,
+    ) -> str:
+        """Build context for the LLM with catalog + grouped excerpts."""
+        parts: list[str] = []
 
-        Chunks are grouped by meeting so the LLM can clearly see which facts
-        come from which transcript. Speakers and timestamps are kept inline.
-        """
+        if catalog_block:
+            parts.append(catalog_block.strip())
+            parts.append("")
+
         if not chunks:
+            if catalog_block:
+                parts.append(
+                    "MEETING EXCERPTS (evidence for what was said)\n"
+                    "---------------------------------------------------\n"
+                    "(No additional excerpts retrieved — use INDEXED MEETINGS for counts and dates.)"
+                )
+                return "\n".join(parts).strip()
             return "(No relevant excerpts retrieved.)"
+
+        parts.append("MEETING EXCERPTS (evidence — use for what was said)")
+        parts.append("---------------------------------------------------")
+
         grouped = Retriever.group_by_transcript(chunks)
 
         def _sort_key(item: tuple[str, list[RetrievedChunk]]) -> str:
             return item[1][0].meeting_date or item[0]
 
-        parts: list[str] = []
+        excerpt_parts: list[str] = []
         for tid, group in sorted(grouped.items(), key=_sort_key):
             head = group[0]
-            header = (
-                f"=== Meeting: {head.meeting_title or tid}"
-                f"{' (' + head.meeting_date + ')' if head.meeting_date else ''} ==="
+            title = head.meeting_title or tid
+            date_suffix = f" ({head.meeting_date})" if head.meeting_date else ""
+            excerpt_parts.append(
+                f"=== Meeting: {title}{date_suffix} | transcript_id: {tid} ==="
             )
-            parts.append(header)
-            for chunk in group:
-                parts.append(
-                    f"[Excerpt - {chunk.time_range} | speakers: "
-                    f"{', '.join(chunk.speakers_in_chunk)}]"
+            for idx, chunk in enumerate(group, start=1):
+                excerpt_parts.append(
+                    f"[Excerpt {idx} | chunk_id: {chunk.chunk_id} | {chunk.time_range} | "
+                    f"speakers: {', '.join(chunk.speakers_in_chunk)}]"
                 )
-                parts.append(chunk.text)
-                parts.append("")
+                excerpt_parts.append(chunk.text)
+                excerpt_parts.append("")
+
+        parts.append("\n".join(excerpt_parts).strip())
         return "\n".join(parts).strip()

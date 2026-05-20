@@ -45,6 +45,9 @@ LLM_MODEL=gpt-4o-mini
 CHUNK_SIZE=500
 CHUNK_OVERLAP=50
 TOP_K_RESULTS=12
+MAX_CHUNKS_PER_TRANSCRIPT=3
+PER_MEETING_CHUNKS=2
+RETRIEVAL_OVERSAMPLE=24
 MAX_CHAT_HISTORY=10
 ```
 
@@ -155,25 +158,33 @@ query is enriched with the latest chat turns by
 [`src/chat/memory.py`](src/chat/memory.py) so short follow-ups like "who
 explained it?" actually find ETL-related chunks.
 
-## 8. Tests
+## 8. Accuracy and meeting counts
 
-Lightweight unit tests cover the parser, chunker and attribution heuristic:
+Answers combine an **indexed meeting catalog** (authoritative counts and dates)
+with **retrieved excerpts** (what was said). Inventory and per-meeting summary
+questions use dedicated retrieval strategies so the model does not confuse
+multiple excerpts from one meeting with separate meetings.
+
+After parser updates, re-index from **Admin → Manage & Reindex** so Chroma
+metadata (titles, dates) stays in sync.
+
+## 9. Tests
+
+Lightweight unit tests cover parsing, routing, and validation (no network):
 
 ```bash
-python -m pytest tests -q
-# or run the individual files:
-python -m tests.test_parser
-python -m tests.test_retrieval
+PYTHONPATH=. python tests/test_accuracy.py
+PYTHONPATH=. python tests/test_parser_formats.py
+PYTHONPATH=. python tests/test_parser.py
+PYTHONPATH=. python tests/test_retrieval.py
 ```
 
-These do not hit the network.
-
-## 9. Useful scripts
+## 10. Useful scripts
 
 - `python -m scripts.ingest_transcripts` - parse + chunk + embed + index.
 - `python -m scripts.reset_db` - drop the ChromaDB collection.
 
-## 10. Layout
+## 11. Layout
 
 See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the full design notes,
 data flow and component responsibilities.
@@ -199,10 +210,13 @@ Multi-Transcript-Context/
 │   │   └── service.py              # Reusable ingest/preview/delete API
 │   ├── retrieval/
 │   │   ├── vector_store.py         # ChromaDB wrapper
-│   │   └── retriever.py            # Cross-transcript search + grouping
+│   │   ├── catalog.py              # Authoritative meeting inventory
+│   │   ├── query_router.py         # Intent-based retrieval plans
+│   │   └── retriever.py            # Diversified / per-meeting search
 │   ├── generation/
-│   │   ├── prompts.py              # Standard + attribution prompts
-│   │   └── generator.py            # Retrieve -> prompt -> generate
+│   │   ├── prompts.py              # Grounded standard + attribution prompts
+│   │   ├── validator.py            # Post-answer accuracy checks
+│   │   └── generator.py            # Catalog + retrieve -> prompt -> generate
 │   ├── chat/
 │   │   ├── session.py              # SQLite session/message store
 │   │   └── memory.py               # History + retrieval-query rewriting
@@ -215,11 +229,13 @@ Multi-Transcript-Context/
 │   ├── ingest_transcripts.py
 │   └── reset_db.py
 └── tests/
+    ├── test_accuracy.py
+    ├── test_parser_formats.py
     ├── test_parser.py
     └── test_retrieval.py
 ```
 
-## 11. Design notes for the UI
+## 12. Design notes for the UI
 
 - Theme lives in [`src/ui/theme.py`](src/ui/theme.py). It injects global
   CSS that controls fonts (Inter + JetBrains Mono), the dark gradient
